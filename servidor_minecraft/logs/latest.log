@@ -1,66 +1,24 @@
-[23:36:45] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[23:36:46] [Server thread/INFO]: Loading properties
-[23:36:46] [Server thread/INFO]: Default game type: SURVIVAL
-[23:36:46] [Server thread/INFO]: Generating keypair
-[23:36:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:36:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:36:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:36:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:36:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:36:47] [Server thread/WARN]: Failed to load user banlist: 
-java.io.FileNotFoundException: banned-players.json (No such file or directory)
-	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_442]
-	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_442]
-	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_442]
-	at com.google.common.io.Files.newReader(Files.java:86) ~[guava-17.0.jar:?]
-	at net.minecraft.server.management.UserList.func_152679_g(SourceFile:124) ~[om.class:?]
-	at net.minecraft.server.dedicated.DedicatedPlayerList.func_152620_y(SourceFile:99) [ls.class:?]
-	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(SourceFile:25) [ls.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:211) [lt.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387) [MinecraftServer.class:?]
+[01:03:08] [Server thread/WARN]: Failed to check session lock, aborting
+[01:03:53] [Server thread/WARN]: Failed to check session lock, aborting
+[01:04:38] [Server thread/WARN]: Failed to check session lock, aborting
+[01:05:23] [Server thread/WARN]: Failed to check session lock, aborting
+[01:06:08] [Server thread/WARN]: Failed to check session lock, aborting
+[01:06:53] [Server thread/WARN]: Failed to check session lock, aborting
+[01:06:53] [Server thread/ERROR]: Encountered an unexpected exception
+java.lang.NullPointerException
+	at net.minecraft.world.storage.SaveHandler.func_75754_f(SaveHandler.java:303) ~[ayq.class:?]
+	at net.minecraft.server.management.ServerConfigurationManager.func_72373_m(ServerConfigurationManager.java:966) ~[oi.class:?]
+	at net.minecraft.server.MinecraftServer.func_70000_a(MinecraftServer.java:992) ~[MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_70000_a(DedicatedServer.java:352) ~[lt.class:?]
+	at net.minecraft.profiler.PlayerUsageSnooper.func_76471_b(SourceFile:97) ~[ri.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:585) ~[MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
 	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
-[23:36:47] [Server thread/WARN]: Failed to load ip banlist: 
-java.io.FileNotFoundException: banned-ips.json (No such file or directory)
-	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_442]
-	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_442]
-	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_442]
-	at com.google.common.io.Files.newReader(Files.java:86) ~[guava-17.0.jar:?]
-	at net.minecraft.server.management.UserList.func_152679_g(SourceFile:124) ~[om.class:?]
-	at net.minecraft.server.dedicated.DedicatedPlayerList.func_152619_x(SourceFile:91) [ls.class:?]
-	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(SourceFile:27) [ls.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:211) [lt.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
-[23:36:47] [Server thread/WARN]: Failed to load operators list: 
-java.io.FileNotFoundException: ops.json (No such file or directory)
-	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_442]
-	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_442]
-	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_442]
-	at com.google.common.io.Files.newReader(Files.java:86) ~[guava-17.0.jar:?]
-	at net.minecraft.server.management.UserList.func_152679_g(SourceFile:124) ~[om.class:?]
-	at net.minecraft.server.dedicated.DedicatedPlayerList.func_72417_t(SourceFile:107) [ls.class:?]
-	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(SourceFile:29) [ls.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:211) [lt.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
-[23:36:47] [Server thread/WARN]: Failed to load white-list: 
-java.io.FileNotFoundException: whitelist.json (No such file or directory)
-	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_442]
-	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_442]
-	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_442]
-	at com.google.common.io.Files.newReader(Files.java:86) ~[guava-17.0.jar:?]
-	at net.minecraft.server.management.UserList.func_152679_g(SourceFile:124) ~[om.class:?]
-	at net.minecraft.server.dedicated.DedicatedPlayerList.func_72418_v(SourceFile:123) [ls.class:?]
-	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(SourceFile:30) [ls.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:211) [lt.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
-[23:36:47] [Server thread/INFO]: Preparing level "world"
-[23:36:47] [Server thread/INFO]: Preparing start region for level 0
-[23:36:48] [Server thread/INFO]: Preparing spawn area: 11%
-[23:36:49] [Server thread/INFO]: Preparing spawn area: 25%
-[23:36:50] [Server thread/INFO]: Preparing spawn area: 41%
-[23:36:51] [Server thread/INFO]: Preparing spawn area: 65%
-[23:36:52] [Server thread/INFO]: Preparing spawn area: 87%
-[23:36:53] [Server thread/INFO]: Done (6.090s)! For help, type "help" or "?"
-[23:36:53] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[01:06:53] [Server thread/ERROR]: This crash report has been saved to: /workspaces/minecraft-awcl/servidor_minecraft/./crash-reports/crash-2025-02-12_01.06.53-server.txt
+[01:06:53] [Server thread/INFO]: Stopping server
+[01:06:53] [Server thread/INFO]: Saving players
+[01:06:53] [Server thread/INFO]: Saving worlds
+[01:06:53] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[01:06:53] [Server thread/WARN]: Failed to check session lock, aborting
+[01:06:53] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[01:06:53] [Server thread/INFO]: Saving chunks for level 'world'/The End

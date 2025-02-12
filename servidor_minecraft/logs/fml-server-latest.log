@@ -327,3 +327,431 @@
 [00:55:38] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [00:56:23] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [00:57:08] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:57:53] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:58:38] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[00:59:23] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:00:08] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:00:53] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:01:38] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:02:23] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.io.FileNotFoundException: ./world/DIM-1/data/villages.dat (No such file or directory)
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.open0(Native Method)
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.storage.MapStorage.func_75747_a(SourceFile:92)
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.storage.MapStorage.func_75744_a(SourceFile:75)
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.WorldServerMulti.func_73042_a(WorldServerMulti.java:22)
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:802)
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318)
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:569)
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+[01:03:08] [Server thread/WARN] [FML/]: Unable to write forced chunk data to /workspaces/minecraft-awcl/servidor_minecraft/./world/DIM-1/forcedchunks.dat - chunkloading won't work
+java.io.FileNotFoundException: ./world/DIM-1/forcedchunks.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.open(FileOutputStream.java:270) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162) ~[?:1.8.0_442]
+	at net.minecraft.nbt.CompressedStreamTools.func_74795_b(CompressedStreamTools.java:186) ~[du.class:?]
+	at net.minecraftforge.common.ForgeChunkManager.saveWorld(ForgeChunkManager.java:876) [ForgeChunkManager.class:?]
+	at net.minecraftforge.common.ForgeInternalHandler.onDimensionSave(ForgeInternalHandler.java:70) [ForgeInternalHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_1_ForgeInternalHandler_onDimensionSave_Save.invoke(.dynamic) [?:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54) [ASMEventHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140) [EventBus.class:?]
+	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:810) [mt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:569) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.io.FileNotFoundException: ./world/DIM1/data/villages.dat (No such file or directory)
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.open0(Native Method)
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.storage.MapStorage.func_75747_a(SourceFile:92)
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.storage.MapStorage.func_75744_a(SourceFile:75)
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.WorldServerMulti.func_73042_a(WorldServerMulti.java:22)
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:802)
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318)
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:569)
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+[01:03:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+[01:03:08] [Server thread/WARN] [FML/]: Unable to write forced chunk data to /workspaces/minecraft-awcl/servidor_minecraft/./world/DIM1/forcedchunks.dat - chunkloading won't work
+java.io.FileNotFoundException: ./world/DIM1/forcedchunks.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.open(FileOutputStream.java:270) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162) ~[?:1.8.0_442]
+	at net.minecraft.nbt.CompressedStreamTools.func_74795_b(CompressedStreamTools.java:186) ~[du.class:?]
+	at net.minecraftforge.common.ForgeChunkManager.saveWorld(ForgeChunkManager.java:876) [ForgeChunkManager.class:?]
+	at net.minecraftforge.common.ForgeInternalHandler.onDimensionSave(ForgeInternalHandler.java:70) [ForgeInternalHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_1_ForgeInternalHandler_onDimensionSave_Save.invoke(.dynamic) [?:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54) [ASMEventHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140) [EventBus.class:?]
+	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:810) [mt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:569) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.io.FileNotFoundException: ./world/DIM-1/data/villages.dat (No such file or directory)
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.open0(Native Method)
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.storage.MapStorage.func_75747_a(SourceFile:92)
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.storage.MapStorage.func_75744_a(SourceFile:75)
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.WorldServerMulti.func_73042_a(WorldServerMulti.java:22)
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:802)
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318)
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:569)
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+[01:03:53] [Server thread/WARN] [FML/]: Unable to write forced chunk data to /workspaces/minecraft-awcl/servidor_minecraft/./world/DIM-1/forcedchunks.dat - chunkloading won't work
+java.io.FileNotFoundException: ./world/DIM-1/forcedchunks.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.open(FileOutputStream.java:270) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162) ~[?:1.8.0_442]
+	at net.minecraft.nbt.CompressedStreamTools.func_74795_b(CompressedStreamTools.java:186) ~[du.class:?]
+	at net.minecraftforge.common.ForgeChunkManager.saveWorld(ForgeChunkManager.java:876) [ForgeChunkManager.class:?]
+	at net.minecraftforge.common.ForgeInternalHandler.onDimensionSave(ForgeInternalHandler.java:70) [ForgeInternalHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_1_ForgeInternalHandler_onDimensionSave_Save.invoke(.dynamic) [?:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54) [ASMEventHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140) [EventBus.class:?]
+	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:810) [mt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:569) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.io.FileNotFoundException: ./world/DIM1/data/villages.dat (No such file or directory)
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.open0(Native Method)
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.storage.MapStorage.func_75747_a(SourceFile:92)
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.storage.MapStorage.func_75744_a(SourceFile:75)
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.WorldServerMulti.func_73042_a(WorldServerMulti.java:22)
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:802)
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318)
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:569)
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+[01:03:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+[01:03:53] [Server thread/WARN] [FML/]: Unable to write forced chunk data to /workspaces/minecraft-awcl/servidor_minecraft/./world/DIM1/forcedchunks.dat - chunkloading won't work
+java.io.FileNotFoundException: ./world/DIM1/forcedchunks.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.open(FileOutputStream.java:270) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162) ~[?:1.8.0_442]
+	at net.minecraft.nbt.CompressedStreamTools.func_74795_b(CompressedStreamTools.java:186) ~[du.class:?]
+	at net.minecraftforge.common.ForgeChunkManager.saveWorld(ForgeChunkManager.java:876) [ForgeChunkManager.class:?]
+	at net.minecraftforge.common.ForgeInternalHandler.onDimensionSave(ForgeInternalHandler.java:70) [ForgeInternalHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_1_ForgeInternalHandler_onDimensionSave_Save.invoke(.dynamic) [?:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54) [ASMEventHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140) [EventBus.class:?]
+	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:810) [mt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:569) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.io.FileNotFoundException: ./world/DIM-1/data/villages.dat (No such file or directory)
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.open0(Native Method)
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.storage.MapStorage.func_75747_a(SourceFile:92)
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.storage.MapStorage.func_75744_a(SourceFile:75)
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.WorldServerMulti.func_73042_a(WorldServerMulti.java:22)
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:802)
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318)
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:569)
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+[01:04:38] [Server thread/WARN] [FML/]: Unable to write forced chunk data to /workspaces/minecraft-awcl/servidor_minecraft/./world/DIM-1/forcedchunks.dat - chunkloading won't work
+java.io.FileNotFoundException: ./world/DIM-1/forcedchunks.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.open(FileOutputStream.java:270) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162) ~[?:1.8.0_442]
+	at net.minecraft.nbt.CompressedStreamTools.func_74795_b(CompressedStreamTools.java:186) ~[du.class:?]
+	at net.minecraftforge.common.ForgeChunkManager.saveWorld(ForgeChunkManager.java:876) [ForgeChunkManager.class:?]
+	at net.minecraftforge.common.ForgeInternalHandler.onDimensionSave(ForgeInternalHandler.java:70) [ForgeInternalHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_1_ForgeInternalHandler_onDimensionSave_Save.invoke(.dynamic) [?:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54) [ASMEventHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140) [EventBus.class:?]
+	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:810) [mt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:569) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.io.FileNotFoundException: ./world/DIM1/data/villages.dat (No such file or directory)
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.open0(Native Method)
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.storage.MapStorage.func_75747_a(SourceFile:92)
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.storage.MapStorage.func_75744_a(SourceFile:75)
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.WorldServerMulti.func_73042_a(WorldServerMulti.java:22)
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:802)
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318)
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:569)
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+[01:04:38] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+[01:04:38] [Server thread/WARN] [FML/]: Unable to write forced chunk data to /workspaces/minecraft-awcl/servidor_minecraft/./world/DIM1/forcedchunks.dat - chunkloading won't work
+java.io.FileNotFoundException: ./world/DIM1/forcedchunks.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.open(FileOutputStream.java:270) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162) ~[?:1.8.0_442]
+	at net.minecraft.nbt.CompressedStreamTools.func_74795_b(CompressedStreamTools.java:186) ~[du.class:?]
+	at net.minecraftforge.common.ForgeChunkManager.saveWorld(ForgeChunkManager.java:876) [ForgeChunkManager.class:?]
+	at net.minecraftforge.common.ForgeInternalHandler.onDimensionSave(ForgeInternalHandler.java:70) [ForgeInternalHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_1_ForgeInternalHandler_onDimensionSave_Save.invoke(.dynamic) [?:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54) [ASMEventHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140) [EventBus.class:?]
+	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:810) [mt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:569) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.io.FileNotFoundException: ./world/DIM-1/data/villages.dat (No such file or directory)
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.open0(Native Method)
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.storage.MapStorage.func_75747_a(SourceFile:92)
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.storage.MapStorage.func_75744_a(SourceFile:75)
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.WorldServerMulti.func_73042_a(WorldServerMulti.java:22)
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:802)
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318)
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:569)
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+[01:05:23] [Server thread/WARN] [FML/]: Unable to write forced chunk data to /workspaces/minecraft-awcl/servidor_minecraft/./world/DIM-1/forcedchunks.dat - chunkloading won't work
+java.io.FileNotFoundException: ./world/DIM-1/forcedchunks.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.open(FileOutputStream.java:270) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162) ~[?:1.8.0_442]
+	at net.minecraft.nbt.CompressedStreamTools.func_74795_b(CompressedStreamTools.java:186) ~[du.class:?]
+	at net.minecraftforge.common.ForgeChunkManager.saveWorld(ForgeChunkManager.java:876) [ForgeChunkManager.class:?]
+	at net.minecraftforge.common.ForgeInternalHandler.onDimensionSave(ForgeInternalHandler.java:70) [ForgeInternalHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_1_ForgeInternalHandler_onDimensionSave_Save.invoke(.dynamic) [?:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54) [ASMEventHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140) [EventBus.class:?]
+	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:810) [mt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:569) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.io.FileNotFoundException: ./world/DIM1/data/villages.dat (No such file or directory)
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.open0(Native Method)
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.storage.MapStorage.func_75747_a(SourceFile:92)
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.storage.MapStorage.func_75744_a(SourceFile:75)
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.WorldServerMulti.func_73042_a(WorldServerMulti.java:22)
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:802)
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318)
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:569)
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+[01:05:23] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+[01:05:23] [Server thread/WARN] [FML/]: Unable to write forced chunk data to /workspaces/minecraft-awcl/servidor_minecraft/./world/DIM1/forcedchunks.dat - chunkloading won't work
+java.io.FileNotFoundException: ./world/DIM1/forcedchunks.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.open(FileOutputStream.java:270) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162) ~[?:1.8.0_442]
+	at net.minecraft.nbt.CompressedStreamTools.func_74795_b(CompressedStreamTools.java:186) ~[du.class:?]
+	at net.minecraftforge.common.ForgeChunkManager.saveWorld(ForgeChunkManager.java:876) [ForgeChunkManager.class:?]
+	at net.minecraftforge.common.ForgeInternalHandler.onDimensionSave(ForgeInternalHandler.java:70) [ForgeInternalHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_1_ForgeInternalHandler_onDimensionSave_Save.invoke(.dynamic) [?:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54) [ASMEventHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140) [EventBus.class:?]
+	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:810) [mt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:569) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.io.FileNotFoundException: ./world/DIM-1/data/villages.dat (No such file or directory)
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.open0(Native Method)
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.storage.MapStorage.func_75747_a(SourceFile:92)
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.storage.MapStorage.func_75744_a(SourceFile:75)
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.WorldServerMulti.func_73042_a(WorldServerMulti.java:22)
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:802)
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318)
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:569)
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+[01:06:08] [Server thread/WARN] [FML/]: Unable to write forced chunk data to /workspaces/minecraft-awcl/servidor_minecraft/./world/DIM-1/forcedchunks.dat - chunkloading won't work
+java.io.FileNotFoundException: ./world/DIM-1/forcedchunks.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.open(FileOutputStream.java:270) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162) ~[?:1.8.0_442]
+	at net.minecraft.nbt.CompressedStreamTools.func_74795_b(CompressedStreamTools.java:186) ~[du.class:?]
+	at net.minecraftforge.common.ForgeChunkManager.saveWorld(ForgeChunkManager.java:876) [ForgeChunkManager.class:?]
+	at net.minecraftforge.common.ForgeInternalHandler.onDimensionSave(ForgeInternalHandler.java:70) [ForgeInternalHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_1_ForgeInternalHandler_onDimensionSave_Save.invoke(.dynamic) [?:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54) [ASMEventHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140) [EventBus.class:?]
+	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:810) [mt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:569) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.io.FileNotFoundException: ./world/DIM1/data/villages.dat (No such file or directory)
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.open0(Native Method)
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.storage.MapStorage.func_75747_a(SourceFile:92)
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.storage.MapStorage.func_75744_a(SourceFile:75)
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.WorldServerMulti.func_73042_a(WorldServerMulti.java:22)
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:802)
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318)
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:569)
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+[01:06:08] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+[01:06:08] [Server thread/WARN] [FML/]: Unable to write forced chunk data to /workspaces/minecraft-awcl/servidor_minecraft/./world/DIM1/forcedchunks.dat - chunkloading won't work
+java.io.FileNotFoundException: ./world/DIM1/forcedchunks.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.open(FileOutputStream.java:270) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162) ~[?:1.8.0_442]
+	at net.minecraft.nbt.CompressedStreamTools.func_74795_b(CompressedStreamTools.java:186) ~[du.class:?]
+	at net.minecraftforge.common.ForgeChunkManager.saveWorld(ForgeChunkManager.java:876) [ForgeChunkManager.class:?]
+	at net.minecraftforge.common.ForgeInternalHandler.onDimensionSave(ForgeInternalHandler.java:70) [ForgeInternalHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_1_ForgeInternalHandler_onDimensionSave_Save.invoke(.dynamic) [?:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54) [ASMEventHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140) [EventBus.class:?]
+	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:810) [mt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:569) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.io.FileNotFoundException: ./world/DIM-1/data/villages.dat (No such file or directory)
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.open0(Native Method)
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.storage.MapStorage.func_75747_a(SourceFile:92)
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.storage.MapStorage.func_75744_a(SourceFile:75)
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.WorldServerMulti.func_73042_a(WorldServerMulti.java:22)
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:802)
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318)
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:569)
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+[01:06:53] [Server thread/WARN] [FML/]: Unable to write forced chunk data to /workspaces/minecraft-awcl/servidor_minecraft/./world/DIM-1/forcedchunks.dat - chunkloading won't work
+java.io.FileNotFoundException: ./world/DIM-1/forcedchunks.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.open(FileOutputStream.java:270) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162) ~[?:1.8.0_442]
+	at net.minecraft.nbt.CompressedStreamTools.func_74795_b(CompressedStreamTools.java:186) ~[du.class:?]
+	at net.minecraftforge.common.ForgeChunkManager.saveWorld(ForgeChunkManager.java:876) [ForgeChunkManager.class:?]
+	at net.minecraftforge.common.ForgeInternalHandler.onDimensionSave(ForgeInternalHandler.java:70) [ForgeInternalHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_1_ForgeInternalHandler_onDimensionSave_Save.invoke(.dynamic) [?:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54) [ASMEventHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140) [EventBus.class:?]
+	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:810) [mt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:569) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.io.FileNotFoundException: ./world/DIM1/data/villages.dat (No such file or directory)
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.open0(Native Method)
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.storage.MapStorage.func_75747_a(SourceFile:92)
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.storage.MapStorage.func_75744_a(SourceFile:75)
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.WorldServerMulti.func_73042_a(WorldServerMulti.java:22)
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:802)
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318)
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:569)
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+[01:06:53] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+[01:06:53] [Server thread/WARN] [FML/]: Unable to write forced chunk data to /workspaces/minecraft-awcl/servidor_minecraft/./world/DIM1/forcedchunks.dat - chunkloading won't work
+java.io.FileNotFoundException: ./world/DIM1/forcedchunks.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.open(FileOutputStream.java:270) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162) ~[?:1.8.0_442]
+	at net.minecraft.nbt.CompressedStreamTools.func_74795_b(CompressedStreamTools.java:186) ~[du.class:?]
+	at net.minecraftforge.common.ForgeChunkManager.saveWorld(ForgeChunkManager.java:876) [ForgeChunkManager.class:?]
+	at net.minecraftforge.common.ForgeInternalHandler.onDimensionSave(ForgeInternalHandler.java:70) [ForgeInternalHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_1_ForgeInternalHandler_onDimensionSave_Save.invoke(.dynamic) [?:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54) [ASMEventHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140) [EventBus.class:?]
+	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:810) [mt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:569) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+[01:06:53] [Server thread/WARN] [FML/]: Unable to write forced chunk data to /workspaces/minecraft-awcl/servidor_minecraft/./world/DIM-1/forcedchunks.dat - chunkloading won't work
+java.io.FileNotFoundException: ./world/DIM-1/forcedchunks.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.open(FileOutputStream.java:270) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162) ~[?:1.8.0_442]
+	at net.minecraft.nbt.CompressedStreamTools.func_74795_b(CompressedStreamTools.java:186) ~[du.class:?]
+	at net.minecraftforge.common.ForgeChunkManager.saveWorld(ForgeChunkManager.java:876) [ForgeChunkManager.class:?]
+	at net.minecraftforge.common.ForgeInternalHandler.onDimensionSave(ForgeInternalHandler.java:70) [ForgeInternalHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_1_ForgeInternalHandler_onDimensionSave_Save.invoke(.dynamic) [?:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54) [ASMEventHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140) [EventBus.class:?]
+	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:810) [mt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:350) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:480) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+[01:06:53] [Server thread/WARN] [FML/]: Unable to write forced chunk data to /workspaces/minecraft-awcl/servidor_minecraft/./world/DIM1/forcedchunks.dat - chunkloading won't work
+java.io.FileNotFoundException: ./world/DIM1/forcedchunks.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.open(FileOutputStream.java:270) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213) ~[?:1.8.0_442]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162) ~[?:1.8.0_442]
+	at net.minecraft.nbt.CompressedStreamTools.func_74795_b(CompressedStreamTools.java:186) ~[du.class:?]
+	at net.minecraftforge.common.ForgeChunkManager.saveWorld(ForgeChunkManager.java:876) [ForgeChunkManager.class:?]
+	at net.minecraftforge.common.ForgeInternalHandler.onDimensionSave(ForgeInternalHandler.java:70) [ForgeInternalHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_1_ForgeInternalHandler_onDimensionSave_Save.invoke(.dynamic) [?:?]
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54) [ASMEventHandler.class:?]
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140) [EventBus.class:?]
+	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:810) [mt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:350) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:480) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+[01:06:53] [Server thread/INFO] [FML/]: Unloading dimension 0
+[01:06:53] [Server thread/INFO] [FML/]: Unloading dimension -1
+[01:06:53] [Server thread/INFO] [FML/]: Unloading dimension 1
+[01:06:53] [Server thread/DEBUG] [FML/]: Reverting to frozen data state.
+[01:06:53] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
+[01:06:53] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
+[01:06:53] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.000s
+[01:06:53] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
+[01:06:53] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
+[01:06:53] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[01:06:53] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
+[01:06:53] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
+[01:06:53] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.001s
+[01:06:53] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.002s
+[01:06:53] [Server thread/INFO] [FML/]: Applying holder lookups
+[01:06:53] [Server thread/INFO] [FML/]: Holder lookups applied
+[01:06:53] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
+[01:06:53] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp
+[01:06:53] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.001s
+[01:06:53] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppedEvent to mod FML
+[01:06:53] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppedEvent to mod FML
+[01:06:53] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[01:06:53] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppedEvent to mod Forge
+[01:06:53] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppedEvent to mod Forge
+[01:06:53] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[01:06:53] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopped took 0.002s
+[01:06:53] [Server thread/INFO] [FML/]: The state engine was in incorrect state SERVER_STOPPING and forced into state SERVER_STOPPED. Errors may have been discarded.
