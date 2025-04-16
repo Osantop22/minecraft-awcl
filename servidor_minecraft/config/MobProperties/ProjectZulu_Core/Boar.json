@@ -1,0 +1,17 @@
+{
+  "_name": "ProjectZulu|Core.Boar",
+  "drops": [
+    {
+      "function": "add",
+      "id": "minecraft:porkchop",
+      "count": 1.5
+    },
+    {
+      "function": "add",
+      "id": "harvestcraft:hardenedleatherItem",
+      "count": 0.5
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

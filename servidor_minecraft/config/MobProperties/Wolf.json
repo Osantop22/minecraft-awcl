@@ -1,0 +1,62 @@
+{
+  "_name": "Wolf",
+  "drops": [
+    {
+      "function": "default",
+      "value": "false"
+    },
+    {
+      "_comment": "COMMON DROPS",
+      "function": "choose",
+      "functions": [
+        {
+          "weight": 5,
+          "function": "add",
+          "id": "minecraft:experience_bottle",
+          "count": 0.02
+        },
+        {
+          "weight": 1,
+          "function": "add",
+          "id": "Thaumcraft:ItemResource",
+          "damage": 9,
+          "count": 0.01
+        },
+        {
+          "weight": 10,
+          "function": "add",
+          "id": "minecraft:bone",
+          "count": 0.25
+        }
+      ]
+    },
+    {
+      "_comment": "MOB SPECIFIC DROPS",
+      "function": "choose",
+      "functions": [
+        {
+          "weight": 5,
+          "function": "add",
+          "id": "WitchingGadgets:item.WG_Material",
+          "damage": 6,
+          "count": 0.5
+        },
+        {
+          "weight": 1,
+          "function": "add",
+          "id": "WitchingGadgets:item.WG_Material",
+          "damage": 6,
+          "count": 2
+        },
+        {
+          "function": "add",
+          "id": "awakeningmeat:wolf_raw",
+          "damage": 0,
+          "count": 0.25
+        }
+      ]
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

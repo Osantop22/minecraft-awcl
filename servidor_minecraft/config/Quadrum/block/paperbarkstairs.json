@@ -1,0 +1,11 @@
+{
+   "name":"paperbarkstairs",
+   "default-texture":"paperbarkstairs",
+   "material":"wood",
+   "hardness":1,
+   "type":"stair",
+   "drops-self":"true",
+   "flammable":"true",
+   "requires-tool":"false",
+   "ore_dictionary":"stairsWood"
+}

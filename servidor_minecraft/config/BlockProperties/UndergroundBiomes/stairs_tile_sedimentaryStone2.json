@@ -1,0 +1,16 @@
+{
+  "_name": "UndergroundBiomes:stairs.tile.sedimentaryStone2",
+  "stats": {
+    "opacity": 1,
+    "brightness": 0,
+    "hardness": 2.25,
+    "resistance": 9.96,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

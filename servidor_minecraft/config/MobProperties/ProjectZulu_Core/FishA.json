@@ -1,0 +1,12 @@
+{
+  "_name": "ProjectZulu|Core.FishA",
+  "drops": [
+    {
+      "function": "add",
+      "id": "minecraft:fish",
+      "count": 1.0
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

@@ -1,0 +1,23 @@
+{
+  "_name": "ProjectZulu|Core.Rhino",
+  "drops": [
+    {
+      "function": "add",
+      "id": "minecraft:bone",
+      "count": 1.0
+    },
+    {
+      "function": "add",
+      "id": "harvestcraft:hardenedleatherItem",
+      "count": 3.8
+    },
+    {
+      "function": "add",
+      "id": "awakeningmeat:rhino_raw",
+      "damage": 0,
+      "count": 0.25
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

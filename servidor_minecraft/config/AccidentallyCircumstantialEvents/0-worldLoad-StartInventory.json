@@ -1,0 +1,102 @@
+{
+  "events": [
+    {
+      "event_type": "JOIN_WORLD",
+      "target": "ALL_PLAYERS",
+      "noDeathDim": "true",
+      "joinOneEver": "true",
+      "tasks": [
+        {
+          "task_type": "INVENTORY_ADD",
+          "target_type": "SELF",
+          "target": "",
+          "modid": "TConstruct",
+          "name": "broadsword",
+          "meta": "0",
+          "count": "1",
+          "nbt": "{InfiTool:{BaseDurability:48,Head:0,BaseAttack:5,ToolEXP:0L,Built:1b,HarvestLevel:0,Attack:5,RenderHead:0,ModDurability:0.0f,Handle:0,Broken:0b,Shoddy:0.0f,RenderHandle:0,Accessory:0,MiningSpeed:150,RenderAccessory:0,ToolLevel:1,Unbreaking:0,Damage:0,BonusDurability:0,TotalDurability:48,Modifiers:0},display:{Name:\"Wooden Broadsword\"}}"
+        },
+        {
+          "task_type": "INVENTORY_ADD",
+          "target_type": "SELF",
+          "target": "",
+          "modid": "TConstruct",
+          "name": "pickaxe",
+          "meta": "0",
+          "count": "1",
+          "nbt": "{InfiTool:{BaseDurability:40,Head:0,BaseAttack:2,ToolEXP:0L,Built:1b,HarvestLevel:0,Attack:2,RenderHead:0,ModDurability:0.0f,Handle:0,Broken:0b,Shoddy:0.0f,RenderHandle:0,Accessory:0,MiningSpeed:150,RenderAccessory:0,ToolLevel:1,Unbreaking:0,Damage:0,BonusDurability:0,TotalDurability:40,Modifiers:0},display:{Name:\"Wooden Pickaxe\"}}"
+        },
+        {
+          "task_type": "INVENTORY_ADD",
+          "target_type": "SELF",
+          "target": "",
+          "modid": "TConstruct",
+          "name": "hatchet",
+          "meta": "0",
+          "count": "1",
+          "nbt": "{InfiTool:{BaseDurability:40,Head:0,BaseAttack:4,ToolEXP:0L,Built:1b,HarvestLevel:0,Attack:4,RenderHead:0,ModDurability:0.0f,Handle:0,Broken:0b,Shoddy:0.0f,RenderHandle:0,MiningSpeed:150,ToolLevel:1,Unbreaking:0,Damage:0,BonusDurability:0,TotalDurability:40,Modifiers:0},display:{Name:\"Wooden Hatchet\"}}"
+        },
+        {
+          "task_type": "INVENTORY_ADD",
+          "target_type": "SELF",
+          "target": "",
+          "modid": "BiomesOPlenty",
+          "name": "driedDirt",
+          "meta": "0",
+          "count": "64"
+        },
+        {
+          "task_type": "INVENTORY_ADD",
+          "target_type": "SELF",
+          "target": "",
+          "modid": "Botania",
+          "name": "brewVial",
+          "meta": "0",
+          "count": "1",
+          "nbt": "{brewKey:healing}"
+        },
+        {
+          "task_type": "INVENTORY_ADD",
+          "target_type": "SELF",
+          "target": "",
+          "modid": "harvestcraft",
+          "name": "pizzaItem",
+          "meta": "0",
+          "count": "1"
+        },
+        {
+          "task_type": "INVENTORY_ADD",
+          "target_type": "SELF",
+          "target": "",
+          "modid": "Botania",
+          "name": "fertilizer",
+          "meta": "0",
+          "count": "4"
+        },
+        {
+          "task_type": "INVENTORY_ADD",
+          "target_type": "SELF",
+          "target": "",
+          "modid": "HardcoreQuesting",
+          "name": "quest_book",
+          "meta": "0",
+          "count": "1"
+        },
+        {
+          "task_type": "INVENTORY_ADD",
+          "target_type": "SELF",
+          "target": "",
+          "modid": "harvestcraft",
+          "name": "pamcandleDeco1",
+          "meta": "0",
+          "count": "10"
+        },
+        {
+          "task_type": "COMMAND",
+          "command": "/effect @p 11 300 255 true",
+          "ignorePrivilages": "true"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "_name": "chancecubes:Chance_Icosahedron",
+  "stats": {
+    "opacity": 0,
+    "brightness": 7,
+    "hardness": -1.0,
+    "resistance": 2.5,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

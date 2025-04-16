@@ -1,0 +1,21 @@
+{
+  "ident": "(32740c9c-bbe2-3308-a4da-11e91b8f8ca3|osantop2)",
+  "lastTeleportOrigin": {
+    "dim": 0,
+    "pitch": 5.3565693,
+    "yaw": -97.92316,
+    "xd": -13.53017675765842,
+    "yd": 70.0,
+    "zd": -89.74095330625678
+  },
+  "lastTeleportTime": 1729218402477,
+  "selDim": 0,
+  "inventoryGroups": {},
+  "modInventoryGroups": {},
+  "activeInventoryGroup": "default",
+  "timePlayed": 121322316,
+  "firstLogin": "Aug 25, 2024 4:52:14 PM",
+  "lastLogin": "Dec 29, 2024 8:03:02 PM",
+  "lastLogout": "Dec 29, 2024 8:09:38 PM",
+  "namedTimeout": {}
+}

@@ -1,0 +1,6 @@
+{WitchingGadgets:[
+{hide:[[WG_CustomAir],[*],[*]]},
+{hide:[[item.WG_ThaumiumShears],[*],[*]]},
+{hide:[[item.WG_CrystalFlask],[0],[*fluid*]]},
+{hide:[[item.WG_Material],[8],[*]]},
+]}

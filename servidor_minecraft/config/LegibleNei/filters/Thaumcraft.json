@@ -1,0 +1,15 @@
+{Thaumcraft:[
+{hide:[[ItemThaumonomicon],[42],[*]]},
+{hide:[[blockMagicBox],[*],[*]]},
+{hide:[[ItemResearchNotes],[*],[*]]},
+{hide:[[blockManaPod],[*],[*]]},
+{hide:[[blockArcaneFurnace],[*],[*]]},
+{hide:[[blockWarded],[*],[*]]},
+{hide:[[blockHole],[*],[*]]},
+{hide:[[blockPortalEldritch],[*],[*]]},
+{hide:[[blockEldritchNothing],[*],[*]]},
+{hide:[[blockLoot],[*],[*]]},
+{hide:[[*DoubleSlab*],[*],[*]]},
+{hide:[[ItemSpawnerEgg],[0-28],[*]]},
+{keep:[[ItemNugget],[5,21,6,7,16,31,17,18,19,20],[*]]},
+]}

@@ -1,0 +1,10 @@
+{
+   "name":"deadplanks",
+   "default-texture":"deadplanks",
+   "material":"wood",
+   "hardness":1,
+   "drops-self":"true",
+   "flammable":"true",
+   "requires-tool":"false",
+   "ore_dictionary":"plankWood"
+}

@@ -1,0 +1,22 @@
+{
+  "_name": "ProjectZulu|Core.TreeEnt",
+  "drops": [
+    {
+      "function": "add",
+      "id": "minecraft:log",
+      "count": 3.5
+    },
+    {
+      "function": "add",
+      "id": "minecraft:stick",
+      "count": 0.25
+    },
+    {
+      "function": "add",
+      "id": "magicalcrops:NatureEssence",
+      "count": 0.2
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

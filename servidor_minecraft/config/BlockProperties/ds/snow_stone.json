@@ -1,0 +1,33 @@
+{
+  "_name": "ds:snow_stone",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "hardness": 1.5,
+    "resistance": 7.5,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed":[
+
+   ],
+   "drops":[
+      {
+         "function":"default",
+         "value":"false"
+      },
+      {
+         "function":"add",
+         "id":"ds:snow_cobblestone",
+         "damage":0,
+         "count":1
+      }
+   ],
+   "harvest":[
+
+   ],
+   "xp":[
+
+   ]
+}

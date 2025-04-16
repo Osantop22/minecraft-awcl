@@ -1,0 +1,904 @@
+{
+  "-1": {
+    "clearFirst": true,
+    "remove": [],
+    "add": [
+      {
+        "buying1": {
+          "item": "Quadrum:coinsilver",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinbronze",
+          "meta": 0,
+          "maxStacksize": 6,
+          "minStacksize": 6,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "ActuallyAdditions:itemHelmObsidian",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coinsilver",
+          "meta": 0,
+          "maxStacksize": 2,
+          "minStacksize": 2,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinbronze",
+          "meta": 0,
+          "maxStacksize": 6,
+          "minStacksize": 6,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "ActuallyAdditions:itemChestObsidian",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coinsilver",
+          "meta": 0,
+          "maxStacksize": 2,
+          "minStacksize": 2,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinbronze",
+          "meta": 0,
+          "maxStacksize": 2,
+          "minStacksize": 2,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "ActuallyAdditions:itemPantsObsidian",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coinsilver",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinbronze",
+          "meta": 0,
+          "maxStacksize": 3,
+          "minStacksize": 3,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "ActuallyAdditions:itemBootsObsidian",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coingold",
+          "meta": 0,
+          "maxStacksize": 2,
+          "minStacksize": 2,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinsilver",
+          "meta": 0,
+          "maxStacksize": 6,
+          "minStacksize": 6,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "ActuallyAdditions:blockGreenhouseGlass",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coingold",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinsilver",
+          "meta": 0,
+          "maxStacksize": 5,
+          "minStacksize": 5,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "ActuallyAdditions:blockBreaker",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coingold",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinsilver",
+          "meta": 0,
+          "maxStacksize": 5,
+          "minStacksize": 5,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "ActuallyAdditions:blockPlacer",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coingold",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinsilver",
+          "meta": 0,
+          "maxStacksize": 6,
+          "minStacksize": 6,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "ActuallyAdditions:blockDropper",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coingold",
+          "meta": 0,
+          "maxStacksize": 32,
+          "minStacksize": 32,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinsilver",
+          "meta": 0,
+          "maxStacksize": 2,
+          "minStacksize": 2,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "ActuallyAdditions:blockPhantomface",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coingold",
+          "meta": 0,
+          "maxStacksize": 45,
+          "minStacksize": 45,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinsilver",
+          "meta": 0,
+          "maxStacksize": 3,
+          "minStacksize": 3,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "ActuallyAdditions:blockPhantomPlacer",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coingold",
+          "meta": 0,
+          "maxStacksize": 34,
+          "minStacksize": 34,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinsilver",
+          "meta": 0,
+          "maxStacksize": 8,
+          "minStacksize": 8,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "ActuallyAdditions:blockPhantomLiquiface",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coingold",
+          "meta": 0,
+          "maxStacksize": 32,
+          "minStacksize": 32,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinsilver",
+          "meta": 0,
+          "maxStacksize": 7,
+          "minStacksize": 7,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "ActuallyAdditions:blockPhantomEnergyface",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coingold",
+          "meta": 0,
+          "maxStacksize": 45,
+          "minStacksize": 45,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinsilver",
+          "meta": 0,
+          "maxStacksize": 3,
+          "minStacksize": 3,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "ActuallyAdditions:blockPhantomBreaker",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coingold",
+          "meta": 0,
+          "maxStacksize": 59,
+          "minStacksize": 59,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinsilver",
+          "meta": 0,
+          "maxStacksize": 4,
+          "minStacksize": 4,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "ActuallyAdditions:blockPhantomBooster",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coingold",
+          "meta": 0,
+          "maxStacksize": 4,
+          "minStacksize": 4,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinsilver",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "ActuallyAdditions:itemPhantomConnector",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coingold",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinsilver",
+          "meta": 0,
+          "maxStacksize": 4,
+          "minStacksize": 4,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "ae2stuff:Encoder",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coingold",
+          "meta": 0,
+          "maxStacksize": 32,
+          "minStacksize": 32,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "ae2stuff:Grower",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coingold",
+          "meta": 0,
+          "maxStacksize": 14,
+          "minStacksize": 14,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinsilver",
+          "meta": 0,
+          "maxStacksize": 5,
+          "minStacksize": 5,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "ae2stuff:WirelessKit",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coinbronze",
+          "meta": 0,
+          "maxStacksize": 3,
+          "minStacksize": 3,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "dendrology:logs0",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coinbronze",
+          "meta": 0,
+          "maxStacksize": 3,
+          "minStacksize": 3,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "dendrology:logs0",
+          "meta": 1,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coinbronze",
+          "meta": 0,
+          "maxStacksize": 3,
+          "minStacksize": 3,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "dendrology:logs0",
+          "meta": 2,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coinbronze",
+          "meta": 0,
+          "maxStacksize": 3,
+          "minStacksize": 3,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "dendrology:logs0",
+          "meta": 3,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coinbronze",
+          "meta": 0,
+          "maxStacksize": 3,
+          "minStacksize": 3,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "dendrology:logs1",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coinbronze",
+          "meta": 0,
+          "maxStacksize": 3,
+          "minStacksize": 3,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "dendrology:logs1",
+          "meta": 1,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coinbronze",
+          "meta": 0,
+          "maxStacksize": 3,
+          "minStacksize": 3,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "dendrology:logs1",
+          "meta": 2,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coinbronze",
+          "meta": 0,
+          "maxStacksize": 3,
+          "minStacksize": 3,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "dendrology:logs1",
+          "meta": 3,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coinbronze",
+          "meta": 0,
+          "maxStacksize": 3,
+          "minStacksize": 3,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "dendrology:logs2",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coinbronze",
+          "meta": 0,
+          "maxStacksize": 3,
+          "minStacksize": 3,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "dendrology:logs2",
+          "meta": 1,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coinbronze",
+          "meta": 0,
+          "maxStacksize": 3,
+          "minStacksize": 3,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "dendrology:logs2",
+          "meta": 2,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coinbronze",
+          "meta": 0,
+          "maxStacksize": 3,
+          "minStacksize": 3,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "dendrology:logs2",
+          "meta": 3,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coinbronze",
+          "meta": 0,
+          "maxStacksize": 3,
+          "minStacksize": 3,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "dendrology:logs3",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coinbronze",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "betterbuilderswands:wandStone",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coinsilver",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinbronze",
+          "meta": 0,
+          "maxStacksize": 4,
+          "minStacksize": 4,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "betterbuilderswands:wandIron",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coingold",
+          "meta": 0,
+          "maxStacksize": 2,
+          "minStacksize": 2,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinbronze",
+          "meta": 0,
+          "maxStacksize": 6,
+          "minStacksize": 6,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "betterbuilderswands:wandDiamond",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coingold",
+          "meta": 0,
+          "maxStacksize": 9,
+          "minStacksize": 9,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinsilver",
+          "meta": 0,
+          "maxStacksize": 2,
+          "minStacksize": 2,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "barkifier:barkifier",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coinbronze",
+          "meta": 0,
+          "maxStacksize": 2,
+          "minStacksize": 2,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "ChestTransporter:chesttransporter",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coinsilver",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinbronze",
+          "meta": 0,
+          "maxStacksize": 5,
+          "minStacksize": 5,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "ChestTransporter:chesttransporter_iron",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coingold",
+          "meta": 0,
+          "maxStacksize": 2,
+          "minStacksize": 2,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinbronze",
+          "meta": 0,
+          "maxStacksize": 7,
+          "minStacksize": 7,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "ChestTransporter:chesttransporter_gold",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coingold",
+          "meta": 0,
+          "maxStacksize": 2,
+          "minStacksize": 2,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinbronze",
+          "meta": 0,
+          "maxStacksize": 7,
+          "minStacksize": 7,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "ChestTransporter:chesttransporter_diamond",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coingold",
+          "meta": 0,
+          "maxStacksize": 3,
+          "minStacksize": 3,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinsilver",
+          "meta": 0,
+          "maxStacksize": 6,
+          "minStacksize": 6,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "OpenBlocks:builder_guide",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coingold",
+          "meta": 0,
+          "maxStacksize": 22,
+          "minStacksize": 22,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinsilver",
+          "meta": 0,
+          "maxStacksize": 9,
+          "minStacksize": 9,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "EnderIO:blockTelePad",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      },
+      {
+        "buying1": {
+          "item": "Quadrum:coingold",
+          "meta": 0,
+          "maxStacksize": 26,
+          "minStacksize": 26,
+          "anyTag": false
+        },
+        "buying2": {
+          "item": "Quadrum:coinsilver",
+          "meta": 0,
+          "maxStacksize": 10,
+          "minStacksize": 10,
+          "anyTag": false
+        },
+        "selling": {
+          "item": "compacter:Compacter",
+          "meta": 0,
+          "maxStacksize": 1,
+          "minStacksize": 1,
+          "anyTag": false
+        },
+        "chance": 1.0
+      }
+    ]
+  }
+}

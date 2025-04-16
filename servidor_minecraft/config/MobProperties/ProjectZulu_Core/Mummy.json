@@ -1,0 +1,12 @@
+{
+  "_name": "ProjectZulu|Core.Mummy",
+  "drops": [
+    {
+      "function": "add",
+      "id": "minecraft:gold_ingot",
+      "count": 0.2
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

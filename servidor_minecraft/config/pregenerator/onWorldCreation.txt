@@ -1,0 +1,3 @@
+startradius Circle s s 25 0
+startradius Circle s s 10 -1
+startradius Circle s s 5 1

@@ -1,0 +1,6 @@
+{thaumicenergistics:[
+{hide:[[material],[0-1],[*]]},
+{hide:[[storage.essentia],[0-4],[*]]},
+{hide:[[wireless.essentia.terminal],[*],[*Power*]]},
+{hide:[[*vibration*],[0],[*]]},
+]}

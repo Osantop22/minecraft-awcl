@@ -1,0 +1,17 @@
+{
+  "events": [
+    {
+      "event_type": "JOIN_WORLD",
+      "target": "ALL_PLAYERS",
+      "noDeathDim": "true",
+      "joinOneEver": "false",
+      "tasks": [
+        {
+          "task_type": "CHAT",
+          "receiver_type": "SELF",
+          "message": "\u00A7f>>> Support development of \u00A75Awakening\u00A7r - Become a Patreon: \u00A7o\u00A76\u00A7nhttps://www.patreon.com/shadowake"
+        }
+      ]
+    }
+  ]
+}

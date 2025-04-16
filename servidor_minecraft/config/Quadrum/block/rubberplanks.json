@@ -1,0 +1,10 @@
+{
+   "name":"rubberplanks",
+   "default-texture":"rubberplanks",
+   "material":"wood",
+   "hardness":1,
+   "drops-self":"true",
+   "flammable":"true",
+   "requires-tool":"false",
+   "ore_dictionary":"plankWood"
+}

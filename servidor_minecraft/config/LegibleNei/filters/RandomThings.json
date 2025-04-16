@@ -1,0 +1,9 @@
+{RandomThings:[
+{hide:[[*_tilled],[*],[*]]},
+{hide:[[imbuingStation],[*],[*]]},
+{hide:[[creative*],[*],[*]]},
+{hide:[[filter],[*],[*]]},
+{hide:[[spectreBlock],[0-15],[*]]},
+{keep:[[ingredient],[3,4,5,6],[*]]},
+{keep:[[whitestone],[0],[*]]},
+]}

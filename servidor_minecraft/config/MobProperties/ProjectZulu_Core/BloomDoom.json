@@ -1,0 +1,25 @@
+{
+  "_name": "ProjectZulu|Core.BloomDoom",
+  "drops": [
+    {
+      "function": "add",
+      "id": "minecraft:double_plant",
+      "damage": 4,
+      "count": 1.0
+    },
+    {
+      "function": "add",
+      "id": "BiomesOPlenty:flowers2",
+      "damage": 8,
+      "count": 0.1
+    },
+    {
+      "function": "add",
+      "id": "minecraft:dye",
+      "damage": 1,
+      "count": 0.25
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

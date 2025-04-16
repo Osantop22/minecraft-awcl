@@ -1,0 +1,48 @@
+{
+  "_name": "EnderDragon",
+  "drops": [
+    {
+      "function": "default",
+      "value": "true"
+    },
+    {
+      "_comment": "COMMON DROPS",
+      "function": "choose",
+      "functions": [
+        {
+          "weight": 5,
+          "function": "add",
+          "id": "minecraft:experience_bottle",
+          "count": 0.02
+        },
+        {
+          "weight": 1,
+          "function": "add",
+          "id": "Thaumcraft:ItemResource",
+          "damage": 9,
+          "count": 0.01
+        },
+        {
+          "weight": 10,
+          "function": "add",
+          "id": "minecraft:bone",
+          "count": 0.25
+        }
+      ]
+    },
+    {
+      "_comment": "MOB SPECIFIC DROPS",
+      "function": "choose",
+      "functions": [
+        {
+          "function": "add",
+          "id": "awakeningmeat:dragon_raw",
+          "damage": 0,
+          "count": 3.5
+        }
+      ]
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

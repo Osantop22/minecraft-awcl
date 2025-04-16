@@ -1,0 +1,8 @@
+{PortalGun:[
+{hide:[[Portal_BlockPortal],[*],[*]]},
+{hide:[[PortalGunSpawner],[*],[*]]},
+{hide:[[PortalGunPedestal],[*],[*]]},
+{hide:[[EnderPearlDust],[*],[*]]},
+{hide:[[MiniBlackHole],[*],[*]]},
+{hide:[[PortalGunOrange],[*],[*]]},
+]}

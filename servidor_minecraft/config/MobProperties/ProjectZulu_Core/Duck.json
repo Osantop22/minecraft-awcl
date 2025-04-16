@@ -1,0 +1,23 @@
+{
+  "_name": "ProjectZulu|Core.Duck",
+  "drops": [
+    {
+      "function": "add",
+      "id": "BiomesOPlenty:foliage",
+      "count": 0.05
+    },
+    {
+      "function": "add",
+      "id": "minecraft:feather",
+      "count": 1.5
+    },
+    {
+      "function": "add",
+      "id": "awakeningmeat:duck_raw",
+      "damage": 0,
+      "count": 0.25
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

@@ -1,0 +1,33 @@
+{
+  "_name": "Squid",
+  "drops":[
+      {
+         "function":"default",
+         "value":"false"
+      },
+      {
+         "function":"add",
+         "id":"magicalcrops:1MinicioEssence",
+         "damage":0,
+         "count":0.05
+      },
+      {
+         "function":"add",
+         "id":"minecraft:dye",
+         "damage":0,
+         "count":0.9
+      },
+      {
+         "function":"add",
+         "id":"harvestcraft:calamarirawItem",
+         "damage":0,
+         "count":0.9
+      }
+   ],
+   "pre_stats":[
+
+   ],
+   "stats":[
+
+   ]
+}

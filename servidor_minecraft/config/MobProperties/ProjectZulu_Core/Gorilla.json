@@ -1,0 +1,24 @@
+{
+  "_name": "ProjectZulu|Core.Gorilla",
+  "drops": [
+    {
+      "function": "add",
+      "id": "harvestcraft:bananaItem",
+      "count": 0.25
+    },
+    {
+      "function": "add",
+      "id": "minecraft:wool",
+      "damage": 15,
+      "count": 0.2
+    },
+    {
+      "function": "add",
+      "id": "awakeningmeat:gorilla_raw",
+      "damage": 0,
+      "count": 0.25
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

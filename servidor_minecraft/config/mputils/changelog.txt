@@ -1,0 +1,2946 @@
+Awakening-Classic-2.32.1
+*** Been A While! ***
+
+Want more regular updates or cool in game rewards? Become a Patron: https://www.patreon.com/shadowake :)
+
+Need a server? Want to support Awakening? Why not give BisectHosting a try? With servers from as little as $1.99!
+Please use my link and enter code "awakening25" for 25% off any server: https://bisecthosting.com/awakening
+
+Note: Remember if you ever have problems after an update, backups can be found in the \backups folder.
+
+- Added in game patron rewards for all pending/recent patrons.
+- Updated the lava pop sound in the custom resource pack.
+- Some login spam text will now be prevented.
+- Added pack logo to pack setup launch screen.
+- Updated to LumySkinPatch-1.0.10 (Client Build Only).
+- Updated to mod-director-launchwrapper-1.4-SNAPSHOT-all (Client Build Only).
+- Removed Herobrine.
+
+-----PREVIOUS VERSIONS-----
+Only the latest version will receive support, the below versions are no longer supported!
+---------------------------
+
+Awakening-Classic-2.32.0
+*** Built Better! ***
+- Added in game patron rewards for all pending/recent patrons.
+- Slightly altered the change log layout.
+- OptiFine_1.7.10_HD_U_E7 will now be automatically downloaded and installed client side.
+- Fixed Bug: Fixed a potential memory leak.
+- Added mod-director-launchwrapper-1.3-SNAPSHOT-all (Client Build Only).
+- Added NamePain-1.7.10-1.2.0 (Client Build Only).
+- Added Neat 1.0-1 (Client Build Only).
+- Updated to NotEnoughItems-1.7.10-2.0.1-GTNH-universal.
+- Removed Herobrine.
+
+Awakening-Classic-2.31.0
+*** Also Try Greg Tech New Horizons! ***
+- Added in game patron rewards for - JC747, yainori, DeltaDrGon, lawfulrocky, VSDeviluke, jesusloler, Mietzchen (You're all the absolute best)!
+- Major speed and performance tweaks to NEI (thanks to the awesome GTNH team)!
+- Small performance tweaks.
+- Fixed Bug: Fixed some misc texture issues in the optional texture pack (thanks to JC747).
+- Fixed Bug: Drauger quest gives wrong spawn egg as reward.
+- Switched to NotEnoughItems-1.7.10-2.0.0-GTNH-universal.
+- Updated to TrueInvisibility-0.3.0-1.7.10 (Client build only).
+- Removed Herobrine.
+
+Awakening-Classic-2.30.0
+*** We Back In The Mine! ***
+- Added in game patron rewards for - MrMIB7, _dju, BWGreens, TwilightPSN, Patty99, redsdracomancer, PulsefireEzreaI, mrxtoz, CleanedFoal, Little_Ringo, Pawned1337, DragonMirage, AlanSwarley, dubuvourer, Mighty__Beard, Lilacori & space77 (oh man)!
+- Added tooltip to Witching Gadgets cloaks to warn of FPS issues for some players.
+- Updated main menu.
+- Fixed Bug: Fixed several broken main menu links (wiki link etc).
+- Fixed Bug: Travelers belt missing recipe.
+- Switched to WallpaperCraftLegacy-1.7.10-1.03.
+- Updated to OpenModsLib-1.7.10-0.10.1.
+- Updated to backpacks 1.7.10 - 3.5.8.
+- Updated to CraftTweaker-1.7.10-3.1.0-legacy.
+- Updated to itlt-1.7.10-1.0.2 (Client Build Only).
+- Updated to LumySkinPatch-1.0.9 (Client Build Only).
+- Added moobloom-1.7.10_v.1.1.1.
+- Added moobloombop-1.7.10_v.1.0.0.
+- Removed Herobrine.
+
+Awakening-Classic-2.29.12
+*** Doh! ***
+- Added in game patron rewards for - HypnoticHarry (woop woop)!
+- Fixed in game wiki links.
+- Fixed Bug: Quest book accidentally shipped in edit mod.
+- Fixed Bug: Dev files accidentally shipped with last update.
+- Removed Herobrine.
+
+Note: If after last update you get java.lang.ArrayIndexOutOfBoundsException: -1, see:
+https://github.com/CaiganMythFang/TheFerretBusinessIssues/issues/2
+
+Awakening-Classic-2.29.11
+*** Hot, Hot, Hot! ***
+- Added in game patron rewards for - Pewnz, Anomander084 and HeadShotConnor (you are the best)!
+- Updated default max tick time in server build to unlimited, should stop crashes when generating new dimensions.
+- Added note to white stone not to use when fighting gaia guardian (causes crash).
+- Added sawmill recipe for skulls to bone segments.
+- Added (super expensive) recipe for projecte tomb of knowledge.
+- Fixed Bug: Salyx slab has wrong recipe.
+- Fixed Bug: Small inconsistency with pure quartz quests in AE2 questline.
+- Fixed Bug: Ender dragon kill quest fails to detect (changed to item detection).
+- Removed Herobrine.
+
+Awakening-Classic-2.29.10
+*** My Bad! ***
+- Added in game patron rewards for - kd8lvt and divine_fenrir (thanks for the support)!
+- Added cosmetics bag patron reward (only given on first world join).
+- Baubles now render on the player in game.
+- Fixed Bug: Disabled mana lens required in some recipes (actually fixed it this time)!
+- Fixed Bug: Fixed a super rare worldgen bug that can cause a crash to desktop.
+- Added Careful Cast Corrector.
+- Removed Herobrine.
+
+Awakening-Classic-2.29.9
+*** Please Sir, Can I Have Some More?! ***
+- Added in game patron rewards for - Iansonicraft (<3)!
+- Fixed Bug: Disabled mana lens required in some recipes.
+- Fixed Bug: Incorrect information in globetrotter's sash quest description.
+- Removed Herobrine.
+
+Awakening-Classic-2.29.8
+*** Itty Bitty Update! ***
+- Added in game patron rewards for - Avine93 and Saintish (total legends)!
+- Added note to condensers about max EMC they can contain.
+- Updated support link to Patreon icon.
+- Changed NEI tool-tips to show more information.
+- Suggestion: Added a new quest for the igneous extruder as per a user suggestion.
+- Fixed Bug: Living rock brick only crafts in top left of a 3x3 crafting grid.
+- Fixed Bug: Disabled/removed archangel's smite as it crashes/corrupts servers when used.
+- Removed Herobrine.
+
+Awakening-Classic-2.29.7
+*** Tweaking End Game! ***
+- Added in game patron rewards for - ravenxharuno and fairyluna50 (super cool dudes)!
+- Added warning message to purple hearts that talisman of nourishment will eat them.
+- Reduced food eaten history from 10 to 6 i.e. requires less food variety.
+- Increased new player food threshold from 6 to 10 i.e. player can eat 10 times before spice of life kicks in.
+- Suggestion: Made a recipe to compress bedrock into infinity catalysts as per a user suggestion.
+- Suggestion: Added recipes to fix the weirdness with ethereal wood as per a user suggestion.
+- Fixed Bug: Changed bedrocks EMC value to 1,073,741,824 as this is the max a condenser will accept.
+- Fixed Bug: Main menu shows wrong version number.
+- Fixed Bug: Storage drawers tape mistakenly disabled.
+- Fixed Bug: Disabled Dungeon Mobs Rakshasa as can crash servers on attack.
+- Updated to Carpenter's Blocks v3.3.8.2 - MC 1.7.10.
+- Updated to Modpack Configuration Checker-1.7.10-v1.5.3 (client build only).
+- Removed Herobrine.
+
+Awakening-Classic-2.29.6
+*** Fixing An Oopsie! ***
+- Added in game patron rewards for - MaxDoomie, camo186 and Zraaneth (top peeps)!
+- Restored the essential resource pack due to a few unforeseen issues.
+- Updated the server readme file.
+- Fixed Bug: Overlay textures broken in optional texture pack.
+- Fixed Bug: Mining levels reverting to names instead of numbers.
+- Added Stackie-1.7.10-1.6.0.36-universal.
+- Added LingeringLoot-1.7.10-2.5.
+- Removed Herobrine.
+
+Awakening-Classic-2.29.5
+*** More For Less! ***
+- Added in game patron rewards for - sjasogun, DoomDwarf_347, kd8lvt and _KaiserDan (<3 you all)!
+- New players will now spawn with a period of invincibility like in experimental.
+- Removed the Awakening Essential resource pack; all essential textures are now built in.
+- Moved some textures to optional resource pack.
+- Removed some no longer used textures.
+- Minor image compression to reduce file size slightly.
+- Changed in-game support link to patreon from paypal & updated icon.
+- Fixed Bug: Pack crashes with missing texture issue on first launch.
+- Fixed Bug: Default keys not being set correctly.
+- Added CrashLogAdditions-1.7.10-1.1 (client build only).
+- Removed DefaultSettings-1.7.10-1.2.3 (client build only).
+- Removed Herobrine.
+
+Awakening-Classic-2.29.4
+*** Getting Woke! ***
+- Added in game patron rewards for - Tianyulong, UnlikeLiam, Lubuil & hyperloony (you all rock)!
+- Back-ported awakening meats and awakening armors from awakening experimental.
+- Fixed Bug: Repair talisman difficult to craft due to needing talisman of nourishment with no NBT data.
+- Fixed Bug: Golems quest fails to detect most golem types.
+- Fixed Bug: Crazed mobs spawn wearing disabled armours and weapons.
+- Added awakeningarmor-1.1.
+- Added awakeningmeat-1.1.
+- Removed Herobrine.
+
+Awakening-Classic-2.29.3
+*** Spit & Polish! ***
+- Removed spawn fuzz (helpful for servers who want a fixed spawn point).
+- Added a default .properties file to the server build.
+- Changed options/key-binds should no longer be overwritten on update.
+- Updated window title.
+- Updated server readme file.
+- Updated tool tip on server files menu button.
+- Added Patron server to multi player servers list.
+- Added DefaultSettings-1.7.10-1.2.3 (client build only).
+- Added forgeessentials-1.7.10-1.4.6.1341-client (client build only).
+- Added forgeessentials-1.7.10-1.4.6.1357-server (server build only).
+- Removed Herobrine.
+
+Awakening-Classic-2.29.2
+*** Tiny Fix Take 2! ***
+- Fixed Bug: Quest Book set to edit mode.
+- Fixed Bug: Menu shows incorrect version number.
+- Removed Herobrine.
+
+Awakening-Classic-2.29.1
+*** Tiny Fix! ***
+- Fixed some minor typos and link errors on the main menu.
+- Removed Herobrine.
+
+Awakening-Classic-2.29.0
+*** Updating A Classic! ***
+Note: Awakening 2.x.x has now been re-branded as 'Awakening - Classic' going forward.
+- Updated login message.
+- Back-ported patron rewards from Awakening Experimental.
+- Back-ported updated title screen and menus from Awakening Experimental.
+- Updated title screen with new sponsor.
+- Entities should de-spawn quicker when out of render distance.
+- Small performance tweaks.
+- Updated starting inventory.
+- Removed auto recipe reload (causes lag spike), login message explains fix if needed anyway.
+- Back-ported warp cure plus added a related quest.
+- Fixed Bug: Potential world corruption when placing a gem cutting table (block and research disabled).
+- Fixed Bug: Backup failing to run.
+- Fixed Bug: Some servers fail to launch due to issues with non update mod blocking web calls.
+- Fixed Bug: BOP warning message shows even though not relevant to the pack.
+- Fixed Bug: MFR laser not craftable due to requiring a disabled item in its recipe.
+- Fixed Bug: Fixed some NEI related issues and crashes.
+- Fixed Bug: Ender dragon kill quest not detecting.
+- Fixed Bug: Issues with draconic armour settings.
+- Fixed Bug: Main menu scales poorly at over 1080p resolutions.
+- Fixed Bug: Potential for login message to show weird symbols on some computers.
+- Added Thaumic Fixer-1.2.
+- Added HelpFixer-1.0.7.
+- Added sdnf-1.0.
+- Added Headcrumbs-1.7.4.
+- Added Headcrumbs Advanced Modification [Version 1.1].
+- Added FriendsCapes-1.7.10-1.0.0 (client build only).
+- Added Controlling-1.7.10-1.0.0 (client build only).
+- Updated to AIImprovements-1.7.10-0.0.1b8.
+- Updated to DoomlikeDungeons-1.11.0.1-MC1.7.10.
+- Updated to FpsReducer-mc1.7.10-1.10.3.
+- Updated to neiaddons-1.12.15.41-mc1.7.10.
+- Updated to NotEnoughIDs-1.4.3.5.
+- Updated to backpacks 1.7.10 - 3.5.5.
+- Updated to trueinvisibility-0.2.0 (client build only).
+- Updated to SmoothFont-1.7.10-1.15.3 (client build only).
+- Updated to LumySkinPatch-1.0.6 (client build only).
+- Updated to Modpack Configuration Checker-1.7.10-v1.5.2 (client build only).
+- Updated to DynamicSurroundings-1.7.10-1.0.6.4 (client build only).
+- Removed Chunk Pregenerator V1.7.10-1.8.1 (client build only).
+- Removed tnt_utilities-mc1.7.10-1.2 (server build only).
+- Removed BetterSprinting  MC-1.7.10  v1.1.3.
+- Removed NonUpdate-AllMCVersion-Final-2.0.1build1-universal.
+- Added some more Legible NEI filters.
+- Removed Herobrine.
+
+2.28.2-FINAL3
+*** I Really Need To Lookup The Dictionary Definition Of Final! ***
+Note: Pending any major game breaking bugs this will be the last update for Awakening on 1.7.10.
+- Common loot bags will now only ever contain only 1 item.
+- Slightly improved modpack client and server load time.
+- Removed broken non functional enchantments (some items may get renamed to 'unnamed' if they had one of these enchants).
+- Added a few more quests.
+- Updated the server readme file.
+- More small performance tweaks.
+- Added a recipe for wolf pelt to avoid RNG drops from wolves.
+- Fixed some default keybind conflicts.
+- Gave some non set default keys a default keybinding.
+- Added chat message to warn of lag when recipe reload is running.
+- Added chat message to warn of lag when backup is running.
+- Removed useful info section of the questbook as generally unnecessary.
+- Made the deep storage unit less prohibitively expensive.
+- Added a way to auto mine bedrock with the minefactory reloaded laser.
+- Fixed Bug: Extremely primordial pearl not being consumed when crafting infinity catalyst.
+- Fixed Bug: Recipe reload failing to run.
+- Added warnings to pack launch when using less RAM than recommended/required.
+- Added NonUpdate-AllMCVersion-Final-2.0.1build1-universal.
+- Added Modpack Configuration Checker-1.7.10-v1.5.
+- Removed tcnodetracker-1.7.10-1.1.2.
+- Removed HxCCore-1.7.10-1.13.2-universal.
+- Removed HxCEnchants-1.7.10-2.5.0.
+- Removed ItemBlacklist-1.7.10-1.2.0.8.
+- Changed some more configs.
+- Added/changed/removed some more recipes.
+- Added/changed some more HQM quests.
+- Renamed some more items.
+- Removed Herobrine.
+
+2.28.1-FINAL2
+*** Final Update Take 2! ***
+Note: Pending any major game breaking bugs this will be the last update for Awakening on 1.7.10.
+- Akashic records can now be used to craft the thaumonomicon cheat sheet.
+- Gave cinnabar a use as a decent grinding material for the SAG mill.
+- Removed the 1 video guide as causing confusion with uncompleted quest.
+- Un-hid bedrock from NEI.
+- Added tooltip to bedrock.
+- Performance tweaks.
+- Removed a few unnecessary mods to help performance and load time slightly.
+- Legendary loot bags will now always contain a full 5 items.
+- Suggestion: Gave bedrock max EMC value per block as per a user suggestion.
+- Fixed Bug: Minetweaker script error on login.
+- Fixed Bug: Player sometimes spawns on nether ceiling if logs off in the nether.
+- Fixed Bug: Player sometimes spawns above ground when logging off in a building or cave.
+- Fixed Bug: Attempted to fix a bug where you couldn't log back into a single player world after logging out.
+- Fixed Bug: Attempted to fix recipe desync on servers with slow connection by increasing wait time before recipe sync attempt.
+- Fixed Bug: Tokens giving items to all players not just user.
+- Fixed Bug: Soils quest not completable.
+- Updated to DynamicSurroundings-1.7.10-1.0.6.3.
+- Removed NoMoreRecipeConflict-0.3(1.7.10).
+- Removed Ascribe-1.7.10-0.1.
+- Removed ASMFixes-1.0.
+- Removed ExtraFixes-1.7.10-1.2.4b.
+- Removed Login_Shield-1.7.10-2-gf6e21a7.
+- Removed mc-locale-fix-1.0.
+- Added/changed/removed some more EMC values.
+- Added/changed some more HQM quests.
+- Changed some more configs.
+- Removed Herobrine.
+
+2.28.0-FINAL
+*** Final Update! ***
+Note: Pending any major game breaking bugs this will be the last update for Awakening on 1.7.10.
+- Removed building & decorating 3 from quest book as it was just an unused place holder.
+- Added a note how to fix missing recipes to login message.
+- Removed the quarry silk touch upgrade due to giving unusable ores.
+- Fixed Bug: Ender dragon kill not registering in quest book.
+- Fixed Bug: Ring of loki quest gives invalid reward.
+- Fixed Bug: Fixed a potential memory leak.
+- Fixed Bug: Ancient wills quest has no prerequisites set.
+- Fixed Bug: Crash when looking up uses of ferrous ore.
+- Fixed Bug: Several rftools storage modules missing from NEI.
+- Fixed Bug: Technicolor essence not crafting to yellow dye.
+- Fixed Bug: Thaumcraft nugget doubling producing unusable nuggets.
+- Added NoMoreRecipeConflict-0.3(1.7.10).
+- Updated to Login_Shield-1.7.10-2-gf6e21a7.
+- Updated to EternalSingularity-1.7.10-1.0.4b.
+- Rolled back to Streams-1.7.10-0.3.3.
+- Removed Herobrine.
+
+2.27.1
+*** Upload Fix! ***
+- Re-upload to fix a Curse upload issue.
+- Fixed Bug: Some mobs having spawning issues causing log spam.
+- Fixed Bug: RFTools smart wrench uncraftable.
+- Fixed Bug: Elven mana spreader quest requires invalid item.
+- Fixed Bug: Fixed some invalid block messages in log file.
+- Updated to Chunk Pregenerator V1.7.10-1.8.1.
+- Updated to thaumicenergistics-1.1.3.0.
+- Updated to TConstruct-1.7.10-1.8.8.build991.
+- Rolled back to AgriCraft-1.7.10-1.5.0.
+- Rolled back to appliedenergistics2-rv3-beta-6.
+- Rolled back to Avaritia-1.13.
+- Rolled back to Draconic-Evolution-1.7.10-1.0.2h.
+- Rolled back to EnderIO-1.7.10-2.3.0.429_beta.
+- Rolled back to EnderStorage-1.7.10-1.4.7.37-universal.
+- Rolled back to extrautilities-1.2.12.
+- Rolled back to HungerOverhaul-1.7.10-1.0.0.jenkins104.
+- Rolled back to Pam's HarvestCraft 1.7.10Lb.
+- Rolled back to Universal Singularities [Version 8]-1.7.10.
+- Rolled back to WR-CBE-1.7.10-1.4.1.9-universal.
+- Rolled back to Ztones-1.7.10-2.2.1.
+- Rolled back to ForgeMultipart-1.7.10-1.2.0.345-universal.
+- Removed Herobrine.
+
+2.27.0
+*** A Whole Lotta Update! ***
+- Minor performance tweaks.
+- Fixed Bug: Attempted to fix a server side memory leak.
+- Updated to HungerOverhaul-1.7.10-1.0.2.
+- Updated to extrautilities-1.2.13.
+- Updated to TConstruct-1.7.10-1.8.9.12-GTNH.
+- Updated to appliedenergistics2-rv3-beta-17.
+- Updated to IguanaTinkerTweaks-1.7.10-2.1.6.2.
+- Updated to Universal Singularities-1.7.10-8.4.
+- Updated to InventoryTweaks-1.59-dev-156.
+- Updated to Avaritia-1.14.
+- Updated to Draconic-Evolution-1.7.10-1.0.2l.
+- Updated to WR-CBE-1.7.10-1.4.1.11-universal.
+- Updated to Ztones-1.7.10-2.2.2.
+- Updated to OpenModsLib-1.7.10-0.10-snapshot-465.
+- Updated to Pam's Harvestcraft 1.7.10n.
+- Updated to EnderIO-1.7.10-2.3.0.432_beta.
+- Updated to EnderStorage-1.7.10-1.4.7.38-universal.
+- Updated to AgriCraft-1.7.10-1.5.0-Unofficial.
+- Updated to NuclearCraft-1.9g--1.7.10.
+- Updated to backpacks+1.7.10+-+3.5.2.
+- Removed tnt_utilities-mc1.7.10-1.2.
+- Removed Herobrine.
+
+2.26.3
+*** What Was The Creeper's Favorite Subject? HisssSSSSStory! ***
+- Added some more quests (storage drawers & compacter).
+- Added some more villager trades (compacter).
+- Set and altered some default keys to avoid key conflicts.
+- Actually moved the wand HUD this time (was supposed to be moved to bottom left in a previous update).
+- Disabled armour stands due to bugs - use gear swapper instead (existing ones in world will remain).
+- Temporarily removed the pharaoh quest until it has a reliable way to spawn.
+- Removed broken ritual of gaia II quest from the vanquishing evil quest line.
+- Added some notes to optifine settings to stop players using broken/buggy options.
+- Fixed Bug: Fixed a potential server performance issue caused by forge's dormant chunk cache.
+- Fixed Bug: Lithium ingot not crushing to dust in the SAG mill.
+- Fixed Bug: Drill silk touch upgrade uncraftable.
+- Added tnt_utilities-mc1.7.10-1.2.
+- Added compacter-1.2.1.15-mc1.7.10.
+- Updated to Streams-1.7.10-0.3.4.
+- Updated to ForgeMultipart-1.7.10-1.2.0.347-universal.
+- Removed MCMultiPart-experimental-1.2.0_72-universal.
+- Added/changed/removed some more EMC values.
+- Added/changed some more HQM quests.
+- Removed Herobrine.
+
+2.26.2
+*** A Little Bug Fix Update! ***
+- Added small, semi rare pockets of clay to underground (sub Y128) spawn.
+- Fixed Bug: Items spinning in fridge, oven, pedestals and tool racks etc.
+- Fixed Bug: Invalid rewards for some quests.
+- Fixed Bug: Some recipes not consuming philosophers stone on craft.
+- Fixed Bug: Immersive engineering blast furnace sometimes gives wrong steel type.
+- Fixed Bug: Thaumcraft urns have chance to drop vanilla tools.
+- Fixed Bug: Fixed some grammar and spelling errors in the quest book.
+- Fixed Bug: Potential crash caused by talisman of nourishment.
+- Fixed Bug: Diamonds not crushing to dust in SAG mill.
+- Fixed Bug: Some magical crop essences have duplicate output recipes.
+- Fixed Bug: Removed duplicate shadow metal nuggets.
+- Fixed Bug: Several modded metals not casting to nuggets from tinkers smeltery.
+- Fixed Bug: Duplicate molten obsidian types.
+- Added vending-v1.2.3.
+- Updated to Thaumic-Exploration-[1.7.10] 1.1.73-0.
+- Removed ItemPhysic+Full+1.2.5+mc1.7.10.
+- Changed some more configs.
+- Renamed some more items.
+- Added/changed some more HQM quests.
+- Added/changed/removed some more ore dictionary entries.
+- Removed Herobrine.
+
+2.26.1
+*** I Went To A Creeper Party - It Was A Blast! ***
+- Added some more chest loot (chest transporter).
+- Added some more villager trades (chest transporter, enderio & open blocks).
+- Slight re-balance of some infusion enchantments.
+- Added EMC values to all gears and some other misc items.
+- Fixed some inconsistencies with dyes.
+- Increased ore generation in the end.
+- Added some more custom chisel variations for stone.
+- Started adding descriptions to enchantments in the thaumonomicon (more to follow).
+- Re-enabled the enderio telepad (due to waystones previously being removed).
+- Made graves emit light to make them easier to spot and to reduce nearby mobs.
+- Moved wand hud to bottom left to avoid it overlaying other elements.
+- Yet more minor image compression to reduce file size slightly.
+- Suggestion: Set grave hardness to 5 to make it unbreakable by hungry nodes as per a user suggestion.
+- Suggestion: Added a high cost crafting recipe for the crimson rites as per a user suggestion.
+- Suggestion: Enabled the open blocks building guide block as per a user suggestion.
+- Fixed Bug: Zinc quest requires ingot not ore.
+- Fixed Bug: Magical recharging quest giving invalid reward.
+- Fixed Bug: Removed duplicate enchantment.
+- Added ChestTransporter-1.7.10-2.0.6.
+- Added ASMFixes-1.0.
+- Added BetterBoat-1.7.10-1.1.0.
+- Added mc-locale-fix-1.0.
+- Added Ascribe-1.7.10-0.1.
+- Added ItemPhysic+Full+1.2.5+mc1.7.10.
+- Updated to FpsReducer-1.7.10-1.10.1.
+- Added/changed some more HQM quests.
+- Added/changed/removed some more ore dictionary entries.
+- Changed some more configs.
+- Added some more Legible NEI filters.
+- Added/changed/removed some more EMC values.
+- Updated the Awakening custom resource pack.
+- Removed Herobrine.
+
+2.26.0
+*** Much Requested Stuff And Things! ***
+- Added EMC values to most alloy metal ingots and dusts.
+- Completely reworked infusion enchanting with all new recipes and new enchantments.
+- Moved all thaumonomicon infusion enchantment pages to the same research page.
+- Setup chunk pre-generation for overworld, nether and end.
+- Disabled some non functional enchantments.
+- Improved rewards for challenge quests including permanent health increases.
+- Wining the game quest now rewards creative mode items.
+- Added aspects to some tinkers and extra tic tool parts.
+- Added 21 new enchantments all with infusion integration.
+- Fixed Bug: Quest book spelling and grammar errors (Thanks to Kmartinator).
+- Fixed Bug: Utility seeds quest missing reward (Thanks to Kmartinator).
+- Fixed Bug: Going to the nether quest needs blast off quest as requirement, reversed.
+- Fixed Bug: Removed duplicate speed enchantment.
+- Fixed Bug: Recipe conflict between potato and leek soup and garden soup.
+- Fixed Bug: Backpacks recipes reverted to default, fixed.
+- Fixed Bug: Some soups dupe pots when crafted.
+- Fixed Bug: Several stone slabs not in ore dictionary.
+- Fixed Bug: Some thaumcraft spawn eggs showing in NEI.
+- Fixed Bug: Invalid reward from zinc quest.
+- Fixed Bug: Invalid reward from draconic evolution quest.
+- Fixed Bug: Invalid reward from quicksilver quest.
+- Fixed Bug: Some slabs only crafting in top slots of crafting table.
+- Fixed Bug: Hid some uncraftable items from NEI.
+- Fixed Bug: Bifrost block and shimmer rock uncraftable due to crafting loop.
+- Fixed Bug: Disabled vanilla tools required in some thaumcraft infusion enchantments.
+- Fixed Bug: Tough alloy ingot not crushing to tough alloy dust in SAG mill.
+- Added [MC1.7.X]Hearts-2.0.0.
+- Added HxCCore-1.7.10-1.13.2-universal.
+- Added HxCEnchants-1.7.10-2.5.0.
+- Added Chunk+Pregenerator+V1.7.10-1.8.
+- Added Chicken+Chunk+Patcher+1.1.
+- Updated to Thaumic-Exploration-.1.7.10.1.1.71-0.
+- Added/changed/removed some more EMC values.
+- Added/changed/removed some more recipes.
+- Added some more Legible NEI filters.
+- Added/changed some more HQM quests.
+- Added/changed/removed some more ore dictionary entries.
+- Updated the Awakening custom resource pack.
+- Removed Herobrine.
+
+2.25.0
+*** Fixing All The Borked Things! ***
+- Reverted recommended optifine version and menu link to https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_E3.jar due to a bug in the newer E7 version.
+- Fixed a world login issue caused by latest backpacks version (rolled back).
+- Fixed an fps reduction issue caused by latest backpacks version (rolled back).
+- Changed wisps from ambient creature spawn to monster spawn type.
+- Altered some spawning settings and caps to help performance.
+- Altered some chunk performance settings to help performance.
+- Removed entity removal script as this should now be solved by better spawn capping.
+- Fixed Bug: Red sandstone slabs only craft to blocks in set position in crafting table.
+- Fixed Bug: Crash to desktop caused by immersive engineering ore dictionary error.
+- Fixed Bug: Crash when viewing recipe for slag.
+- Fixed Bug: Disabled mobs trying to spawn and failing causing minor log spam.
+- Fixed Bug: Unable to log back in to existing world in same session.
+- Added Login_Shield-1.2-10-gd36e6a4.
+- Rolled back to backpacks 1.7.10 - 3.4.1.
+- Removed LagFix-2.0.1-mc1.7.10-forge.
+- Changed some more configs.
+- Updated the Awakening custom resource pack.
+- Some other stuff I probably forgot.
+- Removed Herobrine.
+
+2.24.3
+*** TGIF! ***
+- Finished transferring custom things items and blocks over to quadrum (less buggy).
+- Tidied up the scripts folder.
+- Disabled BOP pixie spawns.
+- Fixed Bug: Potential stair/slab dupe bug.
+- Fixed Bug: Wrong version number shown on main menu.
+- Fixed Bug: Watering can and bonemeal particles not showing.
+- Fixed Bug: Some AE2 wireless terminals not showing in NEI.
+- Fixed Bug: Silver coin has white texture background.
+- Fixed Bug: Fixed some minor chest loot related issues.
+- Removed CustomThings-MC1.7.10-0.0.3-55.
+- Changed some more configs.
+- Added/changed/removed some more recipes.
+- Removed Herobrine.
+
+2.24.2
+*** It's Over 9000! ***
+- Experimental performance tweaks (please report any rendering issues).
+- Altered the 'tainted' style custom dungeon due to it causing huge FPS drop in all nearby chunks.
+- Removed some vanilla particles to help FPS slightly.
+- Removed sprinkler particles to help FPS in areas that use them.
+- Changed some settings to improve performance slightly.
+- Switched to animated blaze powder icon from thermal foundation.
+- Reverted WAILA position due to a number of user requests.
+- Fixed Bug: Potential crash on death bug.
+- Fixed Bug: Potential crash on login (dimension 0 unloaded message).
+- Fixed Bug: Potential issue where a grave doesn't appear on death.
+- Fixed Bug: Vanilla fishing rod not showing in NEI.
+- Fixed Bug: Vanilla shears not showing in NEI.
+- Fixed Bug: Vanilla shears various recipe issues.
+- Fixed Bug: Division sigil appearing in chests/loot bags even though disabled.
+- Updated to SmoothFont-1.7.10-1.15.
+- Rolled back to CustomCursorMod-1.1.
+- Removed CustomCutScene-1.7.10-0.1.3.
+- Removed unloader-1.0.1.
+- Changed some more configs.
+- Removed Herobrine.
+
+2.24.1
+*** Hotfix! ***
+- Overworld bee hives will now have a chance to spawn killer bees when broken.
+- Re-introduced a better implemented entity removal script.
+- Fixed Bug: Renamed dark iron bars to dark steel bars as they are made with dark steel.
+- Fixed Bug: Missing recipes on servers.
+- Fixed Bug: Old reference to nether key (no longer required) left in quest book.
+- Fixed Bug: Golems quest requires a broken item to complete.
+- Fixed Bug: Rails made with steel smelting to iron or gold in smeltery.
+- Fixed Bug: Blaze essence dropped by blazes has meta data meaning it cant be used for crafting.
+- Added unloader-1.0.1.
+- Removed BetterPing-1.7.10-1.0.
+- Removed CanIJoinNow-1.7.10-1.0-3.
+- Changed some more configs.
+- Added/changed some more HQM quests.
+- Removed Herobrine.
+
+2.24.0
+*** Now With 100% Less Chat Log Spam! ***
+- Changed recommended optifine version and menu link to OptiFine_1.7.10_HD_U_E7.
+- Yet more small performance enhancements.
+- Yet more minor image compression to reduce file size slightly.
+- Increased quantity of thaumcraft nodes in world slightly.
+- Increased compression and reduced quantity of backups to aid with server file size.
+- Complete massive rework of minetweaker scripts should resolve any server/client recipe mismatches.
+- Hidden log spam caused by entity culling script (thanks to Tykora).
+- Doubled time between entity cull runs.
+- Finally finished converting all the NEI filtering scripts over from inpurecore to legible NEI, should fix a bug and improve speed.
+- Moved the waila overlay to a more sensible position.
+- Moved some textures from essential to optional resource pack.
+- Removed drop off mod due to a potential CTD bug.
+- Reduced effectiveness of pumice as a grinding material slightly (better than flint, worse than dark steel balls).
+- Removed the custom cross-hair due to it having a habit of breaking.
+- Added slight colour change animation on menu items to custom cursor.
+- Fixed some spelling mistakes.
+- Removed some mod chat log spam during login.
+- Fixed Bug: Entity cull script removing boss mobs and mobs player is fighting.
+- Fixed Bug: Potential crash using /help command.
+- Fixed Bug: Pumicite dust hidden in NEI.
+- Fixed Bug: Volcanic cores still spawn in nether even though supposed to be disabled.
+- Fixed Bug: Creepers explosions sometimes cause block dupes.
+- Fixed Bug: Duplicate sand recipe from essences.
+- Fixed Bug: Nether star generator not craftable.
+- Fixed Bug: Wolves not dropping wolf pelt.
+- Fixed Bug: Backpacks only colouring with vanilla dyes.
+- Fixed Bug: Philosophers stone recipe returning master infusion stones when it should not.
+- Fixed Bug: Technicolour essence not crafting yellow dye.
+- Fixed Bug: Sandstone not craftable in player inventory only crafting table.
+- Fixed Bug: Block of flesh not craftable in player inventory only crafting table.
+- Suggestion: Added compressed bone block as per a user suggestion.
+- Removed crosshairmod-v0.8.3-forge-mc1.7.10.
+- Removed CreeperCollateral-[1.7.10]1.0.0B3-15.
+- Removed dropoff-1.7.10-2.8.8.
+- Removed INpureCore-[1.7.10]1.0.0B9-62.
+- Added Armor+Overlay+2.0.
+- Added BetterPing-1.7.10-1.0.
+- Added CustomCutScene-1.7.10-0.1.3.
+- Added TabbyChat-1.7.10-1.11.2.2-fml.
+- Updated to DynamicSurroundings-1.7.10-1.0.6.2.
+- Updated to SmoothFont-1.7.10-1.14.2.
+- Updated to OpenModularTurrets-1.7.10-2.2.11-245.
+- Updated to CustomCursorMod-1.2.1.
+- Updated to SmoothFont-1.7.10-1.15-b1.
+- Added some more Legible NEI filters.
+- Updated the Awakening custom resource pack.
+- Changed some more configs.
+- Added/changed/removed some more EMC values.
+- Added/changed/removed some more recipes.
+- Some other stuff I probably forgot.
+- Removed Herobrine.
+
+2.23.2
+*** Upload Fix! ***
+- Re-upload to fix a Curse/Twitch upload issue.
+- Small client side performance enhancements.
+- Fixed Bug: Chain armour crafted with iron smelting into steel.
+- Updated to dropoff-1.7.10-2.8.8.
+- Added/changed some more HQM quests.
+- Changed some more configs.
+- Added/changed/removed some more recipes.
+- Removed Herobrine.
+
+2.23.1
+*** Itty Bitty Update! ***
+- Fixed Bug: Entity removal script removing golems and sparks.
+- Removed Herobrine.
+
+2.23.0
+*** Updates And Pizza, I Got One Of Those For Ya! ***
+Note: This is a highly advised update especially for servers as it contains major bug and performance fixes.
+- More performance enhancements.
+- Server performance enhancements.
+- Switched chunk loader to MFR due to performance issue with chicken chunks.
+- Changed mining quests to detect ores for metals instead of ingots, also lowered quantity requirements.
+- Switched to botania's magnet due to ability to disable in areas (many, many people asked for this).
+- Player inventories will now be backed up automatically on death (can be restored with ob_inventory commands).
+- Changed mining levels to numbers instead of material names to make less confusing.
+- Added an automatic cleanup of entities to help performance (runs every 10mins).
+- Added more multi-block structure guides to schematica.
+- Added a tooltip to tinkers tools/weapons that they can be repaired in crafting grid with main material.
+- Some more minor image compression to reduce file size slightly.
+- Fixed Bug: Player can become stuck in a dead/alive state when using the /kill command.
+- Fixed Bug: Player can become stuck in a dead/alive after using a chance cube.
+- Fixed Bug: Added a fix to auto convert lead for those still having issues with the smeltery.
+- Fixed Bug: Some chunks staying loaded when they shouldn't be.
+- Fixed Bug: Player sensor has two recipes.
+- Fixed Bug: Duplicate mana tablet quests.
+- Fixed Bug: Laser focuses missing recipes.
+- Fixed Bug: Agricraft farming station showing hoe icon instead of mattock icon.
+- Fixed Bug: Free EMC quest giving disabled item as reward.
+- Fixed Bug: White stone can cause issues when killed.
+- Fixed Bug: Serious storage quest giving invalid reward.
+- Fixed Bug: Huge battery quest giving potentially buggy reward item.
+- Fixed Bug: Laser pre-chargers require more energy to run than they can hold.
+- Fixed Bug: Unable to log back into a world after exiting without first closing the game.
+- Added LagFix-2.0.1-mc1.7.10-forge.
+- Updated to dropoff-1.7.10-2.8.7.
+- Removed Slugs Damage Tweaks-0.9.
+- Removed AnimationAPI-1.7.10-1.2.4.
+- Removed MutantCreatures-1.7.10-1.4.9.
+- Removed PlayerAPI-1.7.10-1.4.
+- Removed SmartRender-1.7.10-2.1.
+- Removed ChickenChunks-1.7.10-1.3.4.19-universal.
+- Removed LingeringLoot-1.7.10-2.5.
+- Removed [1.7.10]DirectionHUD-client-1.24.
+- Changed some more configs.
+- Updated the Awakening custom resource pack.
+- Added/changed/removed some more recipes.
+- Added/changed some more HQM quests.
+- Removed Herobrine.
+
+2.22.4
+*** Squishing Some Bugs! ***
+- Had to remove MFQM due to it causing numerous issues with duplicate data watchers.
+- Removed EMC value from neutrons and related blocks.
+- Performance enhancements.
+- Fixed Bug: Pea and ham soup missing recipe.
+- Fixed Bug: Issue with the mac/linux server start file (thanks to deadman96385).
+- Fixed Bug: Compressed stone not decompressing back to stone.
+- Fixed Bug: Compressed ender pearl not decompressing back to ender pearls.
+- Fixed Bug: Some essences missed in previous update still have 1 emc value instead of 0.
+- Fixed Bug: Wither/gaia guardian not spawning.
+- Fixed Bug: Backpack upgrade pouch showing multiple recipes.
+- Fixed Bug: Crash and performance issues related to thaumcraft nei.
+- Fixed Bug: Potato and leek soup missing recipe.
+- Fixed Bug: Rare issue where misc blocks sometimes vanish after restart.
+- Fixed Bug: Sowing your seeds quest giving disabled item as reward.
+- Added LumySkinPatch v1.0.5.
+- Added gud_thaumicnei-1.2.3.
+- Updated to SmoothFont-1.7.10-1.12-b1.
+- Updated to CustomCursorMod-1.1.
+- Removed MoreFunQuicksandMod-1.0.8-1.7.10.
+- Removed thaumcraftneiplugin-1.7.10-1.7a.
+- Remove sampler-1.60.1.
+- Added/changed/removed some more recipes.
+- Changed some more configs.
+- Removed Herobrine.
+
+2.22.3
+*** A Helpful Little Update! ***
+- Removed some more unused config files.
+- Implemented a video guide help system (more guides to be added over time).
+- Some more minor image compression to reduce file size slightly.
+- Added note to wither killer that you should pipe in/out of the main block only.
+- Added a note to the life in plastic quest about a potential detection bug and how to fix it.
+- Added notes on multiblock quests detailing how to view a preview of the structure.
+- Added more multiblock structure guides to schematica.
+- Re-enabled default NEI hide key 'O'.
+- Added copper as a valid bucket material.
+- Changed world generator name from 'Default' to 'Awakening' to make more obvious that it is the correct choice.
+- Updated server readme file.
+- Rebalanced some loot.
+- Some minor quest book layout changes.
+- Added a StartServer.sh for Mac/Linux to the server download (thanks to Tykora).
+- Fixed Bug: Earth and fire essence not crafting into sand.
+- Fixed Bug: Game crash when summoning the gaia guardian.
+- Fixed Bug: Recipe type sometimes not changing first time when clicking arrows in NEI.
+- Fixed Bug: Compressed sand not decompressing back to sand.
+- Fixed Bug: Fixed two non-completable quests.
+- Fixed Bug: Tinkers smeltery sometimes outputting wrong lead.
+- Fixed Bug: Gold contact crafting recipe outputting coin instead.
+- Added sdnf-1.0.
+- Added dropoff-1.7.10-2.8.6.
+- Updated to backpacks 1.7.10 - 3.4.4.
+- Updated to DynamicSurroundings-1.7.10-1.0.6.1.
+- Updated to legiblenei_1.7.10-1.6.7.6.
+- Added/changed/removed some more recipes.
+- Updated the Awakening custom resource pack.
+- Changed some more configs.
+- Added/changed some more HQM quests.
+- Removed Herobrine.
+
+2.22.2
+*** Minor Fixes! ***
+- Updated logo.
+- Some more minor image compression to reduce file size slightly.
+- Added pack.png to resource pack files.
+- Changed resourcepack names to make them easier to understand.
+- Fixed Bug: Some essential textures accidentally put in the optional resource pack.
+- Suggestion: Set all magical crops essences EMC values to 0 as per a user suggestion.
+- Removed Herobrine.
+
+2.22.1
+*** A Hotfix Rolled Up With An Update! ***
+- Swapped back to aroma backup due to ftb-utilities backup being a bit unreliable.
+- Lowered the max spawn height of floating islands slightly.
+- Slightly decreased floating islands rarity.
+- Some config tidy up.
+- Removed some old no longer used textures and sounds from the custom resource pack.
+- Re-compressed audio to reduce file sizes by around 70%.
+- Re-compressed custom textures to reduce file sizes slightly.
+- Fixed some missing quest rewards.
+- Increase spider web chance from 10% to 15%.
+- Some small performance tweaks.
+- Fixed an EMC dupe.
+- Rebalanced some quest rewards (generally making them better).
+- Tesseract max output per tick increased to 1,000,000.
+- Set all magical crops essences EMC values to 1.
+- Set all seeds EMC values to 0.
+- Added note to texture pack warning about crash if removed.
+- Added claim tokens for smiley clouds and chance cube dispenser (must be OP to claim).
+- Removed wild mobs mod due to it creating several 'fake' untextured recipes that crash the game when hovered over.
+- Removed waystones mod due to potential world corruption if placed in an ME system plus other minor bugs.
+- Removed a few client side mods from the server download.
+- Slight changes to custom menus.
+- Added some diversity to villager textures.
+- Lowered default hostile creatures volume from 50% to 45%.
+- Fixed Bug: Boss health bar rendering issues.
+- Fixed Bug: Server login issue.
+- Fixed Bug: Some quests missing rewards.
+- Fixed Bug: Some quests have invalid item rewards.
+- Fixed Bug: Draconic armour flight speed boost not working.
+- Fixed Bug: Magical crops essences have stupidly high EMC values.
+- Fixed Bug: Some seeds have stupidly high EMC values.
+- Fixed Bug: Sky islands have potential to spawn in dimensions other than the overworld.
+- Fixed Bug: Flowing water/lava sound sometimes not playing or being cut off.
+- Added Damage-Indicators-Mod-1.7.10.
+- Added LunatriusCore-1.7.10-1.1.2.21-universal.
+- Added Schematica-1.7.10-1.7.6.131-universal.
+- Added AromaBackup-1.7.10-0.1.0.0.
+- Added Aroma1997Core-1.7.10-1.0.2.16.
+- Added ThaumicEquivalence-1.7.10-1.0.4.
+- Added SmoothFont-1.7.10-1.11.
+- Added InsiderTrading-1.7.10-1.0.2.10.
+- Added D3Core-1.7.10-1.1.2.41.
+- Added VillagerMetaFix-0.3.
+- Updated to thaumicenergistics-1.1.0.0.
+- Removed WildMobsMod-1.7.10-1.3.1.
+- Removed Waystones-mc1.7.10-1.0.5.
+- Removed CustomVillagers-1.7.10-1.2.31.
+- Removed ElecCore-1.7.10-1.4.294.
+- Removed [1.7.10]MoVillages-1.4.2.
+- Removed InGameAccountSwitcher-Forge-1.7.10-7.0.1.
+- Removed STFU-1.7.10-0.1.2.
+- Removed Neat 1.0-1.
+- Removed BattleText-1.7.10-1.0.17-67.
+- Changed some more configs.
+- Added/changed/removed some more recipes.
+- Updated the Awakening custom resource pack.
+- Removed Herobrine.
+
+2.22.0 (BUGGED DO NOT USE)
+*** Sharks With Frickin Laser Beams! ***
+Note: As previously mentioned, please swap your 'iron backpacks' backpacks for 'Backpacks!' backpacks BEFORE this update as they will be removed due to major bugs.
+- Removed volcanoes from nether to improve performance.
+- Finally fixed and re-enabled the minefactoryreloaded laser as an end game resource solution.
+- Re-enabled villager trading with new custom villagers (more trades will be added over time).
+- Added a custom trading currency only obtainable via loot.
+- Decreased river width and quantity slightly.
+- Increased plains biome weighting from 1 to 2.
+- Lowered max land height a river chasm can spawn at.
+- Increased overworld pams beehive generation.
+- More performance tweaks.
+- Changed mushroom seeds growing conditions to allow them to grow in any light level.
+- Reduced quantity of minotaurs spawning in magical forest biome.
+- Slight visual alterations to custom nether dungeons.
+- Reduced multiplayer sleep percentage from 50% to 20%.
+- Removed a few client side mods from the server download.
+- Disabled auto hover mode on jetpacks (can still be manually toggled on/off).
+- Added some usefull tools for server owners (see server download readme for more information).
+- Fixed Bug: Shaders not compatible with full Awakening pack.
+- Fixed Bug: Arc furnace not forming.
+- Fixed Bug: Ferrous tools not repairable.
+- Fixed Bug: Sesame seeds not giving any output when fully grown.
+- Fixed Bug: Tinkers smeltery outputting incorrect lead block.
+- Fixed Bug: Teleporting in quick succession or over large distances makes chunks fail to load.
+- Fixed Bug: Cactus seeds not crafting from cactus.
+- Fixed Bug: Fixed a potential world hole issue.
+- Fixed Bug: Potential slow chunk loading issue.
+- Fixed Bug: Potential crash when looking up uses for enchanted book in NEI.
+- Fixed Bug: Metal press creating wrong silver plates.
+- Fixed Bug: Fixed several invalid item rewards (thanks to birdkinglennox).
+- Fixed Bug: Emerald quest accepting shader grab bag as emerald.
+- Fixed Bug: Several minetweaker errors after initial world creation.
+- Fixed Bug: Some missing quest rewards.
+- Fixed Bug: Unable to log back into single player world after log out without reloading pack.
+- Fixed Bug: Multiple random minor issues from the issue tracker (https://minecraft.curseforge.com/projects/awakening/issues?filter-tag=&filter-action=2).
+- Suggestion: Doubled thaumcraft in world node quantity as per a user suggestion.
+- Added ItemBlacklist-1.7.10-1.2.0.8.
+- Added MoreFunQuicksandMod-1.0.8-1.7.10.
+- Added sampler-1.60.1.
+- Added ElecCore-1.7.10-1.4.294.
+- Added CustomVillagers-1.7.10-1.2.31.
+- Removed Chicken Chunk Patcher 1.1.
+- Removed Armor Overlay 2.0.
+- Removed tickdynamic-forge1.7.10-10.13.2.1291-0.1.5.
+- Removed ASMFixes-1.0.
+- Removed VillagerTradingBan-1.1.0.2-universal.
+- Removed BetterBoat-1.7.10-1.1.0.
+- Removed FastFlyBlockBreaking-MC1.7.10-0.1-build-1.
+- Removed CustomSelectionBox-1.7.10-1.3.
+- Removed CosmeticArmorReworked-1.7.10-v6b.
+- Removed FriendlyFire-1.7.10-1.0.0.
+- Removed customgen-R4-1.7.10.
+- Updated the Awakening server blacklist.
+- Changed some more configs.
+- Added/changed/removed some more recipes.
+- Added some more Legible NEI filters.
+- Added/changed/removed some more EMC values.
+- Added/changed some more HQM quests.
+- Added/changed/removed some more ore dictionary entries.
+- Renamed some more items.
+- Updated the Awakening custom resource pack.
+- Some other stuff I probably forgot.
+- Removed Herobrine.
+
+2.21.2
+*** Serving It Up Hot! ***
+- Added a default blacklist and warning mechanism to aid server owners with known bad players/griefers.
+- Fixed Bug: Potential issue with text turning to gibberish.
+- Fixed Bug: Blast off quest missing a reward.
+- Removed SmoothFont-1.7.10-1.7-beta.
+- Changed some more configs.
+- Removed Herobrine.
+
+2.21.1
+*** Hotfix! ***
+- Fixed Bug: Sticks not craftable.
+- Removed betterbeginnings-MC1.7.10-b0.9.6-R2a.
+- Removed Herobrine.
+
+2.21.0
+*** Quality Of Life Things! ***
+Note: Please swap your 'iron backpacks' backpacks for 'Backpacks!' backpacks as they will be removed in a future release due to major bugs.
+See https://minecraft.curseforge.com/projects/awakening/issues/395 for more info.
+- Compact machines now stay chunk loaded properly.
+- Removed slowness effect when on low hunger.
+- Added some more chest loot (better beginnings).
+- Lowered default music volume to 16%.
+- Added some useful info to some of the quests in the quest book.
+- Removed JAPTA mechanical generator due to it being able to produce obscene amounts of power for little to no effort.
+- Fixed Bug: Some botania stone has wrong ore dictionary registrations.
+- Fixed Bug: Mortar & pestle quest requires 2 to complete.
+- Fixed Bug: Rubber wood logs not registered as log in ore dictionary.
+- Fixed Bug: Defenses up quest missing a reward.
+- Fixed Bug: Chronotyper not craftable.
+- Fixed Bug: Ethereal glass not craftable.
+- Fixed Bug: Sapphires crafting into wrong sapphire block.
+- Fixed Bug: Animal trap only crafts with oak trapdoor.
+- Fixed Bug: Some disabled mobs trying to spawn and failing causing console spam.
+- Fixed Bug: White mushroom spores grow on dirt not mycellium like other mushrooms.
+- Fixed Bug: Cobblestone slabs only crafting in top of crafting grid.
+- Fixed Bug: Cactus crop dropping cactus green instead of cactus.
+- Fixed Bug: Potential crash when looking up recipe for book.
+- Fixed Bug: Potential crash when looking up recipe for item frame.
+- Fixed Bug: Potential crash when looking up uses for web.
+- Fixed Bug: Better sprinting config button not showing on controls screen.
+- Suggestion: Split up and simplified the initial seeds quest as per a user suggestion.
+- Suggestion: Removed chance cube dispenser from quest book due to potential misuse on servers as per a user suggestion.
+- Added Quadrum-1.7.10-1.2.0.B13-universal.
+- Added NotEnoughKeys-1.7.10-3.0.0b45-dev-universal.
+- Added betterbeginnings-MC1.7.10-b0.9.6-R2a.
+- Added Born+in+a+Barn+1.7.x.
+- Added backpacks+1.7.10+-+3.4.2.
+- Added STFU-1.7.10-0.1.2.
+- Added SmoothFont-1.7.10-1.7-beta.
+- Updated to AppleCore-mc1.7.10-3.1.1.
+- Removed Controlling-1.7.10-1.0.0.
+- Removed mc-locale-fix-1.0.
+- Changed some more configs.
+- Added some more Legible NEI filters.
+- Added/changed/removed some more EMC values.
+- Added/changed/removed some more recipes.
+- Updated the Awakening custom resource pack.
+- Added/changed/removed some more ore dictionary entries.
+- Removed Herobrine.
+
+2.20.0
+*** KAPPA! ***
+- Laid the ground work for future expert and kappa game modes.
+- Ton of technical behind the scenes technical stuff.
+- Further quest additions (actually additions, ancient trees).
+- Added FTB utilities to ease server management, also allowing 5 chunk loads in claimed chunks by default.
+- Added some more chest loot (actually additions, ancient trees, aobd).
+- Further improved worldgen load performance.
+- Added EMC values to all metals and gems naturally spawned in world.
+- Added chance cube dispensers for streamer use.
+- Fixed a minor quest book layout issue.
+- Made some changes to agricraft planting conditions.
+- Added/changed some more agricraft crossbreeds.
+- Increased crop mutation chance.
+- Increased weight of iron in loot bags.
+- Changed a few more misc textures and models.
+- Fixed Bug: Update error on client login.
+- Fixed Bug: Magnetic personality quest missing rewards.
+- Fixed Bug: Crystal chest dropping as loot bag loot even though disabled.
+- Fixed Bug: Crash when looking up leather recipe.
+- Fixed Bug: Lapis lazuli quest giving invalid item as reward.
+- Fixed Bug: Tinkers smeltery giving wrong electrum tool parts.
+- Fixed Bug: Tinkers smeltery giving wrong silver tool parts.
+- Fixed Bug: Tinkers smeltery giving wrong platinum tool parts.
+- Fixed Bug: Tinkers smeltery giving wrong lead tool parts.
+- Fixed Bug: No lead dust.
+- Fixed Bug: Crash caused by /help command.
+- Fixed Bug: Recipe conflict block of flesh.
+- Fixed Bug: Crash when looking up uses of lead ingot.
+- Fixed Bug: Several recipes missing on dedicated servers.
+- Added FTBUtilities-1.7.10-1.0.18.3.
+- Added FTBLib-1.7.10-1.0.18.3.
+- Added FTBTweaks-1.0.2.
+- Added ChanceCubes-1.7.10-2.4.1.182.
+- Added Infini-TiC-1.7.10-0.1.5.DEV.324b697.
+- Updated to FpsReducer-1.7.10-1.9.
+- Removed HelpFixer-1.0.7.
+- Removed AromaBackup-1.7.10-0.1.0.0.
+- Removed Aroma1997Core-1.7.10-1.0.2.16.
+- Removed ThermalSmeltery-1.3.1.4.
+- Removed ChiselTones-1.7.10-1.0-3.
+- Removed AutoSapling-1.1.
+- Updated the Awakening custom resource pack.
+- Added/changed some more HQM quests.
+- Changed some more configs.
+- Added some more Legible NEI filters.
+- Added/changed/removed some more EMC values.
+- Added some more INpure Core NEI filters.
+- Added/changed/removed some more recipes.
+- Removed Herobrine.
+
+2.19.2
+*** HeR0br1NE Waz ERe! ***
+- Removed some technical info displaying in NEI default view.
+- Updated cobalt ore, ardite ore and overgrown netherrack textures to match new netherrack texture.
+- Updated minicio ore textures to match new block textures.
+- Changed a few more misc textures.
+- Removed 'flame' particle.
+- Fixed Bug: Wild mobs crash (third times the charm).
+- Fixed Bug: Removed enhanced visuals as causing severe graphical issues for some users.
+- Fixed Bug: Molecular assembler and ball of moss missing recipe on servers.
+- Suggestion: Added more compressed blocks as per user suggestion.
+- Removed EnhancedVisuals v0.2.4 mc1.7.10.
+- Rolled back to WildMobsMod-1.7.10-1.3.1.
+- Added NEIlootbags-1.7.10-1.1.3.
+- Added Additional Compression-1.7.10-3.0.
+- Updated the Awakening custom resource pack.
+- Added/changed some more HQM quests.
+- Changed some more configs.
+- AdDED H3R0br1NE.
+
+2.19.1
+*** LOOK MA I DID A THING! ***
+- Altered some more mob spawn settings to alleviate possible crashes.
+- Updated to new proposed minecraft V2 default textures (https://minecraft.net/en-us/article/try-new-minecraft-java-textures).
+- Fixed Bug: Wild mobs crash (actually fixed it for real this time).
+- Fixed Bug: Wild mobs wolf not showing name properly in health bar.
+- Updated the Awakening custom resource pack.
+- Removed Herobrine.
+
+2.19.0
+*** FIXING THINGS & STUFF! ***
+- Toned down some of the visual screen effects.
+- Removed crystal worldgen.
+- Improved worldgen load performance.
+- Disabled dire wolf mob.
+- Enabled sink as an infinite water source.
+- Changed some spawning algorithms to fix potential crash.
+- Re disabled mob radar by default as drops FPS significantly.
+- Fixed Bug: Cooking with blockheads crash.
+- Fixed Bug: Wild mobs crash.
+- Fixed Bug: Decobench not craftable on servers.
+- Fixed Bug: AE2 crafting card missing recipe.
+- Removed PotionIDHelper-1.0.4.
+- Added/changed/removed some more recipes.
+- Added some more INpure Core NEI filters.
+- Added/changed some more HQM quests.
+- Removed Herobrine.
+
+2.18.7
+*** WILD THING! ***
+- Added new mobs (zomgus, mouse, butterfly, tarantula, dire wolf, dragonfly, fox, magma plant).
+- Custom mob drops (zomgus, mouse, butterfly, tarantula, dire wolf, wolf, dragonfly, fox, magma plant).
+- Increased stats of hostile mobs (zomgus, tarantula, magma plant).
+- Setup mob depth and dimension difficulty scaling (zomgus, tarantula, magma plant).
+- Added more mobs to custom dungeons.
+- Changed the end portal frame texture to make it easier to orientate.
+- Removed loud wind noise.
+- Fixed Bug: Dedicated servers not showing recipe for oak trapdoor, backpack mining filter, oak door, builder, wyvern tools & vat.
+- Fixed Bug: Potion ID mismatch between well fed and flammable.
+- Fixed Bug: Oak door only crafting on left side of crafting grid.
+- Fixed Bug: Netherwart not always growing in the overworld.
+- Fixed Bug: Chunk load performance issue causing world holes.
+- Fixed Bug: Fixed a potential thaumcraft crash caused by witching gadgets.
+- Fixed Bug: Invalid quest reward in wallpaper craft quest.
+- Added WildMobs-1.7.10-1.4-dev-1.
+- Added PotionIDHelper-1.0.4.
+- Changed some more configs.
+- Added/changed/removed some more recipes.
+- Removed Herobrine.
+
+2.18.6
+*** HOTFIX! ***
+- Made food and saturation values less punishing.
+- Added a use for hive blocks.
+- Fixed Bug: Steel scaffolding recipe potential bug.
+- Fixed Bug: Quest book set to edit mode by default.
+- Changed some more configs.
+- Added/changed/removed some more recipes.
+- Removed Herobrine.
+
+2.18.5
+*** IMPORTANT PLEASE READ! ***
+Please Note: This is a massive update! If you are updating from an old version, it is HIGHLY advised to create a new world.
+Note: You can however update an Awakening 1.x.x world to run Awakening 2.x.x by following this easy guide:
+https://www.youtube.com/watch?v=-1IZCnTx7yQ
+- Further quest additions (ender storage).
+- Improved pack load time.
+- Many new sounds.
+- Major performance overhaul, pack should run much better in general and be playable on some systems that couldn't run it before.
+- Tons of new custom world gen both above and below ground.
+- Added new mobs - haunted armour, minotaur & mimic.
+- Custom mob drops (armour, minotaur & mimic).
+- Increased stats of hostile mobs (armour, minotaur & mimic).
+- Setup mob depth and dimension difficulty scaling (armour, minotaur & mimic).
+- Lowered spawn rate, cap and despawn times slightly to improve performance.
+- Removed the 3D style and break animation of the custom selection box.
+- Added default hotkey 'O' to open better sprinting mod menu.
+- Removed some console spam.
+- Enabled mob radar on mini map and fullscreen map by default.
+- Added several custom radar mob icons (more to follow).
+- Spiders now have a rare chance to spawn 1-4 spiderlings on death.
+- Normalized a large portion of sounds/audio.
+- Moved some HUD elements slightly to avoid overlaps.
+- Changed some settings related to hunger.
+- Increased lunchbox/bag max stack size to 8.
+- Disabled some more items.
+- Stopped silk touch picking up mob spawners.
+- Removed the walking nest mob due to it causing huge amounts of spiderlings to spawn when on fire lagging out the world.
+- Added a few more custom texture changes.
+- Re-ordered & tidied up the quest book.
+- Changed some biome spawn weights to prioritize flatter biomes.
+- Reduced min distance between villages by roughly 30%.
+- Added crafting recipe path for primordial pearl.
+- Added new custom magical crops.
+- Rebalanced chest loot.
+- Tidied up NEI hover over information.
+- Changed garden dirt for fertilized dirt as default soil for magical crops due to bug with garden dirt.
+- Slightly increased minimum iron ore per chunk from 12 to 14.
+- Updated lava monsters texture to match new lava texture.
+- Removed custom hive dungeon due to being a major cause of lag.
+- Added rftools volcanoes to world gen in the nether.
+- Removed some unused files to reduce overall file size slightly.
+- Removed a whole bunch of potential lag in the nether.
+- Reverted default bucket texture to avoid mismatches.
+- Turned off cross hair colour change on mob hover as slightly buggy.
+- General config tidy up.
+- Removed thoqqua mob due to 'fake fire' multi player bug.
+- Fixed Bug: Diamond infused obsidian sometimes dropping normal diamond ore instead of itself.
+- Fixed Bug: Massive chests quest reward giving unlimited creative pure nodes.
+- Fixed Bug: Main menu unresponsive for several seconds after load.
+- Fixed Bug: Seeds planting on garden dirt without crop seeds (but not growing).
+- Fixed Bug: Potential growth issue with obsidian seeds.
+- Fixed Bug: Nuclearcraft recipe conflict.
+- Fixed Bug: Player render issue.
+- Fixed Bug: Large number of cobblestone slabs not in oredict.
+- Fixed Bug: Jetpack armour quest missing rewards.
+- Fixed Bug: Spring cleaning quest missing a reward.
+- Fixed Bug: Player head/skull render issue.
+- Fixed Bug: Wither skeleton seeds only grow on base block that requires wither essence (changed base block).
+- Fixed Bug: Creative energy cell showing a recipe even though item disabled.
+- Fixed Bug: Incense quest not detecting properly, changed detection type to NBT independent.
+- Fixed Bug: Double torch placement bug.
+- Fixed Bug: Shears not showing in NEI.
+- Fixed Bug: /help command throwing error.
+- Fixed Bug: Boss health bar showing bugged texture for users of optifine.
+- Fixed Bug: Jungle biomes not appearing or at a extremely low rate.
+- Fixed Bug: Stuffed eggplant double recipe.
+- Fixed Bug: Several quests missing a reward.
+- Fixed Bug: Sapphire not processing to dust in SAG mill.
+- Fixed Bug: No recipe for the molecular assembler.
+- Fixed Bug: Some thaumcraft aspects for botania items broken.
+- Fixed Bug: Diamond lattice not visible in NEI.
+- Fixed Bug: Sapphire block not crafting back to sapphire item.
+- Fixed Bug: Shroom powder crafting recipe conflict.
+- Fixed Bug: Removed unneeded broken infusion stone dupe/repair recipes.
+- Fixed Bug: Wooden fences spawning in nether dungeons.
+- Fixed Bug: Removed broken fox mob from spawn list to avoid numerous errors being posted in log file.
+- Fixed Bug: Some recipes not showing or craftable on dedicated servers.
+- Fixed Bug: Thoqqua mob creating fire which is only visible to and intractable by some players.
+- Fixed Bug: Botania flower quests set to NBT detection type causing all to complete at once, changed to precise detection.
+- Suggestion: Added a chunk loader but with a hard recipe as per user suggestion.
+- Suggestion: Added dimensional shards as rare overworld chest loot as per user suggestion.
+- Added LightTweaks-0.21.
+- Added AutoSapling-1.1.
+- Added [1.7.10]DirectionHUD-client-1.24.
+- Added DeathQuotes-1.2.0-mc1.7.10-forge.
+- Added OmniOcular-1.7.10-1.0build103.
+- Added Bookshelf-1.7.10-1.0.4.187.
+- Added FpsReducer-1.7.10-1.8.
+- Added HungerOverhaul-1.7.10-1.0.0.jenkins104.
+- Added BetterBoat-1.7.10-1.1.0.
+- Added ActuallyAdditions-1.7.10-r21.
+- Added BetterBuildersWands-0.8.1-1.7.10r92+aec06c3.
+- Added ChickenChunks-1.7.10-1.3.4.19-universal.
+- Added PlayerAPI-1.7.10-1.4.
+- Added SmartRender-1.7.10-2.1.
+- Added True Invisibility - 0.1.0.
+- Added HelpFixer-1.0.7.
+- Added mc-locale-fix-1.0.
+- Added ASMFixes-1.0.
+- Added waila-blacklist-1.7.10-0.1.
+- Added WailaEvents-1.0.0.
+- Added customgen-R4-1.7.10.
+- Added EnhancedVisuals v0.2.4 mc1.7.10.
+- Added Chicken Chunk Patcher 1.1.
+- Added DecorativeStyles-1.7.10-0.0.6.
+- Added [1.7.10]MoVillages-1.4.2.
+- Updated to ForgeMultipart-1.7.10-1.2.0.347-universal.
+- Updated to DynamicSurroundings-1.7.10-1.0.6.0.
+- Updated to Avaritia-1.13.
+- Removed to minetogether-1.7.10-1.8.7.
+- Removed BetterPlacement-MC1.7.10-1.0.0-1.
+- Removed AutoDropper-1.7.10-1.0.0.
+- Removed Ruins-1.7.10.
+- Removed middletorch-1.0.4.
+- Removed DragonAPI 1.7.10 V19c.
+- Removed GeoStrata 1.7.10 V19a.
+- Removed quickhotbar_1710_1.04.
+- Removed dropoff-1.7.10-2.8.4.
+- Added/changed some more HQM quests.
+- Added/changed/removed some more recipes.
+- Added some more INpure Core NEI filters.
+- Added/changed/removed some more ore dictionary entries.
+- Renamed some more items.
+- Updated the Awakening custom resource pack.
+- Removed Herobrine.
+
+-----PREVIOUS VERSIONS-----
+2.18.4
+*** DEV NULL! ***
+Curse blocked upload, awaiting further approval.
+- Removed Herobrine.
+
+1.18.3
+*** SOUNDS GOOD TO ME! ***
+- Added more new custom music to the overworld and nether.
+- Disabled some more items.
+- More performance boosts.
+- Replaced all items in recipes that require the soul binder.
+- Fixed Bug: Several potential server crash issues.
+- Fixed Bug: Some botania stones types not in ore dictionary.
+- Fixed Bug: Quest order issue in steel quest line.
+- Fixed Bug: Botania floating flowers uncraftable.
+- Fixed Bug: Re-compressed all custom music files to remove 'popping'.
+- Fixed Bug: Removed duplicate song from overworld play list.
+- Fixed Bug: Silver tinkers tool not repairing with silver ingots or blocks.
+- Fixed Bug: Mining flux crystal in nether causing CTD (old ones in world will still cause crash).
+- Fixed Bug: Some broken quest lines.
+- Added gearswap-1.2.3.
+- Added middletorch-1.0.4.
+- Added fastcraft-1.25.
+- Removed CaveControl 1.7.10 V19a.
+- Added/changed/removed some more ore dictionary entries.
+- Added/changed/removed some more recipes.
+- Added some more INpure Core NEI filters.
+- Added/changed some more HQM quests.
+- Renamed some more items.
+- Updated the Awakening custom resource pack.
+- Removed Herobrine.
+
+1.18.2
+*** LOOK WHAT SANTA BROUGHT... AN UPDATE! ***
+- Further quest additions (compact machines & enderio).
+- Merged new default textures into awakening textures.
+- Fixed mismatched texture for enderio existing item filter.
+- Added some random mob textures for users of optifine.
+- Improved a few textures keeping vanilla feel (cactus, lava, grass/snow block sides).
+- Rebalanced chest loot.
+- Disabled some more items.
+- Fixed Bug: Lava stone only accepting vanilla stone.
+- Fixed Bug: Agricraft farming station asks for hoe instead of mattock.
+- Fixed Bug: Obsidian dust hidden from NEI.
+- Fixed Bug: Redstone comparator uncraftable.
+- Fixed Bug: Turnip reappearing after being eaten.
+- Fixed Bug: Carrot reappearing after being eaten.
+- Added/changed/removed some more recipes.
+- Changed some more configs.
+- Added some more INpure Core NEI filters.
+- Added/changed some more HQM quests.
+- Added/changed/removed some more ore dictionary entries.
+- Renamed some more items.
+- Updated the Awakening custom resource pack.
+- Removed Herobrine.
+
+1.18.1
+*** IT'S STARTING TO LOOK A LOT LIKE CHRISTMAS! ***
+- Further quest additions.
+- Updated to new proposed minecraft default textures (https://minecraft.net/sv-se/article/try-new-minecraft-java-textures).
+- Updated botania textures to use compatible new 1.12 textures.
+- Added new custom clearer water texture.
+- More small performance tweaks.
+- Disabled some items.
+- Re-removed fullscreen windowed mod by default due to FPS issues being caused for a lot of people (add it manually if you want it).
+- Fixed Bug: Possible server startup crash.
+- Removed FullscreenWindowed-1.7.10-1.3.0b.
+- Added/changed/removed some more recipes.
+- Added/changed some more HQM quests.
+- Added some more Legible NEI filters.
+- Updated the Awakening custom resource pack.
+- Added some more INpure Core NEI filters.
+- Changed some more configs.
+- Added/changed/removed some more recipes.
+- Removed Herobrine.
+
+1.18.0
+*** ALL THE BELLS AND WHISTLES! ***
+- Further quest additions (tons of botania quests).
+- More small performance tweaks.
+- Small changes to custom dungeon generation.
+- More decoration variation in custom nether dungeons.
+- More mob variation in custom hive dungeon.
+- Disabled some items.
+- Changed some mob drops (walking nest).
+- Increased stats of hostile mob (walking nest).
+- Setup mob depth and dimension difficulty scaling (walking nest).
+- Fixed Bug: Mass empty chests sometimes generating near nether spawn and under water in the overworld.
+- Fixed Bug: Walking nest spawning hordes of spiderlings when on fire.
+- Fixed Bug: Duplicate ruby.
+- Fixed Bug: Sand smelting into red stained glass instead of standard glass.
+- Added CosmeticArmorReworked-1.7.10-v6b.
+- Added CustomSelectionBox-1.7.10-1.3.
+- Added crosshairmod-v0.8.3-forge-mc1.7.10.
+- Updated to AppleCore-mc1.7.10-3.1.0.
+- Updated to legiblenei_1.7.10-1.5.7.6.2.
+- Rolled back to DoomlikeDungeons-1.8.10-MC1.7.10.
+- Changed some more configs.
+- Added some more INpure Core NEI filters.
+- Added/changed/removed some more ore dictionary entries.
+- Added/changed some more HQM quests.
+- Added some more Legible NEI filters.
+- Added/changed/removed some more recipes.
+- Removed Herobrine.
+
+1.17.2
+*** Whoomp There It Is! https://tinyurl.com/y7f7fuaj ***
+- Small performance tweaks.
+- Further quest additions.
+- Changed overworld skybox to use botania garden of glass skybox.
+- Fixed Bug: Mana storage quest missing requirement and rewards.
+- Fixed Bug: Some disabled items still showing in NEI.
+- Fixed Bug: Drop off button not working.
+- Added/changed some more HQM quests.
+- Added some more INpure Core NEI filters.
+- Added/changed/removed some more recipes.
+- Added/changed/removed some more oredictionary entries.
+- Added some more Legible NEI filters.
+- Removed Herobrine.
+
+1.17.1
+*** Part Of The PC Master Race! ***
+- Balanced applied energistics crafting recipies.
+- Further quest additions (tons of AE2 quests).
+- Disabled some items.
+- Fixed Bug: Arrows non functional in creative mode.
+- Fixed Bug: Ender pearl dust hidden in NEI.
+- Fixed Bug: Duplicate item name.
+- Updated to dropoff-1.7.10-2.8.3.
+- Updated to creeperhost-1.7.10-1.7.0.
+- Added more thaumcraft aspects to some items/blocks.
+- Renamed some more items.
+- Added/changed/removed some more recipes.
+- Added some more INpure Core NEI filters.
+- Added some more Legible NEI filters.
+- Updated the Awakening custom resource pack.
+- Added/changed some more HQM quests.
+- Removed Herobrine.
+
+1.17.0
+*** POW! ***
+- Removed unfinished story quest to concentrate on main questlines.
+- Added some more chest loot (Custom Things).
+- Fixed Bug: Some players unable to travel to the nether or end.
+- Updated to AppleCore-mc1.7.10-3.0.0.
+- Removed LockedDimensions-0.9.2.
+- Added/changed some more HQM quests.
+- Added/changed/removed some more oredictionary entries.
+- Renamed some more items.
+- Changed some more configs.
+- Removed Herobrine.
+
+1.16.5
+*** BIGGER IS BETTER AND BIGGEST IS BEST! ***
+- Yet more quest & story additions.
+- Added some more INpure Core NEI filters.
+- Added/changed/removed some more recipes.
+- Added/changed some more HQM quests.
+- Renamed some more items.
+- Removed Herobrine.
+
+1.16.4
+*** 100% EXTRA FREE! ***
+- More quest & story additions.
+- Added new music to the overworld.
+- Added the ability to order a Creeperhost server with Awakening modpack preinstalled from within the client.
+- Fixed Bug: Scroll wheel sometimes moving 2 items at a time instead of 1.
+- Added creeperhost-1.7.10-1.6.0.
+- Added Translocator-1.7.10-1.1.2.16-universal.
+- Removed itemscroller-1.7.10-0.12.0-alpha.1.
+- Added/changed some more HQM quests.
+- Added/changed/removed some more recipes.
+- Removed Herobrine.
+
+1.16.3
+*** OUT OF BETA! ***
+- Many more quest changes and additions.
+- Changed recommended optifine version to OptiFine_1.7.10_HD_U_E3.
+- Changed default smooth lighting option to minimum.
+- Changed default brightness to +40%.
+- Changed default weather volume to 40%.
+- Fixed Bug: Adamantine quest missing detection item.
+- Fixed Bug: Potential item duplication bug.
+- Fixed Bug: Horse meat hidden in NEI.
+- Fixed Bug: Little blocks displaying black for some players.
+- Fixed Bug: Redstone comparator uncraftable.
+- Updated to BetterFoliage-MC1.7.10-2.0.17.
+- Updated to Avaritiaddons-1.4b.
+- Added/changed some more HQM quests.
+- Added some more INpure Core NEI filters.
+- Removed Herobrine.
+
+0.16.2
+*** BOOM SURPRISE UPDATE! ***
+- Added/changed some more HQM quests.
+- Added/changed/removed some more recipes.
+- Renamed some more items.
+- Added/changed/removed some more oredictionary entries.
+- Removed Herobrine.
+
+0.16.1
+*** GOT TO LOVE A CHALLENGE! ***
+- Many more quest changes and additions.
+- Added new quest category - challenges, available after defeating the ender dragon.
+- Increased some drop despawn times.
+- Udated to DragonAPI 1.7.10 V19c.
+- Updated to dropoff-1.7.10-2.8.0.
+- Added/changed some more HQM quests.
+- Changed some more configs.
+- Removed Herobrine.
+
+0.16.0
+*** 100% NEWB FRIENDLY! ***
+- Broke up some larger quest chains and added a ton more quests.
+- Fixed Bug: Duplicate aluminium ingots listed in ore dictionary.
+- Fixed Bug: Fixed some minor grammer and spelling errors.
+- Udated to dropoff-1.7.10-2.7.7b.
+- Added/changed some more HQM quests.
+- Added/changed/removed some more oredictionary entries.
+- Added/changed/removed some more recipes.
+- Removed Herobrine.
+
+0.15.2
+*** THINGS AND STUFF! ***
+- Updated textures for metal slabs and fences to match respective blocks.
+- Fixed Bug: Some immersive engineering slabs uncraftable or wrong recipe.
+- Fixed Bug: Recipe clash between vanilla fence and treated wood fence.
+- Fixed Bug: Turnip seed not leveling up via agricraft.
+- Added FullscreenWindowed-1.7.10-1.3.0b.
+- Updated to CaveControl 1.7.10 V19a.
+- Updated to DragonAPI 1.7.10 V19b.
+- Updated to GeoStrata 1.7.10 V19a.
+- Removed PackGuard-1.7.10-2.3.0d.
+- Removed ElsewhereBorder-1.7.10-1.0.0-5-universal.
+- Updated the Awakening custom resource pack.
+- Changed some more configs.
+- Added/changed/removed some more recipes.
+- Added some more INpure Core NEI filters.
+- Added/changed some more HQM quests.
+- Renamed some more items.
+- Removed Herobrine.
+
+0.15.1
+*** MISTAKES WERE MADE! ***
+- Upload fix to remove accidentally uploaded dev files.
+- Removed Herobrine.
+
+0.15.0
+*** TECHNICALLY BETTER! ***
+- Added new music to the overworld.
+- Added ability to change user and re-login without quitting the game.
+- New custom cursor.
+- Changed stating inventory slightly.
+- Increased default music volume to 18%.
+- Tips are back in the quest book! More will be added over time.
+- Fixed Bug: Constantan dust not melting in smeltery.
+- Fixed Bug: Some duplicate items in the storage quest lines.
+- Fixed Bug: Black cactus textures.
+- Fixed Bug: Portal and some chisel blocks transparant for some users of optifine.
+- Fixed Bug: Serveral recipes for slabs missing.
+- Fixed Bug: Serveral recipes for stairs missing.
+- Fixed Bug: Netherrack redstone ore not showing name properly.
+- Added InGameAccountSwitcher-Forge-1.7.10-7.0.1.
+- Added ReAuth-3.5.0.
+- Added LockedDimensions-0.9.2.
+- Added itemscroller-1.7.10-0.12.0-alpha.1.
+- Added CustomCursorMod-1.0.
+- Updated to ExtraCells-1.7.10-2.3.14b200.
+- Removed FancyBlockParticles-1.7.10-2.2.3.
+- Removed LoreExpansion-1.7.10-1.0.5.B11.
+- Added/changed/removed some more oredictionary entries.
+- Added/changed some more HQM quests.
+- Updated the Awakening custom resource pack.
+- Renamed some more items.
+- Changed some more configs.
+- Added/changed/removed some more recipes.
+- Removed Herobrine.
+
+0.14.2
+*** FREE FPS (JUST FOR YOU KATTALEENE)! ***
+- Increased minimum iron ore per chunk slightly from 10 to 12.
+- Adjusted some more settings to increase FPS slightly.
+- Added custom story item - world fragment (to be implemented in a future update).
+- Removed fastcraft being in the pack by default due to FPS issues being caused for some people (add it manually if you want it).
+- Removed fullscreen windowed mod by default due to FPS issues being caused for a lot of people (add it manually if you want it).
+- Changed recommended optifine version from HD_U_D6 to HD_U_D8 (note: D8 is not compatible with fastcraft, use D6 if you use fastcraft).
+- Fixed Bug: FPS locked to 60fps for some people even with vsync disabled and FPS uncapped.
+- Fixed Bug: Attempted again to fix the bug with mass empty chest generation in the nether.
+- Updated to DoomlikeDungeons-1.10.0-MC1.7.10.
+- Removed fastcraft-1.23.
+- Removed FullscreenWindowed-1.7.10-1.3.0b.
+- Changed some more configs.
+- Removed Herobrine.
+
+0.14.1
+*** DOH! ***
+- Upload fix to remove accidentally uploaded files.
+- Removed Herobrine.
+
+0.14.0
+*** MUCH NEW, VERY GOOD, TOTAL WOW! ***
+- Massive quest book overhaul.
+- Added hundereds of new HQM quests.
+- Added several more rare 'boss' mobs to custom dungeons.
+- Fixed Bug: Mod autooredictconv-1.7.10-1.3.1 missing from server upload.
+- Fixed Bug: Making mana quest not accepting dayblooms/nightshades after they have been used.
+- Fixed Bug: The philosophers stone quest not accepting item after it has been used.
+- Fixed Bug: Several types of cobblestone not crafting to the right variant of slab.
+- Fixed Bug: Sheet metal block recipe conflict.
+- Fixed Bug: Aluminum nuggets not crafting to ingots.
+- Fixed Bug: Buckets and shears crafted with alternative metals smelt to iron.
+- Fixed Bug: Duplicate gardeners dirt - renamed.
+- Added CanIJoinNow-1.7.10-1.0-3.
+- Added quickhotbar_1710_1.04.
+- Added DropOff_1.7.10_2.7.6.
+- Added MutantCreatures-1.7.10-1.4.9.
+- Added AnimationAPI-1.7.10-1.2.4.
+- Added BetterPlacement-MC1.7.10-1.0.0-1.
+- Added FancyBlockParticles-1.7.10-2.2.3.
+- Updated to PortalGun-4.0.0-beta-6-fix-1.
+- Updated to SpiceOfLife-mc1.7.10-1.3.11.
+- Added/changed some more HQM quests.
+- Changed some more configs.
+- Updated the Awakening custom resource pack.
+- Added some more INpure Core NEI filters.
+- Removed Herobrine.
+
+0.13.9
+*** KEEP ROLLING, ROLLING, ROLLING! http://bit.ly/IqT6zt ***
+- Enabled flint to be used for tinkers sword blades.
+- Fixed Bug: Suspended server mod causing issues on some servers - removed mod until fix is available.
+- Fixed Bug: Blank text lines appearing in chat during automatic world backups.
+- Fixed Bug: Draw controller and slave uncraftable.
+- Fixed Bug: Magical crops quest invalid reward option.
+- Fixed Bug: Grammar errors in quest book.
+- Increased some item drop despawn times.
+- Enabled distance fog to improve FPS slightly.
+- Updated to StorageDrawers-1.7.10-1.10.9.
+- Removed SuspendedServer-1.0.1.
+- Removed clearchat-1.1.
+- Removed BNBGamingLib-2.3.2.
+- Removed Blur-MC1.7.10-1.0.1-2.
+- Added/changed some more HQM quests.
+- Added/changed/removed some more recipes.
+- Removed Herobrine.
+
+0.13.8
+*** PATCH! ***
+- Fixed Bug: Two versions of tainted magic accidentally uploaded in server version.
+- Fixed Bug: Transmutation table uncraftable.
+- Fixed Bug: Some dyes uncraftable using technicolor essence.
+- Fixed Bug: World border in the end preventing players finding chaos islands. Increased default world border in end from 2500 to 100000 blocks.
+- Added/changed/removed some more recipes.
+- Changed some more configs.
+- Removed Herobrine.
+
+0.13.7
+*** A MASSIVE LITTLE MOD ADDITION! ***
+- Added LittleTiles v1.2.0 mc1.7.10.
+- Added CreativeCore v1.3.24 mc1.7.10.
+- Updated to Avaritiaddons-1.4.
+- Updated to CaveControl 1.7.10 V18a.
+- Updated to DragonAPI 1.7.10 V18b.
+- Updated to GeoStrata 1.7.10 V18a.
+- Updated to WirelessCraftingTerminal-1.7.10-rv3-1.8.7.9b.
+- Updated to Tainted-Magic-r7.82.
+- Added some more INpure Core NEI filters.
+- Removed Herobrine.
+
+0.13.6
+*** SMALL FIX! ***
+- Fixed Bug: Tampered warning message on launch on non tampered pack.
+- Updated to WirelessCraftingTerminal-1.7.10-rv3-1.8.7.8b.
+- Added/changed/removed some more recipes.
+- Removed Herobrine.
+
+0.13.5
+*** WELCOMING CRYOBYTE33 TO THE TEAM! ***
+- Fixed Bug: NVLSimpleBlocks causing dedicated servers to crash on startup.
+- Fixed Bug: Some nuclearcraft blocks/items uncraftable.
+- Updated to Tainted-Magic-r7.81.
+- Updated to craftingtweaks-mc1.7.10-1.0.88.
+- Updated to Farseek-1.7.10-2.0.1.
+- Updated to WirelessCraftingTerminal-1.7.10-rv3-1.8.7.6b.
+- Removed NVLSimpleBlocks-1.7.10.1558.1.0.
+- Added/changed/removed some more recipes.
+- Added some more INpure Core NEI filters.
+- Removed Herobrine.
+
+0.13.4
+*** SHOWING THE NETHER SOME LOVE! ***
+- Further decreased spawn chance of flux crystals in the nether.
+- Reduced rising soul change from soul sand.
+- Added new worldgen to nether (noose, spike1, spike2, spike3, spike4, spike5).
+- Added HDTEXT 1.1 resource pack.
+- Added NVLSimpleBlocks-1.7.10.1558.1.0.
+- Updated to Tainted-Magic-r7.7.
+- Changed some more configs.
+- Added some more INpure Core NEI filters.
+- Removed Herobrine.
+
+0.13.3
+*** IT'S NOT A CULT! ***
+- Changed some mob drops (crimson knight & crimson cleric).
+- Increased stats of hostile mob (crimson knight & crimson cleric).
+- Setup mob depth and dimension difficulty scaling (crimson knight & crimson cleric).
+- Decreased spawn chance of flux crystals in the nether.
+- Changed min/max gen heights for some custom dungeons.
+- Added new worldgen to nether (lava vent).
+- Fixed Bug: Bookshelf recipe missing.
+- Fixed Bug: Crimson knight dropping vanilla iron sword.
+- Removed Herobrine.
+
+0.13.2
+*** DEV NULL! ***
+- Upload fix to remove accidentally uploaded files.
+- Removed Herobrine.
+
+0.13.1
+*** NO LONGER THE LIFE OF BRIAN! ***
+- Removed 'Brian' easter egg mob from nuclear craft.
+- Reduced item drop despawn times to improve performance slightly.
+- Removed client side backup message spam (left enabled in server console).
+- Updated server setup.
+- Fixed Bug: Server pregenerating huge amount of chunks well beyond world border.
+- Fixed Bug: Server high memory use on load stopping players connecting.
+- Fixed Bug: Modifications stuck minetweaker error.
+- Fixed Bug: Some wooden tinkers parts accidentally disabled.
+- Added PackGuard-1.7.10-2.3.0d.
+- Added PickBlockPlus-1.7.10-1.1.1.
+- Added LingeringLoot-1.7.10-2.5.
+- Added clearchat-1.1.
+- Updated BetterFoliage-MC1.7.10-2.0.16.
+- Removed chunkgen-1.7.10-1.3.0.
+- Added/changed some more HQM quests.
+- Added/changed/removed some more recipes.
+- Removed Herobrine.
+
+0.13.0 - IMPORTANT!!!: This is the largest update yet. If you are updating from an old version, you WILL need to download a fresh instance.
+*** MAJOR CHANGES! ***
+- Awakening portal now teleports player to a void world.
+- Background work on technical elements of story.
+- Added more open and dangerous large caverns at bottom of overworld.
+- Added some more chest loot (Random Things, Geostrata & Draconic Evolution).
+- Removed/disabled strongholds (end portals are craftable).
+- Moved draconic evolution HUD location to not overlap other HUD elements.
+- Set draconic evolution default config key to 'grave'.
+- Changed some mob and villager options to help improve performance slightly.
+- Reduced default music volume to 17%.
+- Increased default player volume to 100%.
+- Reduced max particle limit to help improve FPS in areas with excessive particles.
+- Changes to main menu.
+- Removed/merged several more duplicate items/foods etc.
+- Changed default option smooth lighting to minimum from maximum to increase fps slightly.
+- Increased cave quantity.
+- Updated loading screen.
+- Added world border to improve performance on servers.
+- Changed starting inventory slightly.
+- Allowed villages in more biome types.
+- Updated server installation and help file.
+- Fixed Bug: Finally fixed the minetweaker recipe desync between server and clients thanks to help from blank187.
+- Fixed Bug: Using scroll wheel to move items between containers 'glitching'.
+- Fixed Bug: Diamond infused obsidian dropping diamonds not itself when mined.
+- Fixed Bug: Wither skeleton spawners in custom nether dungeons not spawning mobs.
+- Fixed Bug: Villagers trading for removed items.
+- Fixed Bug: Incorrect terminal type required for computational quest.
+- Fixed Bug: Unusable often non named souls dropping from mobs.
+- Fixed Bug: Additional files in server version causing mod mismatch.
+- Fixed Bug: Custom planks ore dictionaried incorectly.
+- Fixed Bug: Green limestone dropping polished limestone.
+- Fixed Bug: Netherrack quantum ore displaying name incorrectly.
+- Fixed Bug: Extra utilities compressed dirt & sand not displaying name correctly in tooltip.
+- Fixed Bug: Disabled spawn player on lilypad when spawn in or over water due to sometimes glitching player in block.
+- Fixed Bug: Some BOP stones have wrong mining levels.
+- Fixed Bug: Walking nests spawning in large quantities in some overworld biomes.
+- Fixed Bug: Cursed earth not spawning mobs - disabled as not compatible with JAS.
+- Fixed Bug: Thermal expansion invalid item removed.
+- Fixed Bug: Client side mods in server version.
+- Added Better Foliage MC1.7.10-2.0.15 mod.
+- Added Realistic Pain 2.0-1.7.10 mod.
+- Added Underp Hangables 1.7.10-1.0.1 mod.
+- Added Dynamic Surroundings 1.7.10-1.0.5.12 mod.
+- Added Villager Trading Ban 1.1.0.2 mod.
+- Added Lore Expansion 1.0.6 mod.
+- Added Cave Control 1.7.10 V17b mod.
+- Added Dragon API 1.7.10 V17c mod.
+- Added Geo Strata 1.7.10 V17c mod.
+- Added Nuclear Craft 1.9f mod.
+- Added Suspended Server 1.0.1 mod.
+- Added BNBGamingLib 2.3.2 mod.
+- Added Compact Machines  1.7.10-1.21 mod.
+- Added Blur 1.0.1 mod.
+- Added ElsewhereBorder-1.7.10-1.0.0-5-universal.
+- Added Aroma Backup 1.7.10-0.1.0.0 mod.
+- Added Aroma 1997 Core 1.7.10-1.0.2.16 mod.
+- Added FriendlyFire-1.7.10-1.0.0.
+- Added chunkgen-1.7.10-1.3.0.
+- Updated Farseek mod to 1.7.10-2.0.
+- Updated Streams mod to 1.7.10-0.3.3.
+- Updated WanionLib mod to 1.7.10-1.8.
+- Updated Open Modular Turrets mod to 1.7.10-2.2.11-238.
+- Updated Waystones mod to 1.7.10-1.0.5.
+- Updated Deco Craft 2 mod to 2.4.2_1.7.10.
+- Updated Better Loading Screen mod to 1.3.10.
+- Removed Solar Flux 1.7.10-0.8b mod.
+- Removed BiblioWoods BiomesOPlenty v1.9 mod.
+- Removed BiblioWoods Highlands v1.4 mod.
+- Removed BiblioCraft v1.11.5 mod.
+- Removed BigReactors 0.4.3A mod.
+- Removed Railcraft 1.7.10-9.12.2.0 mod.
+- Removed TMechworks 1.7.10-0.2.15.106 mod.
+- Removed Mr Crayfish Furniture Mod v3.4.7.
+- Removed Yet Another Backup Mod 2 1.7.10-2.0.4a.
+- Removed Automagy-1.7.10-0.28.2.
+- Removed boilerplate-1.7.10-6.3.0.81-universal.
+- Removed buildersguides-1.7.10-1.0.2.
+- Removed D3Core-1.7.10-1.1.2.41.
+- Removed DimensionalCore-1.7.10-1.0.7.
+- Removed DropOff_1.7.10_2.7.3.
+- Removed fognerf-1.7.10-0.4.
+- Removed JWIN_v0.10.2_1.7.10.
+- Removed llibrary-1.5.1-1.7.10.
+- Removed Login_Shield-1.2-10-gd36e6a4.
+- Removed moarcarts-1.7.10-1.2.4-11.
+- Removed NotEnoughKeys-1.7.10-3.0.0b45-dev-universal.
+- Removed quickhotbar_1710_1.04.
+- Removed ScottsTweaks-1.7.10-1.3.1.
+- Removed ShadowTweaks-1.7.10-1.5.1.
+- Removed SquidAPI-1.1.15.
+- Removed ThaumicEquivalence-1.7.10-1.0.4.
+- Removed waila-blacklist-1.7.10-0.1.
+- Removed WailaEvents-1.0.0.
+- Added/changed/removed some more recipes.
+- Changed some more configs.
+- Added/changed/removed some more EMC values.
+- Added/changed/removed some more oredictionary entries.
+- Added/changed some more HQM quests.
+- A lot of things I probably forgot.
+- Removed Herobrine.
+
+0.12.0
+*** THE PURGE! ***
+Please Note: This is a massive update. If you are updating from an old version, it is HIGHLY advised to create a new world. If not anything in your world from the removed mods below will disappear.
+- Removed several mods to increase overall performance and significantly reduce pack bloat.
+- Reduced pack load time by approx 10-20 seconds.
+- Tweaked some minor settings to improve performance very slightly.
+- Reduced salt ore world gen quantity.
+- Added custom crop for salt.
+- Added download link to server files on main menu.
+- Added support tab to pause menu.
+- Removed railcraft electric locomotive - no way to charge.
+- Changed starting inventory slightly.
+- Fixed Bug: Yellorium pouring wrong amounts into smeltery basin and ingot cast.
+- Fixed Bug: Fixed some minor grammer and spelling errors.
+- Fixed Bug: Several seeds missing recipes.
+- Fixed Bug: Golem mace arm uncraftable.
+- Fixed Bug: Multiple awakening portals spawning and stacking ontop of each other (one for each player).
+- Fixed Bug: Custom swamp trees spawning in nether.
+- Fixed Bug: No way to obtain industrial hemp seeds.
+- Fixed Bug: Ritual of gaia II quest not accepting dice of fate.
+- Fixed Bug: No EMC value for sugar.
+- Fixed Bug: Gadomancy eldritch portal teleporting to wrong dimension.
+- Fixed Bug: Perfodio aspect unobtainable.
+- Added Solar Flux 1.7.10-0.8b mod.
+- Added Yet Another Backup Mod 2 1.7.10-2.0.4a mod.
+- Updated Decocraft mod to 2.4.1_1.7.10.
+- Updated Wanion Lib mod to 1.7.10-1.6.
+- Updated EnderIO Addons mod to 0.10.13.
+- Removed Glass Works 1.7.10-1.2 mod.
+- Removed Horizontal Glass Panes 1.7.10-1.1.0.4-universal mod.
+- Removed No More Recipe Conflict 0.3 mod.
+- Removed Steves Factory Manager A93 mod.
+- Removed Steves Addons 1.7.10-0.10.16 mod.
+- Removed Village Names 1.7.10-1.0 mod.
+- Removed Vending v1.2.3 mod.
+- Removed Thaumic Upholstry 1.2_1.7.10 mod.
+- Removed TC Botania Exoflame 1.7.10-1.4 mod.
+- Removed Sidben Redstone Jukebox 1.7.10-2.2 mod.
+- Removed Aroma 1997 Core 1.7.10-1.0.2.16 mod.
+- Removed Aroma Backup 1.7.10-0.1.0.0 mod.
+- Removed Ascribe 1.7.10-0.1 mod.
+- Removed Bookshelf 1.7.10-1.0.4.187 mod.
+- Removed Better Boat 1.7.10-1.1.0 mod.
+- Removed Botania Visualizer 1.7.2-1.0a mod.
+- Removed Cosmetic Armor Reworked 1.7.10-v6b mod.
+- Removed Default Options mc1.7.10-1.0.28 mod.
+- Removed Hardcore Wither 1.7.10-1.1.3-21-universal mod.
+- Removed In Game Wiki 1.7.10-1.1.12-34-universal mod.
+- Removed Notes 1.7.10-1.1.0 mod.
+- Removed Player API 1.7.10-1.4 mod.
+- Removed Railcraft Cosmetic Additions 1.7.10-v2.1.1 mod.
+- Removed Refined Relocation mc1.7.10-1.1.34 mod.
+- Removed Router Reborn 1.7.10-1.2.0.43-universal mod.
+- Added/changed/removed some more recipes.
+- Changed some more configs.
+- Added/changed/removed some more EMC values.
+- Added/changed/removed some more oredictionary entries.
+- Added/changed some more HQM quests.
+- Removed Herobrine.
+
+0.11.4
+*** SOUNDS ABOUT RIGHT! ***
+- Added new music to random things spectre dimension and thaumcraft outer lands dimension.
+- Moved position of status effect hud to avoid overlap with WAILA.
+- Fixed Bug: Several sand types dropping lignite sand instead of themselves.
+- Fixed Bug: Ender crystal not craftable.
+- Fixed Bug: Ender rail not craftable.
+- Fixed Bug: Better soils quest giving invalid item.
+- Suggestion: Added overworld custom music to play in all unused dimensions as per a user suggestion.
+- Changed some more configs.
+- Added/changed/removed some more recipes.
+- Added/changed/removed some more oredictionary entries.
+- Added some more INpure Core NEI filters.
+- Removed Herobrine.
+
+0.11.3
+*** SPIT & POLISH! ***
+- Reballanced some mob spawns in custom dungeons.
+- Added a custom tree in the nether.
+- Added several more custom trees in the overworld
+- Fixed Bug: Netherrack sulfur ore not displaying name correctly.
+- Fixed Bug: Unlit netherrack redstone ore not displaying name correctly.
+- Fixed Bug: Custom nether, lab and desert dungeons not spawning.
+- Fixed Bug: New players starting with invalid untextured item.
+- Fixed Bug: Botania mana voids spawning near custom trees.
+- Fixed Bug: Lignite sand dropping lignite instead of itself.
+- Fixed Bug: Some shelves not crafting into bookcases.
+- Fixed Bug: Canopy wood not crafting to slabs.
+- Added/changed/removed some more recipes.
+- Added/changed/removed some more oredictionary entries.
+- Changed some more configs.
+- Removed Herobrine.
+
+0.11.2
+*** UPLOAD FIX! ***
+- Removed Stop Bitching My Chat 1.3 (1.7.10) mod (no longer on Curse).
+- Removed Herobrine.
+
+0.11.1
+*** STOMPING ON BUGS! ***
+- Fixed Bug: Random floating blocks spawning with custom trees.
+- Fixed Bug: Custom placed ironwood trees not generating in world.
+- Fixed Bug: Crash caused by custom cutscenes (removed related mod).
+- Fixed Bug: Crash caused by armour leveling up (removed related mod).
+- Fixed Bug: Several hard nether mobs spawning in large quantities in some biomes in overworld.
+- Fixed Bug: Immersive engineering machines dropping wrong steel type when broken.
+- Fixed Bug: Thaumcraft copper & silver nuggets sometimes getting dropped instead of metallurgy ones.
+- Added MattDahEpic Core v1.0-mc1.7.10 mod.
+- Added Auto Ore Dictionary Converter 1.7.10-1.3.1 mod.
+- Removed Custom Cut Scenes/Splash Screen 1.7.10-0.1.3 mod.
+- Removed Levels 1.7.10-r3.0.1 mod.
+- Updated Doomlike Dungeons mod to 1.9.2-MC1.7.10.
+- Updated Ender IO Addons mod to Version 0.10.12.
+- Added/changed/removed some more oredictionary entries.
+- Removed Herobrine.
+
+0.11.0
+*** THE STORY BEGINS! ***
+- Changed several mobs drops.
+- Continued work on story elements.
+- Added custom story related structures.
+- Increased stats of several hostile mobs.
+- Setup mob depth and dimension dificulty scaling for several hostile mobs.
+- Continued work on complete overhaul of ore required mining levels.
+- Continued work on complete overhaul of ore spawn weighting.
+- Enabled use of bonemeal to force crop mutation.
+- Further reduced weed chance (further 50% reduction).
+- Increased number of custom dungeons generated (around 50%).
+- Changed health bar to show max health and percentage instead of max health and current health.
+- Made lignite and fire/entropy infused lignite generate in the nether.
+- Swapped back grave spawn system to openblocks.
+- Fixed Bug: Attempted to fix bug causing large quantities of empty chests to generate in rivers/oceans and the nether.
+- Fixed Bug: Server crash caused by custom cut scenes (forgot to include custom .jar in server upload, my bad).
+- Fixed Bug: Sulfur ore showing 2 different textures.
+- Fixed Bug: Unable to travel between dimensions.
+- Fixed Bug: Starting items slow to appear in inventory.
+- Fixed Bug: Research notes craftable even though disabled.
+- Fixed Bug: Explosions doing no block dammage.
+- Fixed Bug: Intro cutscene playing on every login on dedicated servers.
+- Added Thermal Smeltery 1.3.1.4 mod.
+- Added Battle Text 1.0.17-67 mod.
+- Added Fast Fly Block Breaking MC1.7.10-0.1-build-1 mod.
+- Added Stop Bitching My Chat 1.3 (1.7.10) mod.
+- Added Floating Ruins 1.7.10.r02 mod.
+- Added bspkrs Core 6.16 mod.
+- Added Hardcore Wither 1.7.10-1.1.3 mod.
+- Added Ruins 1.7.10 with NBTfix mod.
+- Updated Open Modular Turrets mod to 1.7.10-2.2.10-237.
+- Updated Apple Core mod to mc1.7.10-1.3.9.
+- Updated Refined Relocation mod to mc1.7.10-1.1.34.
+- Removed Clear Chat 1.1 mod.
+- Removed Forge Essentials 1.7.10-1.4.4.1187 mod.
+- Removed Starting Inventory 1.7.10.r03 mod.
+- Changed some more configs.
+- Added/changed/removed some more oredictionary entries.
+- Updated the Awakening custom resource pack.
+- Added/changed/removed some more recipes.
+- Removed Herobrine.
+
+0.10.3
+*** BETTER PUT YOUR THERMALS ON! ***
+- Removed some accidentilly uploaded files.
+- Updated CoFH Core mod to [1.7.10]3.1.4-329.
+- Updated CoFH Lib mod to [1.7.10]1.2.1-185.
+- Updated Thermal Expansion mod to [1.7.10]4.1.5-248.
+- Updated Thermal Foundation mod to [1.7.10]1.2.6-118.
+- Removed Herobrine.
+
+0.10.2
+*** QUICK TAKE THIS, YOU MAY BE IN GRAVE DANGER! ***
+- Switched to using a server side grave spawn system which should create graves on dedicated servers even if a client crashes.
+- Changed some settings to improve FPS slightly.
+- Adjusted menu layout to better fit smaller screen resolutions. Will now fit 1024x768 and above.
+- Fixed Bug: Graves not spawning for non op'd players.
+- Fixed Bug: Default master volume for new users set to 0%.
+- Fixed Bug: Default controls not set correctly for new players.
+- Fixed Bug: Server crash caused by custom cut scenes (forgot to include assets in server upload, my bad).
+- Added Forge Essentials 1.7.10-1.4.4.1187 mod.
+- Added Clear Chat 1.1 mod.
+- Changed some more configs.
+- Removed Herobrine.
+
+0.10.1 (BUGGED DO NOT USE)
+*** IF AT FIRST YOU DON'T SUCCEED, BLAME LTGRAPEFRUIT! ***
+- Continued work on complete overhaul of ore required mining levels.
+- Continued work on complete overhaul of ore spawn weighting.
+- Fixed Bug: New worlds crashing due to ore generation issue.
+- Fixed Bug: Magical decorations causing huge fps drop if decorative matrix placed, removed mod.
+- Removed Magical Decorations 0.3.5 mod.
+- Removed Herobrine.
+
+0.10.0 (BUGGED DO NOT USE)
+*** WOOT WOOT, HYPE TRAIN! ***
+Please Note: This is a massive update. If you are updating from an old version, you will need to delete and regenerate the nether otherwise all ores will vanish there except in new chunks due to a change in the generation system being used there.
+- Started work on story elements of pack (very WIP ATM).
+- Started complete overhaul of ore required mining levels.
+- Started complete overhaul of ore spawn weighting.
+- Complete overhaul of nether ore spawn system.
+- Improved initial world load time slightly.
+- Continuation of massive quest overhall (WIP).
+- Added 4 new music tracks to overworld custom music.
+- Added OptiFine installation information to main menu.
+- Added custom story based cutscenes (very WIP ATM).
+- Added some more basic overworld ores to the nether.
+- Added redstone staglamites and staglatites to the nether.
+- New custom load screen.
+- New custom splash screen.
+- New custom icon.
+- Redesigned custom main menu to match new theme.
+- Added some more materials to world generation.
+- Lowered default music volume to 20%.
+- Disabled draconium ore spawning in the nether, too easy to obtain.
+- Increased stats of several hostile mobs.
+- Changed several mobs drops.
+- Setup mob depth and dimension dificulty scaling for several hostile mobs.
+- Fixed Bug: Player set options and keybindings overwritten on every pack update.
+- Fixed Bug: COFH world gen of some botania stones and grasses failing.
+- Fixed Bug: Signalum gear requiring 4 ingots instead on 1 in the metal press to make gear.
+- Fixed Bug: Lumium gear requiring 4 ingots instead on 1 in the metal press to make gear.
+- Fixed Bug: Decorator quest not accepting decobench with clays in it.
+- Fixed Bug: Ferrous ore not processing in SAG mill.
+- Fixed Bug: Yellorite ore not spawning in world.
+- Fixed Bug: Minicio ore texture stretched on vanilla stone.
+- Fixed Bug: Dungeon mobs hell hound not showing name properly.
+- Fixed Bug: Some shears not working on wild sheep.
+- Fixed Bug: Diamond infused obsidian not spawning in world.
+- Fixed Bug: Shadow ore not spawning in world.
+- Fixed Bug: Huge 'clumpings' of ore in some places at low levels.
+- Suggestion: Improved ore quantities of rarer ores as per a user suggestion.
+- Suggestion: Added ability to repair magical crops infusion stones as per a user suggestion.
+- Added Accidentally Circumstantial Events 1.12.11 mod.
+- Added Better Loading Screen 1.3.9 mod.
+- Added Player API 1.4 mod.
+- Added Default Options mc1.7.10-1.0.28 mod.
+- Added Custom Cut Scenes/Splash Screen 1.7.10-0.1.3 mod.
+- Added Levels 1.7.10-r3.0.1 mod.
+- Updated The Spice Of Life mod to 1.7.10-1.3.8.
+- Updated Open Blocks mod to 1.7.10-1.6.
+- Updated Open Mods Lib mod to 1.7.10-0.10.
+- Removed MmmMmmMmmMmm 1.7.10-1.9 mod.
+- Removed Launch GUI 1.7.10-2.0-18 mod.
+- Removed Trash Slot mc1.7.10-1.0.31 mod.
+- Removed Nether Ores [1.7.10]2.3.1-22 mod.
+- Added/changed some more HQM quests.
+- Renamed some more items.
+- Changed some more configs.
+- Updated the Awakening custom resource pack.
+- Added/changed/removed some more oredictionary entries.
+- Added some more INpure Core NEI filters.
+- Added/changed/removed some more recipes.
+- Removed Herobrine.
+
+0.9.11
+*** BUG HUNT! ***
+- Major tidy/clean up of uncraftable NEI items.
+- Disabled/hidden pig iron, paper and cactus tinkers tool parts.
+- Disabled thaumcrafts champion mobs system (actually did it this time).
+- Moved WAILA position up in HUD to stop covering thaumcraft information.
+- Increased scrolling speed (doubled) of thaumcraft information in HUD.
+- Fixed Bug: Getting an upgrade quest only accepting oak stencil table.
+- Fixed Bug: Building simple parts quest only accepting oak part builder.
+- Fixed Bug: Cannot type letter 't' in certain search boxes.
+- Fixed Bug: Wrong information in thaumcraft begginings quest description.
+- Fixed Bug: Waterpad not always being created when right click with shovel on farmland.
+- Fixed Bug: Aluminum block not showing in NEI.
+- Fixed Bug: Aluminum block not crafting back to ingots.
+- Fixed Bug: Obsidian dust not useable in several recipes.
+- Fixed Bug: Typo in better soils quest.
+- Fixed Bug: Ferrous not showing name properly in smeltery.
+- Fixed Bug: Enderium gear requiring 2 ingots instead on 1 in the metal press to make gear.
+- Fixed Bug: Malisis trapdoor recipe clash with vanilla trapdoor.
+- Fixed Bug: Seaweed not crafting to seaweed seeds.
+- Fixed Bug: Cranberry not crafting to cranberry seeds.
+- Added Botania Visualizer 1.7.2-1.0a mod.
+- Added Legible NEI 1.7.10-1.4.7.2 mod.
+- Added/changed/removed some more oredictionary entries.
+- Added/changed some more HQM quests.
+- Added/changed/removed some more recipes.
+- Added some more INpure Core NEI filters.
+- Added some Legible NEI filters.
+- Changed some more configs.
+- Removed Herobrine.
+
+0.9.10
+*** VANILLA BE GONE! ***
+- Finished removing vanilla tools from all recipes.
+- Steel, iron and aluminium rods can now only be made in a metal press.
+- Removed enderio tools to avoid ability to skip tinkers progression.
+- Disabled baby mobs as cause graphical bug when wearing armour (floating helmets).
+- Disabled draconium ore spawning in overworld, too easy to obtain.
+- Increased rarity of some gem ores in the nether.
+- Removed cockatrice due to a bug where getting turned to stone clears inventory from gravestone.
+- Fixed Bug: Extra utilities diamond spikes not killing mobs.
+- Fixed Bug: A girls best friend quest accepting any dye as lapis.
+- Fixed Bug: Mystic silver not showing name properly in smeltery.
+- Fixed Bug: Silver and mythril not always alloying in smeltery to mystic silver.
+- Fixed Bug: Gravestone only containing baubles after player being turned to stone.
+- Added/changed/removed some more recipes.
+- Added/changed some more HQM quests.
+- Added some more INpure Core NEI filters.
+- Changed some more configs.
+- Renamed some more items.
+- Updated the Awakening custom resource pack.
+- Removed Herobrine.
+
+0.9.9
+*** BITS & BOBS! ***
+- Fixed broken dedicated server install script in server download.
+- Added custom crop for sunflowers.
+- Removed botania pestle and mortar changed recipes to use harvestcraft mortar and pestle.
+- Changed sugarcane to craft to seeds and sugar to require a presser.
+- Made double height mystical flowers drop without need for shears like standard height ones.
+- Removed sounds from thermal expansion machines.
+- Fixed Bug: Wooden storage crate missing recipe.
+- Fixed Bug: Ultimate stew missing recipe.
+- Fixed Bug: Network tool missing recipe.
+- Fixed Bug: Rice not crafting into rice seed.
+- Fixed Bug: Technicolor essence crafting to every dye except brown.
+- Fixed Bug: Technicolor essence crafting to 6 of some dyes but only 1 of others.
+- Fixed Bug: Better loot quest has incorrect information.
+- Suggestion: Changed sugarcane seeds to need water nearby as per a user suggestion.
+- Suggestion: Added immersive engineering sheet metal blocks as facades as per a user suggestion.
+- Updated Just Another Spawner mod to 0.17.8.
+- Added some more chest loot (Iron Chests, MmmMmmMmmMmm, Waystones & qCraft).
+- Added/changed/removed some more recipes.
+- Added/changed some more HQM quests.
+- Added some more INpure Core NEI filters.
+- Renamed some more items.
+- Updated the Awakening custom resource pack.
+- Added/changed/removed some more oredictionary entries.
+- Removed Herobrine.
+
+0.9.8
+*** PEOPLE IN GLASS HOUSES SHOULDN'T THROW STONES! ***
+- Renamed thaumcraft cinnabar ore to quicksilver ore to avoid duplication with thermal expansion cinnabar.
+- Changed thaumcraft quicksilver ore to drop item instead of ore to make same as other gems.
+- Made thaumcraft quicksilver ore work with fortune enchantment like other gems.
+- Renamed metallurgy quicksilver to mystic silver to avoid duplication with thaumcraft.
+- Fixed Bug: Harvestcraft chocolate roll missing texture.
+- Fixed Bug: Malisis door recipe clash with vanilla door.
+- Fixed Bug: Yellorium not showing name properly in smeltery.
+- Fixed Bug: Cyanite not showing name properly in smeltery.
+- Fixed Bug: Glass block missing chisel variations.
+- Fixed Bug: Thaumcraft food nuggets missing recipe.
+- Fixed Bug: Coal and charcoal smelting to railcraft creosote bottles instead of big reactors graphite.
+- Added Horizontal Glass Panes 1.7.10-1.1.0.4-universal mod.
+- Added Glass Works 1.7.10-1.2 mod.
+- Added/changed/removed some more recipes.
+- Added/changed/removed some more oredictionary entries.
+- Renamed some more items.
+- Updated the Awakening custom resource pack.
+- Added some more INpure Core NEI filters.
+- Changed some more configs.
+- Added/changed some more HQM quests.
+- Removed Herobrine.
+
+0.9.7
+*** PUTTING THE CRAFT BACK IN MINECRAFT! ***
+- Fixed Bug: Many broken recipes in 0.9.6.
+- Fixed Bug: Helping hand quest not accepting golems.
+- Removed Herobrine.
+
+0.9.6 (BUGGED DO NOT USE)
+*** RUNESCAPE! ***
+- Removed several duplicate metal types.
+- Fixed Bug: Some botania runes uncraftable.
+- Fixed Bug: Some metallurgy rune blocks uncraftable.
+- Fixed Bug: Several magical crops essences not crafting into anything.
+- Fixed Bug: Lead nuggets uncraftable.
+- Fixed Bug: Crash when viewing lead ingot recipe in NEI.
+- Fixed Bug: Lead block uncraftable.
+- Fixed Bug: Never rains.
+- Added Village Names 1.7.10-1.0 mod.
+- Added/changed some more HQM quests.
+- Added/removed/changed some chisel groups/variations.
+- Added/changed/removed some more EMC values.
+- Added/changed/removed some more recipes.
+- Added some more INpure Core NEI filters.
+- Added/changed/removed some more oredictionary entries.
+- Removed Herobrine.
+
+0.9.5
+*** HOTFIX! ***
+- Fixed Bug: Severe FPS and block lag issues caused by latest version of farseek mod.
+- Fixed Bug: Removed more commands mod accidentily left in server version upload.
+- Fixed Bug: Fixed making connections quest null item.
+- Fixed Bug: Minetweaker ignoring second crafting recipe file when playing on a server.
+- Fixed Bug: Stopped backpacks rendering on players back as bugged (shows under feet) in multiplayer.
+- Suggestion: Reduced aspect quantity required from 200 to 20 on botania runes as per a user suggestion.
+- Rolled Farseek mod back to 1.0.11.
+- Updated Apple Core mod to mc1.7.10-1.3.8.
+- Updated Avaritia Addons mod to 1.3b.
+- Added/changed/removed some more recipes.
+- Removed Herobrine.
+
+0.9.4 (BUGGED DO NOT USE)
+*** TICK TOCK! ***
+- Improved world/chunk load times.
+- Improved average server TPS.
+- Lowered default music volume to 25%.
+- Reduced rarity of Thaumcraft nodes from 1 in 32 chunks to 1 in 24.
+- Changed several mobs drops.
+- Disabled vsync by default (was causing low framerate issues for some people).
+- Lowered salt ore gen quantity.
+- Increased stats of several hostile mobs.
+- Removed need to reload scripts at login which caused a large lag spike.
+- Setup mob depth and dimension dificulty scaling for several hostile mobs.
+- Doubled yellorite world generation.
+- Further lowered fish spawn quantity.
+- Fixed Bug: Some single player recipes missing when playing on a server.
+- Fixed Bug: Missing recipe for AE2 cable anchor.
+- Fixed Bug: New players spawn with 2 quest books.
+- Fixed Bug: Nether osmium ore spawning even though mekanism removed.
+- Fixed Bug: Missing recipe for engineer's workbench.
+- Fixed Bug: Nether wart block not crafting back to nether wart.
+- Suggestion: Removed grass chisel recipes as per a user suggestion.
+- Suggestion: Added essence of entanglement to ender tank recipe as per a user suggestion.
+- Suggestion: Made overgrowth seeds craftable but with a high cost as per a user suggestion.
+- Added Tick Dynamic forge1.7.10-10.13.2.1291-0.1.5 mod.
+- Removed More Commands 1.7.10-1.7 mod.
+- Updated Notes mod to 1.7.10-1.1.0.
+- Updated Thaumic Equivalence mod to 1.7.10-1.0.4.
+- Updated The Spice Of Life mod to mc1.7.10-1.3.7.
+- Updated Farseek mod to 1.1.
+- Updated Avaritia Addons mod to 1.3.
+- Changed some more configs.
+- Added/changed/removed some more recipes.
+- Renamed some more items.
+- Added some more INpure Core NEI filters.
+- Added/changed/removed some more oredictionary entries.
+- Added/changed some more HQM quests.
+- Removed Herobrine.
+
+0.9.3
+*** TAKE NOTE! ***
+- Added fire resistance to some non standard nether spawn mobs.
+- Changed several mobs drops.
+- Changed armour and weapon loadout of several hostile mobs.
+- Increased stats of several hostile mobs.
+- Setup mob depth and dimension dificulty scaling for several hostile mobs.
+- Added default key 'n' to change open notes.
+- Changed default key to 'lmenu/alt' for node tracker.
+- Lowered default music volume to 28%.
+- Lowered weed chance and growth rate slightly.
+- Added several alternative crafting/mutation combinations recipes for seeds.
+- Fixed Bug: Sheep essence not crafting into anything.
+- Fixed Bug: Chiseled living rock uncraftable.
+- Added Notes 1.7.10-1.0.1 mod.
+- Added No More Recipe Conflict 0.3(1.7.10) mod.
+- Updated Open Modular Turrets mod to 1.7.10-2.2.10-233.
+- Updated Wallpaper Craft mod to 1.7.10-1.03.
+- Changed some more configs.
+- Added/changed some more HQM quests.
+- Added/changed/removed some more recipes.
+- Added some more INpure Core NEI filters.
+- Removed Herobrine.
+
+0.9.2
+*** WITH GREAT POWER COMES GREAT RESPONSIBILITY! ***
+- Disabled thaumcrafts champion mobs system.
+- Added fire resistance to some non standard nether spawn mobs.
+- Changed several mobs drops.
+- Changed armour and weapon loadout of several hostile mobs.
+- Increased stats of several hostile mobs.
+- Setup mob depth and dimension dificulty scaling for several hostile mobs.
+- Changed some mob spawns in custom dungeons.
+- Fixed Bug: Some recipes desynced on dedicated server (actually fixed this time)!
+- Fixed Bug: Cleared/fixed some harmless errors reported in the log file.
+- Added Advanced Generators 0.9.20.123-mc1.7.10 mod.
+- Updated Wireless Crafting Terminal mod to 1.7.10-rv3-1.8.7.3b.
+- Changed some more configs.
+- Updated the Awakening custom resource pack.
+- Added some more INpure Core NEI filters.
+- Added/changed/removed some more recipes.
+- Added/changed some more HQM quests.
+- Removed Herobrine.
+
+0.9.1
+*** IT'S THE LITTLE THINGS! ***
+- Changed several mobs drops.
+- Changed armour and weapon loadout of several hostile mobs.
+- Increased stats of several hostile mobs.
+- Setup mob depth dificulty scaling for several hostile mobs.
+- Changed some mob spawns in custom dungeons.
+- Fixed Bug: Some botania runes uncraftable.
+- Fixed Bug: Some recipes desynced on dedicated server.
+- Added More Commands 1.7.10-1.7 mod.
+- Changed some more configs.
+- Added/changed/removed some more recipes.
+- Added some more INpure Core NEI filters.
+- Removed Herobrine.
+
+0.9.0
+*** THE BLOCKS ARE ALIVE WITH THE SOUND OF MUSIC! ***
+- Started work properly re-adding custom music.
+- Adjusted some default sound levels.
+- Reduced brown bear pack spawn size slightly.
+- Made brown/red mushrooms and sugar cane reeds drop agricraft seeds by default.
+- Further reduced max overall water creature spawn quantity.
+- Fixed Bug: Some BOP mobs not spawning.
+- Fixed Bug: Lexica botania crash when viewing mana lens section.
+- Fixed Bug: Several custom stair blocks crafting with wrong planks.
+- Fixed Bug: Pams harvestcraft maple, paperbark & cinnamon logs do not craft to planks/slabs/stairs.
+- Fixed Bug: Some recipes desynced on dedicated server.
+- Fixed Bug: Project zulu horses trying to spawn even though disabled causing log errors.
+- Suggestion: Changed mana steel pan head in rune recipes with tin rune block as per a user suggestion.
+- Added Music Choices 1.3 mod.
+- Added More Commands 1.7.10-1.7 mod (server version only).
+- Updated the Awakening custom resource pack.
+- Changed some more configs.
+- Added/changed/removed some more recipes.
+- Added/changed/removed some more oredictionary entries.
+- Added some more INpure Core NEI filters.
+- Removed Herobrine.
+
+0.8.0
+*** THE PERFORMANCE & STABILITY UPDATE - RUN FORREST RUN! ***
+- Removed some more FPS reducing and unnecessary mods to help increase FPS and TPS.
+- Reduced particles in several mods (especially botania) to help improve FPS.
+- Removed all ore berry bushes as magical crops serves the same function but with better options.
+- Had to remove mekanism as not playing nice with minetweaker/modtweaker so unable to balance.
+- Had to remove baublelicious mod just flat out broken.
+- Changed recipes for all botania runes to increase cross mod support.
+- Removed reload of minetweaker/modtweaker scripts on login to help performance as no longer needed now Mekanism removed.
+- Changed default journey map options to help improve FPS.
+- Enabled VSync by default.
+- Raised default max FPS to unlimited.
+- Added several items for newly spawned player (basic wood tools, food etc).
+- Reduced fish spawn weighting.
+- Added default key 'h' to change jetpack hover mode.
+- Reduced max overall water creature spawn quantity.
+- Lowered default volume for hostile creatures.
+- Fixed Bug: Rare gems quest accepting gold ingots as emeralds.
+- Fixed Bug: Flight control unit uncraftable.
+- Suggestion: Replaced wisp essences in magical crops recipes with botania runes as per a user suggestion.
+- Suggestion: Increased quantity of dirt required for the dirt factory quest as per a user suggestion.
+- Suggestion: Reactor casing recipe produces 4 per craft instead of 1 as per a user suggestion.
+- Added Practicalities 1.7.10-0.6.2 mod.
+- Added Starting Inventory 1.7.10.r03 mod.
+- Added Chunk Purge 1.7.10-2.1 mod.
+- Added Cooking For Blockheads 1.7.10-1.0.140 mod.
+- Added Wireless Redstone (Chicken Bones Edition) 1.7.10-1.4.1.9 mod.
+- Updated Doomlike Dungeons mod to 1.9.0-MC1.7.10.
+- Updated Journey Map mod to 1.7.10-5.1.4p2-unlimited.
+- Removed Mekanism 1.7.10-9.1.0.281 mod.
+- Removed Mekanism Generators 1.7.10-9.1.0.281 mod.
+- Removed More Commands 1.7.10-1.7 mod.
+- Removed Dynamic Surroundings 1.7.10-1.0.5.6 mod.
+- Removed Baublelicious 1.7.10-1.2.2-final mod.
+- Removed Stellar Sky 0.1.5.7 mod.
+- Removed Underp Hangables 1.7.10-1.0.1 mod.
+- Removed MPUtils Tip Alert 1.7.10-1.0.0 mod.
+- Removed Fluxed-Core MC1710-1.0.9 mod.
+- Removed Clean View 1.7.10-v2 mod.
+- Removed Expanded Bonemeal 1.7.10-1.0.0 mod.
+- Removed Survival Tweaks 1.2.4-1.7.10 mod.
+- Removed Another One Bites the Dust: Berry Bushes 1.0.6 mod.
+- Added/changed/removed some more oredictionary entries.
+- Added some more INpure Core NEI filters.
+- Changed some more configs.
+- Updated the Awakening custom texture pack.
+- Added/changed/removed some more recipes.
+- Added/changed some more HQM quests.
+- Renamed some more items.
+- Removed Herobrine.
+
+0.7.0
+*** I'VE GOT A HUGE ONE FOR YOU! ***
+- Started work on massive overhaul of the HQM quest book including all quests and rewards.
+- Removed some more superfluous mods to help increase FPS and TPS slightly.
+- Added new mobs to nether and custom dungeons.
+- Updated launch GUI screen.
+- Changed mob dimension dificulty scaling (spider and cave spider).
+- Fixed Bug: Desert and tainted custom dungeons not spawning in world.
+- Fixed Bug: Spiders endlessly spawning in nether causing game to lag out.
+- Fixed Bug: Steve's factory manager and addons missing from server upload.
+- Fixed Bug: A girls best friend quest not accepting correct items.
+- Fixed Bug: Rakshasa mob not spawning.
+- Fixed Bug: Several Project Zulu mob types not despawning causing TPS issues.
+- Fixed Bug: Custom dungeons not properly spawning all assigned mob types.
+- Fixed Bug: Animal farm quest only accepting white wool.
+- Fixed Bug: Spelling/grammer mistakes in quest book.
+- Fixed Bug: Grout crafting recipe not accepting all sands.
+- Fixed Bug: Magical wood tinkers construct integration disabled has been re-enabled.
+- Suggestion: Lowered reward for watering the plants quest as per a user suggestion.
+- Added Nightmare Creatures II (Unofficial Multiplayer Patch) 1.7.10-2.0.0 mod.
+- Updated Wallpaper Craft mod to 1.7.10-1.02.
+- Updated Open Modular Turrets mod to 1.7.10-2.2.9-232.
+- Removed Flesh 2 Leather 1.7.10b mod.
+- Removed Klee Slabs 1.7.10-1.2.9 mod.
+- Removed Sleep 1.7.10-0.0.1 mod.
+- Added/changed/removed some more recipes.
+- Added some more INpure Core NEI filters.
+- Added/changed some more HQM quests.
+- Renamed some more items.
+- Removed Herobrine.
+
+0.6.2 (BUGGED DO NOT USE)
+*** HIGH END FARMING! ***
+- Added custom magical crops for topaz, tanzanite, sugilite and jasper.
+- Increased stats of hostile mob (spider, creeper and cave spider).
+- Setup mob depth dificulty scaling (spider, creeper and cave spider).
+- Setup mob dimension dificulty scaling (spider and cave spider).
+- Fixed Bug: Mobs spawning with ludicrous amounts of health.
+- Fixed Bug: Tinkers ball of moss uncraftable.
+- Fixed Bug: Minetweaker scripts reloading twice at startup causing large lag spike.
+- Fixed Bug: Glider wing recipe missing.
+- Suggestion: Made philosophers stone recipe harder as per a user suggestion.
+- Removed Friendly Fire 1.7.10-1.0.0 mod.
+- Added/changed/removed some more recipes.
+- Added some more INpure Core NEI filters.
+- Updated the Awakening custom texture pack.
+- Added/changed/removed some more oredictionary entries.
+- Removed Herobrine.
+
+0.6.1
+*** WATCH OUT THE MOBS ARE ARMING UP! ***
+- Changed some mob drops (skeleton, zombie and skeleton warrior).
+- Added Thaumcraft mob aspects (skeleton warrior).
+- Changed armour and weapon loadout of hostile mob (skeleton, zombie and skeleton warrior).
+- Increased stats of hostile mob (skeleton, zombie and skeleton warrior).
+- Setup mob depth dificulty scaling (skeleton, zombie and skeleton warrior).
+- Removed some more superfluous mods to help increase FPS and TPS slightly.
+- Lowered default volume for mobs.
+- Fixed Bug: Lexica botania crashing game in multiplayer.
+- Fixed Bug: Ring of magnetization crashing game.
+- Fixed Bug: Agri craft quest not giving +1 reputation for info quests.
+- Fixed Bug: Showing chunks quest not giving +1 reputation for info quests.
+- Fixed Bug: Light levels quest not giving +1 reputation for info quests.
+- Fixed Bug: Duplicate tooltip on EnderIO ME cable.
+- Suggestion: Made tesseract recipe harder as per a user suggestion.
+- Removed A New Dawn Botania r1.7-515 mod.
+- Removed Equivalent Energistics 0.6-1.7.10 mod.
+- Removed Botanic Energistics 0.2.6 mod.
+- Removed Placeable Gunpowder 1.1 mod.
+- Added Botania r1.8-249 mod.
+- Updated Applied Energistics to RV3 Beta 6.
+- Updated Wireless Crafting Terminal to 1.7.10-rv3-1.8.7.3b.
+- Updated AE2 Stuff to 0.5.1.61-mc1.7.10.
+- Updated Thaumic Energistics to 1.0.0.5.
+- Removed Herobrine.
+
+0.6.0
+*** THANKS FOR ALL THE AMAZING SUPPORT! ***
+Note: The updated Climate Control may cause some slight chunk boundry alignment issues on new chunks in existing worlds.
+Note: If you load an existing world and it instantly goes back to the tile screen, quit and reload, it will be fine second launch.
+- Greatly improved overall performance and FPS (up to 200% in some test situations).
+- Increased stats of hostile mob (troll).
+- Changed armour and weapon loadout of hostile mob (skeleton warrior).
+- Changed some mob drops (skeleton warrior).
+- Added custom magical crops for tourmaline and chrysocolla.
+- Fixed Bug: Stopped backpacks rendering on players back as bugged (shows under feet) in multiplayer.
+- Fixed Bug: Lots of ores missing ore dictionary entries.
+- Fixed Bug: Robit uncraftable.
+- Fixed Bug: Digital miner uncraftable.
+- Fixed Bug: Crash caused by ferrous ingot crafting recipe.
+- Fixed Bug: Going a little deeper quest not accepting ferrous ingots.
+- Fixed Bug: Removed ender quarry due to hard game crash (use digital miner instead).
+- Updated Climate Control mod to 0.8.2 version.
+- Updated the Awakening custom texture pack.
+- Changed some more configs.
+- Added/changed/removed some more recipes.
+- Added some more INpure Core NEI filters.
+- Added/changed/removed some more oredictionary entries.
+- Removed Herobrine.
+
+0.5.6
+- Removed some superfluous mods to help increase FPS and TPS slightly.
+- Increased hostile mob spawns especially underground.
+- Slightly reduced water creature spawns.
+- Added custom magical crops for onyx and agate.
+- Fixed Bug: Missing reward item in crafting upgrade quest.
+- Fixed Bug: Sapphire crop crafting to sapphire from wrong mod.
+- Fixed Bug: Beach go'er quest only accepting vanilla sand.
+- Suggestion: Increased capacity of open blocks tanks to 32 buckets as per a user suggestion.
+- Suggestion: Increased sand quantity needed for beach go'er quest as per a user suggestion.
+- Removed MFR Magical Crops Compatibility mod.
+- Removed More Chisels mod.
+- Removed Locale Fixer mod.
+- Removed WR-CBE mod.
+- Removed Health Bar mod.
+- Removed Mounted Pearl mod.
+- Removed Better Horse Hud mod.
+- Added/changed/removed some more recipes.
+- Added some more INpure Core NEI filters.
+- Added/changed/removed some more oredictionary entries.
+- Updated the Awakening custom texture pack.
+
+0.5.5
+- Added custom magical crop for spinel.
+- Fixed Bug: Set cursed earth EMC to 1 to avoid EMC exploit.
+- Fixed Bug: Crash to desktop caused by monkey's throwing rocks.
+- Added/changed/removed some more EMC values.
+- Changed some more configs.
+- Updated the Awakening custom texture pack.
+- Added/changed/removed some more recipes.
+
+0.5.4
+- Fixed Bug: AE2 automatically updated from RV2 to RV3 causing a crash. Rolled back.
+- Fixed Bug: Magical crops quest not accepting iron seeds with non 1-1-1 stats.
+- Suggestion: Made the gear mold 'slightly' cheaper as per a user suggestion.
+
+0.5.3 (BUGGED DO NOT USE)
+- Added custom magical crops for jade, citrine and malachite.
+- Fixed Bug: Dupe bug with livingwood planks.
+- Suggestion: Removed 'easy' magical crops AE2 recipes as per a user suggestion.
+- Suggestion: Swapped coal seed growth requirements to avoid items being destroyed as per a user suggestion.
+- Updated Open Modular Turrets mod to latest version.
+- Removed Backlytra mod.
+- Added/changed/removed some more recipes.
+- Added some more INpure Core NEI filters.
+- Updated the Awakening custom texture pack.
+- Changed some more configs.
+
+0.5.2
+- Fixed Bug: Cheat for easy ender chest crafting using alternate wools.
+- Fixed Bug: Cheat for easy ender tank crafting using alternate wools.
+- Fixed Bug: Obsidian and blizz seeds ungrowable.
+- Fixed Bug: Spawners dropping broken spawners even though they were disabled.
+- Added Block Properties mod.
+- Removed Snad mod.
+- Renamed some items.
+- Added some more INpure Core NEI filters.
+- Changed some more configs.
+- Added/changed some more HQM quests.
+
+0.5.1
+- Finished all Magical Crops soil type settings.
+- Added/changed/removed some more recipes.
+
+0.5.0
+- Fixed Bug: Some disabled/removed items/machines showing NEI recipes.
+- Fixed Bug: Creosote showing yellow texture in some places brown in others.
+- Fixed Bug: Cheat for easy ender pouch crafting using alternate wools.
+- Fixed Bug: Incompatible AE2 addons.
+- Fixed Bug: Sapphire block uncraftable.
+- Fixed Bug: Some info quests incompletable.
+- Fixed Bug: Game sometimes kicking out just after login.
+- Fixed Bug: No recipe for tainted soil.
+- Suggestion: Made steel require a blast furnace to create as per a user suggestion.
+- Suggestion: Made the green heart recipe harder as per a user suggestion.
+- Added Wallpaper Craft mod.
+- Added Friendly Fire mod.
+- Updated Decocraft mod to the latest version.
+- Updated Loot Bags mod to latest version.
+- Updated Baublelicious mod to latest version.
+- Updated AE2Stuff mod to latest version.
+- Removed Arcane Engineering mod.
+- Rolled back Applied Energistics 2 mod from RV3 (Beta) to RV2 (Stable) version.
+- Swapped Thaumic Energistics mod from RV3 version to RV2 version.
+- Swapped Wireless Crafting Terminal mod from RV3 version to RV2 version.
+- Added/changed some more HQM quests.
+- Added/changed/removed some more recipes.
+- Renamed some items.
+- Changed some more configs.
+- Added/changed/removed some more oredictionary entries.
+- Added some more new tips.
+- Updated the Awakening custom texture pack.
+
+0.4.17
+- Fixed Bug: Issues with Ferrous/Nickel ore/ingots etc.
+- Fixed Bug: Some steel chisel variants un-craftable.
+- Updated Storage Drawers mod to latest version.
+- Added some chisel groups/variations.
+- Changed some more configs.
+- Added some more INpure Core NEI filters.
+- Updated the Awakening custom texture pack.
+- Added/changed/removed some more recipes.
+
+0.4.16
+- Fixed Bug: Molten gold shows blue texture.
+- Fixed Bug: Restored some accidentily hidden items in NEI.
+- Fixed Bug: Dying in the nether causes respawn ontop of nether bedrock roof.
+- Fixed Bug: 16K and Computational quests not detecting ME storage cells.
+- Fixed Bug: Some spikes uncraftable.
+- Fixed Bug: Some recipes require Railcraft tanks which are uncraftable.
+- Fixed Bug: Wrong loot bag quantity in almost there quest.
+- Fixed Bug: Capacitors showing seed recipe when seeds don't actually exist.
+- Fixed Bug: Removed I'll take your brain too quest.
+- Fixed Bug: Removed deep dark and last millenium portals possibly temporarily, possibly permanently.
+- Suggestion: Increased the difficulty of crafting higher tier infusion stones as per a user suggestion.
+- Suggestion: Added a tooltip to draw frames to make obvious they are not complete drawers as per a user suggestion.
+- Suggestion: Added a tooltip to decocraft props to hint as to how to make them as per a user suggestion.
+- Added Aroma Backup mod
+- Added Aroma 1997 Core mod.
+- Removed Infini-TiC mod.
+- Updated the Awakening custom texture pack.
+- Added/changed/removed some more recipes.
+- Added some more INpure Core NEI filters.
+- Changed some more configs.
+- Added/changed some more HQM quests.
+
+0.4.15
+- Fixed Bug: EnderIO conduits not showing in NEI when search for pipe/cable etc.
+- Removed No More Recipe Conflict mod.
+- Changed some more configs.
+- Added some more INpure Core NEI filters.
+- Added/changed/removed some more oredictionary entries.
+- Renamed some items.
+
+0.4.14
+- Fixed Bug: Potion brewing questline not accepting potion of healing.
+- Fixed Bug: Some chest loot badly weighted.
+- Added/changed/removed some more recipes.
+- Changed some more configs.
+- Added/changed some more HQM quests.
+- Added some more INpure Core NEI filters.
+- Added/changed/removed some more oredictionary entries.
+
+0.4.13
+- Fixed Bug: Fixed .errored config files which accidentally got uploaded.
+- Changed some more configs.
+- Added/changed/removed some more recipes.
+- Added some more INpure Core NEI filters.
+
+0.4.12
+- Fixed Bug: Thaumcraft begginings quest not detecting wands.
+- Added/changed some more HQM quests.
+- Added/changed/removed some more recipes.
+- Added some more INpure Core NEI filters.
+
+0.4.11
+- Fixed Bug: Blocks becoming invisible or breaking nearby with incorrect tools.
+- Removed Atomic Strikers Multi Mine mod.
+- Added In Game Wiki mod.
+- Changed some more configs.
+
+0.4.10
+- Fixed Bug: Fixed some typo's/grammer mistakes in HQM quests and startup screen.
+- Fixed Bug: Added technicolor essence recipe for white and blue dye.
+- Fixed Bug: Replaced technicolor essence crafting black and green dye to not produce cactus green/ink sacs.
+- Fixed Bug: AE2Stuff running incompatible version, swapped for correct RV3 version.
+- Fixed Bug: Infusion stone upgrade recipes should now accept part used lower level stones.
+- Fixed Bug: Essence bricks not using ore dictionary for dye colours.
+- Fixed Bug: Bonus chest giving unusable/useless vanilla tools.
+- Fixed Bug: Magical crops questline not accepting some seeds.
+- Fixed Bug: Magical crops questline not accepting part used infusion stones.
+- Suggestion: Made tesseract recipe harder as per a user suggestion.
+- Suggestion: Improved some quest rewards as per a user suggestion.
+- Removed Technomancy mod.
+- Removed Ambience Music Mod mod, jaring transitions - needs more work before adding to relase.
+- Removed Adventure Redifined music pack for Ambience Music Mod as above.
+- Updated Open Modular Turrets mod to latest version.
+- Added/changed some more HQM quests.
+- Added/changed/removed some more EMC values.
+- Renamed some items.
+- Added/changed/removed some more recipes.
+- Added some more INpure Core NEI filters.
+- Added/changed/removed some more oredictionary entries.
+
+0.4.9
+- Fixed Bug: Custom music volume too loud.
+- Fixed Bug: Some Mekanism shaped recipes not being removed properly by Modtweaker.
+- Added More Commands mod.
+- Updated Adventure Redifined music pack for Ambience Music Mod.
+
+0.4.8
+- Fixed Bug: Duplicate recipe for minicio seeds.
+- Fixed Bug: Minicio seeds recipe only accepting vanilla seeds.
+- Fixed Bug: Farmer quest giving vanilla sword as reward.
+- Fixed Bug: Missing recipe for regular infusion stone.
+- Fixed Bug: Sapphire ore not generating in world.
+- Fixed Bug: Platinum ore mining into un-usable block.
+- Fixed Bug: Rubber wood logs do not craft to planks/slabs/stairs.
+- Fixed Bug: BOP giant flower stems do not craft to planks/slabs/stairs.
+- Fixed Bug: Tofu crafting into fish.
+- Fixed Bug: Added missing recipes for mystical flower seeds.
+- Suggestion: Added custom music as per a user suggestion.
+- Suggestion: Lowered the threshold at which the 'stomach grumble' sound plays as per a user suggestion.
+- HQM Hearts are now craftable for those that want to play with hardcore mode enabled.
+- Slightly raised underground and deep mob spawn caps.
+- Slightly reduced max mob spawn distance and count distance.
+- Added small space to mob spawn ticks to improve FPS slightly.
+- Added Ender IO Addons.
+- Added Ambience Music Mod mod.
+- Added Adventure Redifined music pack for Ambience Music Mod.
+- Updated Architecture Craft mod to latest version.
+- Added/changed/removed some more oredictionary entries.
+- Added some more custom items/blocks.
+- Added/changed/removed some more recipes.
+- Added some more INpure Core NEI filters.
+- Renamed some items.
+- Added/changed some more HQM quests.
+- Changed some more configs.
+- Added/changed/removed some more EMC values.
+
+0.4.7
+- Fixed Bug: Lead blocks being uncraftable to ingots.
+- Fixed Bug: Restored some accidentally hidden items in NEI.
+- Fixed Bug: Removed leaves dropping sticks as heavily reducing sapling drop chance.
+- Fixed Bug: Coke bricks don't show when search for coke oven in NEI.
+- Fixed Bug: Animal farm quest accepting tofu as eggs.
+- Suggestion: Reduced wither skeleton skull chance in loot bags as per a user suggestion.
+- Suggestion: Removed 'vanilla' recipe for Botania floral fertalizer as per a user suggestion.
+- Added Steve's Factory Manager mod.
+- Added Steve's Addons mod.
+- Changed some more configs.
+- Added some more chest loot (Open Blocks & JAPTA).
+- Renamed some items.
+- Added/changed some more HQM quests.
+
+0.4.6
+- Fixed Bug: Some recipes missing.
+- Fixed Bug: Cardboard boxes no longer pickup spawners, use a porta spawner instead.
+- Suggestion: Builders wand now has an 'easier' recipe as per a user suggestion.
+- Suggestion: Cursed earth now has a crafting recipe as per a user suggestion.
+- Updated WAILA Plugins mod to latest version.
+- Added some custom Tinkers part materials.
+- Added some more chest loot (Ender Storage, Extra Utilities & Big Doors).
+- Added/changed/removed some more recipes.
+- Added/changed some more HQM quests.
+- Added some more INpure Core NEI filters.
+- Added/changed/removed some more oredictionary entries.
+- Renamed some items.
+- Added some more new tips.
+
+0.4.5
+- Fixed Bug: Broken Tinkers Construct progression.
+- Fixed Bug: Broken mining levels.
+- Suggestion: Removed vanilla tool effectiveness, tinkers only now as per a user suggestion.
+- Suggestion: Slightly lowered dungeon chest loot quantity as per a user suggestion.
+- Added some more INpure Core NEI filters.
+- Changed some more configs.
+- Added some more chest loot (IMC & Thermal Foundation).
+- Added/changed/removed some more oredictionary entries.
+- Added/changed/removed some more recipes.
+- Added/changed/removed some more EMC values.
+- Renamed some items.
+
+0.4.4
+- Fixed bug: Invalid/missing quest reward items.
+- Fixed bug: Broken quest lines.
+- Fixed bug: Some storage drawers being non craftable.
+- Fixed bug: HQM being stuck in edit mode.
+- Fixed bug: HQM book causing crash in LAN worlds.
+- Fixed bug: New players not spawning with HQM book.
+- Suggestion: Added magical crops recipe for ender pearls as per a user suggestion.
+- Suggestion: Halfed loot bag drop chance from mob kills as per a user suggestion.
+- Removed Chest Transporter mod.
+- Removed Storage Drawers Misc Pack mod.
+- Removed Storage Drawers BiomesOPlenty Pack mod.
+- Updated Universal Singularities mod to latest version.
+- Added/changed some more HQM quests.
+- Added some more INpure Core NEI filters.
+- Added/changed/removed some more recipes.
+- Changed some more configs.
+- Added some more chest loot (Storage Drawers).
+
+0.4.3
+- Fixed bug with backpacks not always being detected by quest book.
+- Fixed bug with non functional elevators.
+- Updated Open Modular Turrets mod to latest version.
+- Added/changed some more HQM quests.
+- Added/changed/removed some more oredictionary entries.
+- Changed some more configs.
+
+0.4.2 (BUGGED DO NOT USE)
+- Updated Architecture Craft mod to latest version.
+- Updated Open Modular Turrets mod to latest version.
+- Changed launch GUI screen.
+- Added/changed some more HQM quests.
+- Added some more INpure Core NEI filters.
+- Added/changed/removed some more recipes.
+- Added/changed/removed some more oredictionary entries.
+- Added/changed/removed some more item/block burn times.
+
+0.4.1 (BUGGED DO NOT USE)
+- Fixed bug with some Tinkers stations being non craftable.
+- Updated AOBD Singularities mod to latest version.
+- Updated Eternal Singularity mod to latest version.
+- Changed some more configs.
+
+0.4.0
+- Added custom menu design.
+- Added Custom Main Menu mod.
+- Added Resource Loader mod.
+- Updated Storage Drawers mod to latest version.
+- Updated Climate Control mod to latest version.
+- Removed Advanced World Selection mod.
+- Added/changed some more HQM quests.
+- Added some more INpure Core NEI filters.
+- Added/changed/removed some more recipes.
+- Added/changed/removed some more oredictionary entries.
+- Changed some more configs.
+- Added some more chest loot.
+- Added/changed/removed some more EMC values.
+
+0.3.1
+- Updated Storage Drawers mod to latest version.
+- Updated Tainted Magic mod to latest version.
+- Updated Universal Singularities mod to latest version.
+- Removed Origin mod.
+- Removed Thaumic Expansion mod.
+- Removed Round Robin Hopper mod.
+- Changed launch GUI screen.
+- Added/changed some more HQM quests.
+- Added some more INpure Core NEI filters.
+- Added/changed/removed some more recipes.
+- Added/changed/removed some more oredictionary entries.
+- Changed some more configs.
+- Added some more chest loot.
+- Added/changed/removed some more EMC values.
+
+0.3.0
+- Began work on adding HQM quests.
+- Changed some more settings to improve FPS.
+- Added Not Enough Thaumcraft Tabs mod.
+- Updated Open Transport mod to latest version.
+- Updated Storage Drawers mod to latest version.
+- Updated Universal Singularities mod to latest version.
+- Updated Wanion Lib mod to latest version.
+- Updated Climate Control mod to latest version.
+- Updated the Awakening custom texture pack.
+- Removed Better Foliage mod.
+- Removed PP Textures texture pack.
+- Added some more INpure Core NEI filters.
+- Added/changed/removed some more recipes.
+- Added/changed/removed some more oredictionary entries.
+- Changed some more configs.
+- Added some more chest loot.
+- Added/changed/removed some more EMC values.
+
+0.2.3
+- Changed some default graphical settings to improve FPS.
+- Added Barkifier mod.
+- Updated Decocraft mod to latest version.
+- Updated Chest Transporter mod to latest version.
+- Updated Tainted Magic mod to latest version.
+- Updated Universal Singularities mod to latest version.
+- Added some more INpure Core NEI filters.
+- Added/changed/removed some more recipes.
+- Added/changed/removed some more oredictionary entries.
+- Changed some more configs.
+- Added some more chest loot.
+
+0.2.2
+- Fixed bug where hostile mobs would spawn in daylight.
+- Updated Wanion Lib  mod to latest version.
+- Updated Tainted Magic mod to latest version.
+- Removed Ex Nihilo mod.
+- Removed Ex Fusile mod.
+- Removed Cacti mod.
+- Added some more INpure Core NEI filters.
+- Added/changed/removed some more recipes.
+- Added/changed/removed some more oredictionary entries.
+- Changed some more configs.
+
+0.2.1
+- Fixed crash when changing creative tabs.
+- Fixed possible crash when choosing to start with a bonus chest.
+- Re-enabled creative mode for those who need/want it (no cheating!) :)
+- Added Cacti mod.
+- Updated Eternal Singularity mod to latest version.
+- Added some more INpure Core NEI filters.
+- Added some more chest loot.
+- Added/changed/removed some more recipes.
+- Added/changed/removed some more oredictionary entries.
+- Changed some more configs.
+
+0.2.0
+- Added seperate downloadable dedicated server files!
+- Added Wanion Lib mod.
+- Added Ex Fusile mod.
+- Updated Eternal Singularity mod to latest version.
+- Updated Avaritia Addons mod to latest version.
+- Updated Universal Singularities mod to latest version.
+- Removed Refine Craft mod.
+- Removed FTB Lib mod.
+- Removed Pack Guard mod.
+- Removed Default Options mod.
+- Added some more INpure Core NEI filters.
+- Added some more chest loot.
+- Added/changed/removed some more recipes.
+- Added/changed/removed some more oredictionary entries.
+- Changed some more configs.
+
+0.1.11
+- Fixed a crash caused by empty loot tables in some situations.
+- Updated AE2 Stuff mod to latest version.
+- Updated AOBD Singularities mod to latest version.
+- Updated Universal Singularities mod to latest version.
+- Added some more INpure Core NEI filters.
+- Added some more chest loot.
+- Added/changed/removed some more recipes.
+- Added/changed/removed some more oredictionary entries.
+- Changed some more configs.
+
+0.1.10 (BUGGED DO NOT USE)
+- Added Eternal Singularity mod.
+- Updated Tainted Magic mod to latest version.
+- Updated ProjectE mod to latest version.
+- Added some more INpure Core NEI filters.
+- Added some more chest loot.
+- Added/changed/removed some more recipes.
+- Added/changed/removed some more oredictionary entries.
+- Changed some more configs.
+- Unified all ladders and removed duplicates.
+- Removed broken warpwood world gen.
+
+0.1.9
+- Added Backlytra mod.
+- Added Avaritia mod.
+- Added Avaritia Addons mod.
+- Added Thermal Singularities mod.
+- Added Universal Singularities mod.
+- Added AOBD Singularities mod.
+- Added MmmMmmMmmMmm mod.
+- Updated Iron Backpacks mod to latest version.
+- Updated Architecture Craft mod.
+- Updated Tainted Magic mod to latest version.
+- Fixed issues caused by Tainted Magic update renames.
+- Added some more INpure Core NEI filters.
+- Changed some custom tree spawns.
+- Added some more chest loot.
+- Added/changed/removed some more recipes.
+- Added/changed/removed some more oredictionary entries.
+- Added/changed/removed some more item/block burn times.
+- Changed some more configs.
+- Unified all fence gates and removed duplicates.
+- Completed recipes for all rail tracks.
+- Completed recipes for all chests.
+- Fixed broken ore unification.
+- Fixed bug with bed sleeping animation not displaying.
+
+0.1.8
+- Removed Moar Signs mod.
+- Installed Custom Things mod.
+- Installed Ancient Trees (AKA Dendrology) mod.
+- Updated iChunUtil mod to latest version.
+- Updated Chest Transporter mod to latest version.
+- Updated Gadomancy mod to latest version.
+- Updated Craft Tweaker mod to latest version.
+- Added/changed/removed some more recipes.
+- Added some more INpure Core NEI filters.
+- Added/changed/removed some more item/block burn times.
+- Added/changed/removed some more oredictionary entries.
+- Added some more custom tree spawns.
+- Tidied up Minetweaker scripts folder.
+- Changed some more configs.
+- Updated the Awakening custom texture pack.
+- Added some custom items/blocks.
+- Unified all trees/wood/saplings etc and removed duplicates.
+
+0.1.7
+- Added AE2 Stuff mod.
+- Added/changed/removed some more recipes.
+- Added some more INpure Core NEI filters.
+- Renamed some more items/blocks.
+- Fixed bug with title screen tag line not displaying.
+- Added/changed/removed some EMC values.
+- Removed Stop Bitching My Chat mod.
+- Reduced mob spawn caps slightly.
+- Added some custom tree spawns.
+- Added/changed/removed some item/block burn times.
+- Added/changed/removed some more oredictionary entries.
+
+0.1.6
+- Added/changed/removed some more recipes.
+- Added some more INpure Core NEI filters.
+- Changed some more configs.
+- Re-Added AE2 presses to skystone chests but with secondary crafting options.
+
+0.1.5
+- Re-updated Project Zulu to latest version.
+- Changed some configs to fix a crash caused by Project Zulu.
+
+0.1.4 (BUGGED DO NOT USE)
+- Rolled back Project Zulu to resolve crash when right clicking wild cows with a bucket.
+- Added some more new tips.
+- Added some more INpure Core NEI filters.
+
+0.1.3
+- Added/changed/removed some more recipes.
+- Added/changed/removed some oredictionary entries.
+- Added some chisel groups/variations.
+- Added MPUtils Tip Alert mod.
+- Added It's The Little Things mod.
+- Changed some configs.
+- Added some new tips.
+- Added link on menu to report bugs.
+- Added menu and loading artwork.
+- Added Thaumcraft aspects to some items/blocks.
+
+0.1.2
+- Added/changed/removed some recipes.
+- Added/changed/removed some oredictionary entries.
+- Added some chisel groups/variations.
+- Changed a few NEI settings most notable to show ore dictionary by default.
+- Added keep inventory if die to void fall death in overworld or nether.
+- Turned off HQM temporarily (not ready yet) WIP.
+- Changed launch GUI screen.
+- Fix an NEI bug where some info was duplicated when holding shift.
+- Added some INpure Core NEI filters.
+- Removed Not Enough Resources mod.
+- Added Thaumcraft aspects to some items/blocks.
+- Added chest loot.
+- Edited some mod configs.
+- Updated Iron Backpacks mod to latest version.
+- Renamed some items/blocks.
+
+0.1.1
+- Fixed major issue where world wouldn't load due to misplaced scripts.
+
+0.1.0 (BUGGED DO NOT USE)
+- Initial beta release.

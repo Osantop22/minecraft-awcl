@@ -1,0 +1,23 @@
+{
+  "_name": "ProjectZulu|Core.Vulture",
+  "drops": [
+    {
+      "function": "add",
+      "id": "Thaumcraft:TripleMeatTreat",
+      "count": 0.05
+    },
+    {
+      "function": "add",
+      "id": "minecraft:feather",
+      "count": 0.2
+    },
+    {
+      "function": "add",
+      "id": "awakeningmeat:bird_raw",
+      "damage": 0,
+      "count": 0.25
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

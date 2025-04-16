@@ -1,0 +1,16 @@
+{extracells:[
+{hide:[[terminal.fluid.wireless],[*],[*power*]]},
+{hide:[[terminal.universal.wireless],[*],[*power*]]},
+{hide:[[certustank],[*],[*]]},
+{hide:[[certustank],[*],[*]]},
+{hide:[[storage.fluid.portable],[*],[*]]},
+{hide:[[pattern.fluid],[*],[*]]},
+{hide:[[walrus],[*],[*]]},
+{hide:[[hardmedrive],[*],[*]]},
+{hide:[[vibrantchamberfluid],[*],[*]]},
+{keep:[[pattern.fluid],[0],[*]]},
+{keep:[[part.base],[0,1,2,3,4,5,6,7,9,10,11,12],[*]]},
+{keep:[[storage.physical],[0,1,2,3],[*]]},
+{keep:[[terminal.fluid.wireless],[0],[*]]},
+{keep:[[terminal.universal.wireless],[0],[*]]},
+]}

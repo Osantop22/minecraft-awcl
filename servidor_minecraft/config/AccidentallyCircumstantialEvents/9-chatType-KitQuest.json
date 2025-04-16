@@ -1,0 +1,19 @@
+{
+   "events":[
+      {
+         "event_type":"CHAT",
+         "text":"quest",
+         "tasks":[
+            {
+               "task_type":"INVENTORY_ADD",
+               "target_type":"SELF",
+               "target":"",
+               "modid":"HardcoreQuesting",
+               "name":"quest_book",
+               "meta":"0",
+               "count":"1"
+            }
+         ]
+      }
+   ]
+}

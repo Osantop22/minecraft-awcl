@@ -1,0 +1,18 @@
+<!--
+See PainterPaintSources_Core.xml for documentation.
+-->
+
+<PainterPaintSources>
+
+  <whitelist>
+    <itemStack modID="ImmersiveEngineering" itemName="metalDecoration" itemMeta="10" />
+    <itemStack modID="ImmersiveEngineering" itemName="metalDecoration2" itemMeta="0" />
+    <itemStack modID="ImmersiveEngineering" itemName="metalDecoration2" itemMeta="1" />
+    <itemStack modID="ImmersiveEngineering" itemName="metalDecoration2" itemMeta="2" />
+  </whitelist>
+
+  <blacklist>
+
+  </blacklist>
+
+</PainterPaintSources>

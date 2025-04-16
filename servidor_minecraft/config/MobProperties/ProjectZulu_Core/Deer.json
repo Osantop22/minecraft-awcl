@@ -1,0 +1,23 @@
+{
+  "_name": "ProjectZulu|Core.Deer",
+  "drops": [
+    {
+      "function": "add",
+      "id": "minecraft:bone",
+      "count": 0.5
+    },
+    {
+      "function": "add",
+      "id": "minecraft:leather",
+      "count": 0.25
+    },
+    {
+      "function": "add",
+      "id": "harvestcraft:venisonrawItem",
+      "damage": 0,
+      "count": 0.25
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

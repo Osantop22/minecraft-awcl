@@ -1,0 +1,22 @@
+{
+  "_name": "ProjectZulu|Core.Frog",
+  "drops": [
+    {
+      "function": "add",
+      "id": "minecraft:slime_ball",
+      "count": 0.1
+    },
+    {
+      "function": "add",
+      "id": "harvestcraft:frograwItem",
+      "count": 0.50
+    },
+    {
+      "function": "add",
+      "id": "minecraft:waterlily",
+      "count": 0.05
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

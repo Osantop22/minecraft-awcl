@@ -1,0 +1,16 @@
+{Highlands:[
+{hide:[[hl_cocoa],[*],[*]]},
+{hide:[[*tile.hl_woodStairs2*],[*],[*]]},
+{hide:[[*hl_beechSapling*],[*],[*]]},
+{hide:[[*hl_greatOakSapling*],[*],[*]]},
+{hide:[[*acacia*],[*],[*]]},
+{hide:[[*mangrove*],[*],[*]]},
+{hide:[[*autumn*],[*],[*]]},
+{hide:[[*hl_deadSapling*],[*],[*]]},
+{hide:[[*hl_acaciaSapling*],[*],[*]]},
+{hide:[[*hl_mangroveSapling*],[*],[*]]},
+{hide:[[*hl_evgBushSapling*],[*],[*]]},
+{hide:[[*hl_decBushSapling*],[*],[*]]},
+{keep:[[hl_woodPlanks],[0,1,3],[*]]},
+{keep:[[hl_woodSlab],[0,1,3],[*]]},
+]}

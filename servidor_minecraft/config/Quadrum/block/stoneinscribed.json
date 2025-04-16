@@ -1,0 +1,11 @@
+{
+   "name":"stoneinscribed",
+   "default-texture":"stoneinscribed",
+   "material":"stone",
+   "hardness":1.5,
+   "type": "block",
+   "drops-self":"true",
+   "flammable":"false",
+   "requires-tool":"true",
+   "ore_dictionary":"stone"
+}

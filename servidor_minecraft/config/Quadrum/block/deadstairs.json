@@ -1,0 +1,11 @@
+{
+   "name":"deadstairs",
+   "default-texture":"deadstairs",
+   "material":"wood",
+   "hardness":1,
+   "type":"stair",
+   "drops-self":"true",
+   "flammable":"true",
+   "requires-tool":"false",
+   "ore_dictionary":"stairsWood"
+}

@@ -1,0 +1,735 @@
+{
+  "comment": "/neircollect collect codechicken.nei.recipe.BrewingRecipeHandler some\n/neircollect collect codechicken.nei.recipe.BrewingRecipeHandler s1=3 so=3\n/neircollect collect codechicken.nei.recipe.BrewingRecipeHandler s1=3 so=3 some",
+  "groups": {
+    "codechicken.nei.recipe.BrewingRecipeHandler": {
+      "comment": "Generated with /neircollect collect codechicken.nei.recipe.BrewingRecipeHandler s1=3 so=3 some",
+      "conversions": [
+        {
+          "count": 3,
+          "output": "minecraft:potion|8198",
+          "ingredients": {
+            "minecraft:potion|16": 3,
+            "minecraft:golden_carrot|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8197",
+          "ingredients": {
+            "minecraft:potion|16": 3,
+            "minecraft:speckled_melon|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8269",
+          "ingredients": {
+            "minecraft:potion|8205": 3,
+            "minecraft:redstone|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8233",
+          "ingredients": {
+            "minecraft:potion|8201": 3,
+            "minecraft:glowstone_dust|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8204",
+          "ingredients": {
+            "minecraft:fermented_spider_eye|0": 1,
+            "minecraft:potion|8196": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8202",
+          "ingredients": {
+            "minecraft:potion|8194": 3,
+            "minecraft:fermented_spider_eye|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16449",
+          "ingredients": {
+            "minecraft:potion|8257": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8225",
+          "ingredients": {
+            "minecraft:glowstone_dust|0": 1,
+            "minecraft:potion|8193": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8236",
+          "ingredients": {
+            "minecraft:fermented_spider_eye|0": 1,
+            "minecraft:potion|8228": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16454",
+          "ingredients": {
+            "minecraft:potion|8262": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8192",
+          "ingredients": {
+            "minecraft:spider_eye|0": 1,
+            "minecraft:potion|0": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8200",
+          "ingredients": {
+            "minecraft:fermented_spider_eye|0": 1,
+            "minecraft:potion|8193": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8266",
+          "ingredients": {
+            "minecraft:fermented_spider_eye|0": 1,
+            "minecraft:potion|8258": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8265",
+          "ingredients": {
+            "minecraft:potion|8201": 3,
+            "minecraft:redstone|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8204",
+          "ingredients": {
+            "minecraft:fermented_spider_eye|0": 1,
+            "minecraft:potion|8197": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8206",
+          "ingredients": {
+            "minecraft:fermented_spider_eye|0": 1,
+            "minecraft:potion|8198": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8196",
+          "ingredients": {
+            "minecraft:potion|16": 3,
+            "minecraft:spider_eye|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8257",
+          "ingredients": {
+            "minecraft:redstone|0": 1,
+            "minecraft:potion|8193": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8260",
+          "ingredients": {
+            "minecraft:potion|8196": 3,
+            "minecraft:redstone|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8205",
+          "ingredients": {
+            "minecraft:potion|16": 3,
+            "minecraft:fish|3": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8192",
+          "ingredients": {
+            "minecraft:magma_cream|0": 1,
+            "minecraft:potion|0": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16450",
+          "ingredients": {
+            "minecraft:potion|8258": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8236",
+          "ingredients": {
+            "minecraft:fermented_spider_eye|0": 1,
+            "minecraft:potion|8229": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8266",
+          "ingredients": {
+            "minecraft:redstone|0": 1,
+            "minecraft:potion|8202": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8200",
+          "ingredients": {
+            "minecraft:fermented_spider_eye|0": 1,
+            "minecraft:potion|0": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16396",
+          "ingredients": {
+            "minecraft:potion|8204": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16417",
+          "ingredients": {
+            "minecraft:potion|8225": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16421",
+          "ingredients": {
+            "minecraft:potion|8229": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16385",
+          "ingredients": {
+            "minecraft:gunpowder|0": 1,
+            "minecraft:potion|8193": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16387",
+          "ingredients": {
+            "minecraft:potion|8195": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16386",
+          "ingredients": {
+            "minecraft:potion|8194": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16457",
+          "ingredients": {
+            "minecraft:potion|8265": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8232",
+          "ingredients": {
+            "minecraft:fermented_spider_eye|0": 1,
+            "minecraft:potion|32": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8234",
+          "ingredients": {
+            "minecraft:fermented_spider_eye|0": 1,
+            "minecraft:potion|8226": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8226",
+          "ingredients": {
+            "minecraft:potion|8194": 3,
+            "minecraft:glowstone_dust|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16428",
+          "ingredients": {
+            "minecraft:potion|8236": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8264",
+          "ingredients": {
+            "minecraft:fermented_spider_eye|0": 1,
+            "minecraft:potion|64": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|64",
+          "ingredients": {
+            "minecraft:redstone|0": 1,
+            "minecraft:potion|0": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16424",
+          "ingredients": {
+            "minecraft:potion|8232": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16390",
+          "ingredients": {
+            "minecraft:potion|8198": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8204",
+          "ingredients": {
+            "minecraft:fermented_spider_eye|0": 1,
+            "minecraft:potion|8205": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8202",
+          "ingredients": {
+            "minecraft:potion|8195": 3,
+            "minecraft:fermented_spider_eye|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16452",
+          "ingredients": {
+            "minecraft:potion|8260": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8232",
+          "ingredients": {
+            "minecraft:potion|8225": 3,
+            "minecraft:fermented_spider_eye|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8229",
+          "ingredients": {
+            "minecraft:glowstone_dust|0": 1,
+            "minecraft:potion|8197": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16392",
+          "ingredients": {
+            "minecraft:potion|8200": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8201",
+          "ingredients": {
+            "minecraft:potion|16": 3,
+            "minecraft:blaze_powder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8270",
+          "ingredients": {
+            "minecraft:fermented_spider_eye|0": 1,
+            "minecraft:potion|8262": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16389",
+          "ingredients": {
+            "minecraft:potion|8197": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8193",
+          "ingredients": {
+            "minecraft:ghast_tear|0": 1,
+            "minecraft:potion|16": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8264",
+          "ingredients": {
+            "minecraft:fermented_spider_eye|0": 1,
+            "minecraft:potion|8265": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8200",
+          "ingredients": {
+            "minecraft:fermented_spider_eye|0": 1,
+            "minecraft:potion|16": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16460",
+          "ingredients": {
+            "minecraft:potion|8268": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8200",
+          "ingredients": {
+            "minecraft:fermented_spider_eye|0": 1,
+            "minecraft:potion|8192": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16426",
+          "ingredients": {
+            "minecraft:potion|8234": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8264",
+          "ingredients": {
+            "minecraft:potion|8200": 3,
+            "minecraft:redstone|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8192",
+          "ingredients": {
+            "minecraft:ghast_tear|0": 1,
+            "minecraft:potion|0": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16388",
+          "ingredients": {
+            "minecraft:potion|8196": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16",
+          "ingredients": {
+            "minecraft:nether_wart|0": 1,
+            "minecraft:potion|0": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8192",
+          "ingredients": {
+            "minecraft:potion|0": 3,
+            "minecraft:sugar|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16462",
+          "ingredients": {
+            "minecraft:potion|8270": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16384",
+          "ingredients": {
+            "minecraft:gunpowder|0": 1,
+            "minecraft:potion|8192": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16420",
+          "ingredients": {
+            "minecraft:potion|8228": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8194",
+          "ingredients": {
+            "minecraft:potion|16": 3,
+            "minecraft:sugar|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16425",
+          "ingredients": {
+            "minecraft:potion|8233": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8264",
+          "ingredients": {
+            "minecraft:fermented_spider_eye|0": 1,
+            "minecraft:potion|8257": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8232",
+          "ingredients": {
+            "minecraft:fermented_spider_eye|0": 1,
+            "minecraft:potion|8233": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16393",
+          "ingredients": {
+            "minecraft:potion|8201": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8268",
+          "ingredients": {
+            "minecraft:potion|8260": 3,
+            "minecraft:fermented_spider_eye|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|32",
+          "ingredients": {
+            "minecraft:glowstone_dust|0": 1,
+            "minecraft:potion|0": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16456",
+          "ingredients": {
+            "minecraft:potion|8264": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16398",
+          "ingredients": {
+            "minecraft:potion|8206": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16394",
+          "ingredients": {
+            "minecraft:gunpowder|0": 1,
+            "minecraft:potion|8202": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8195",
+          "ingredients": {
+            "minecraft:potion|16": 3,
+            "minecraft:magma_cream|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16418",
+          "ingredients": {
+            "minecraft:potion|8226": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8270",
+          "ingredients": {
+            "minecraft:potion|8206": 3,
+            "minecraft:redstone|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16458",
+          "ingredients": {
+            "minecraft:potion|8266": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8259",
+          "ingredients": {
+            "minecraft:potion|8195": 3,
+            "minecraft:redstone|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8262",
+          "ingredients": {
+            "minecraft:potion|8198": 3,
+            "minecraft:redstone|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16451",
+          "ingredients": {
+            "minecraft:potion|8259": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8236",
+          "ingredients": {
+            "minecraft:glowstone_dust|0": 1,
+            "minecraft:potion|8204": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8266",
+          "ingredients": {
+            "minecraft:fermented_spider_eye|0": 1,
+            "minecraft:potion|8259": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8192",
+          "ingredients": {
+            "minecraft:blaze_powder|0": 1,
+            "minecraft:potion|0": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8228",
+          "ingredients": {
+            "minecraft:glowstone_dust|0": 1,
+            "minecraft:potion|8196": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8200",
+          "ingredients": {
+            "minecraft:potion|8201": 3,
+            "minecraft:fermented_spider_eye|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16461",
+          "ingredients": {
+            "minecraft:potion|8269": 3,
+            "minecraft:gunpowder|0": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8268",
+          "ingredients": {
+            "minecraft:fermented_spider_eye|0": 1,
+            "minecraft:potion|8269": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|16397",
+          "ingredients": {
+            "minecraft:gunpowder|0": 1,
+            "minecraft:potion|8205": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8192",
+          "ingredients": {
+            "minecraft:speckled_melon|0": 1,
+            "minecraft:potion|0": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "minecraft:potion|8258",
+          "ingredients": {
+            "minecraft:potion|8194": 3,
+            "minecraft:redstone|0": 1
+          }
+        }
+      ]
+    }
+  },
+  "values": {
+    "before": {},
+    "after": {},
+    "conversion": []
+  }
+}

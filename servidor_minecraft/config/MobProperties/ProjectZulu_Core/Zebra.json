@@ -1,0 +1,17 @@
+{
+  "_name": "ProjectZulu|Core.Zebra",
+  "drops": [
+    {
+      "function": "add",
+      "id": "imc:item_raw_horse",
+      "count": 0.5
+    },
+    {
+      "function": "add",
+      "id": "minecraft:leather",
+      "count": 0.25
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

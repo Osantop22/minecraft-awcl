@@ -1,0 +1,18 @@
+{
+  "_name": "ProjectZulu|Core.SandWorm",
+  "drops": [
+    {
+      "function": "add",
+      "id": "minecraft:sand",
+      "count": 2.8
+    },
+    {
+      "function": "add",
+      "id": "awakeningmeat:sandworm_raw",
+      "damage": 0,
+      "count": 0.25
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

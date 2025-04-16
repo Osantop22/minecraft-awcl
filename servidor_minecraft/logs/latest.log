@@ -1,24 +1,12 @@
-[01:03:08] [Server thread/WARN]: Failed to check session lock, aborting
-[01:03:53] [Server thread/WARN]: Failed to check session lock, aborting
-[01:04:38] [Server thread/WARN]: Failed to check session lock, aborting
-[01:05:23] [Server thread/WARN]: Failed to check session lock, aborting
-[01:06:08] [Server thread/WARN]: Failed to check session lock, aborting
-[01:06:53] [Server thread/WARN]: Failed to check session lock, aborting
-[01:06:53] [Server thread/ERROR]: Encountered an unexpected exception
-java.lang.NullPointerException
-	at net.minecraft.world.storage.SaveHandler.func_75754_f(SaveHandler.java:303) ~[ayq.class:?]
-	at net.minecraft.server.management.ServerConfigurationManager.func_72373_m(ServerConfigurationManager.java:966) ~[oi.class:?]
-	at net.minecraft.server.MinecraftServer.func_70000_a(MinecraftServer.java:992) ~[MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_70000_a(DedicatedServer.java:352) ~[lt.class:?]
-	at net.minecraft.profiler.PlayerUsageSnooper.func_76471_b(SourceFile:97) ~[ri.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:585) ~[MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
-[01:06:53] [Server thread/ERROR]: This crash report has been saved to: /workspaces/minecraft-awcl/servidor_minecraft/./crash-reports/crash-2025-02-12_01.06.53-server.txt
-[01:06:53] [Server thread/INFO]: Stopping server
-[01:06:53] [Server thread/INFO]: Saving players
-[01:06:53] [Server thread/INFO]: Saving worlds
-[01:06:53] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[01:06:53] [Server thread/WARN]: Failed to check session lock, aborting
-[01:06:53] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[01:06:53] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[18:09:54] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[18:10:49] [Server thread/INFO]: Loading properties
+[18:10:50] [Server thread/INFO]: Default game type: SURVIVAL
+[18:10:50] [Server thread/INFO]: Generating keypair
+[18:10:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:10:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:10:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:10:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:10:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:11:28] [Server thread/INFO]: Preparing level "world"
+[18:11:40] [Server thread/INFO]: Preparing start region for level 0
+[18:11:41] [Server thread/INFO]: Preparing spawn area: 54%

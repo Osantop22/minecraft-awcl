@@ -1,0 +1,23 @@
+{
+  "_name": "ProjectZulu|Core.Camel",
+  "drops": [
+    {
+      "function": "add",
+      "id": "minecraft:potion",
+      "count": 0.2
+    },
+    {
+      "function": "add",
+      "id": "minecraft:sand",
+      "count": 1.5
+    },
+    {
+      "function": "add",
+      "id": "awakeningmeat:camel_raw",
+      "damage": 0,
+      "count": 0.25
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

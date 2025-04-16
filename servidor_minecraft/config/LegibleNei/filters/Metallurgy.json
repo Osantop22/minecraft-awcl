@@ -1,0 +1,13 @@
+{Metallurgy:[
+{hide:[[machine.frame],[*],[*]]},
+{hide:[[crusher],[*],[*]]},
+{hide:[[alloyer],[*],[*]]},
+{hide:[[forge],[*],[*]]},
+{hide:[[abstractor],[*],[*]]},
+{hide:[[*.axe],[*],[*]]},
+{hide:[[*.hoe],[*],[*]]},
+{hide:[[*.pickaxe],[*],[*]]},
+{hide:[[*.shovel],[*],[*]]},
+{hide:[[*.sword],[*],[*]]},
+{keep:[[explosive],[0,1,3,4],[*]]},
+]}

@@ -1,0 +1,6 @@
+{StorageDrawers:[
+{hide:[[trim],[*],[*]]},
+{hide:[[fullDrawers*],[*],[*]]},
+{hide:[[halfDrawers*],[*],[*]]},
+{keep:[[personalKey],[0],[*]]},
+]}

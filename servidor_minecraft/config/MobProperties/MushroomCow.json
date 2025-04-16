@@ -1,0 +1,35 @@
+{
+  "_name": "MushroomCow",
+  "drops":[
+      {
+         "function":"add",
+         "id":"magicalcrops:1MinicioEssence",
+         "damage":0,
+         "count":0.05
+      },
+      {
+         "function":"add",
+         "id":"magicalcrops:CowEssence",
+         "damage":0,
+         "count":0.1
+      },
+      {
+         "function":"add",
+         "id":"Thaumcraft:ItemNuggetBeef",
+         "damage":0,
+         "count":0.075
+      },
+      {
+         "function":"add",
+         "id":"minecraft:red_mushroom",
+         "damage":0,
+         "count":0.5
+      }
+   ],
+   "pre_stats":[
+
+   ],
+   "stats":[
+
+   ]
+}

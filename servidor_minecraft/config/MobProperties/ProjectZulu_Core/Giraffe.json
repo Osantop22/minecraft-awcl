@@ -1,0 +1,13 @@
+{
+  "_name": "ProjectZulu|Core.Giraffe",
+  "drops": [
+    {
+      "function": "add",
+      "id": "awakeningmeat:giraffe_raw",
+      "damage": 0,
+      "count": 0.25
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

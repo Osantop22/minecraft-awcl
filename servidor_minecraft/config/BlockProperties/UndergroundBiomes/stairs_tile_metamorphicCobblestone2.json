@@ -1,0 +1,16 @@
+{
+  "_name": "UndergroundBiomes:stairs.tile.metamorphicCobblestone2",
+  "stats": {
+    "opacity": 1,
+    "brightness": 0,
+    "hardness": 2.9999998,
+    "resistance": 14.999999,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

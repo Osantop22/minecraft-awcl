@@ -1,0 +1,19 @@
+{
+  "_name": "ProjectZulu|Core.Fox",
+  "drops": [
+    {
+      "function": "add",
+      "id": "minecraft:wool",
+      "damage": 1,
+      "count": 0.5
+    },
+    {
+      "function": "add",
+      "id": "awakeningmeat:fox_raw",
+      "damage": 0,
+      "count": 0.25
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

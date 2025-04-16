@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "event_type": "JOIN_WORLD",
+      "target": "Kmartinator",
+      "noDeathDim": "true",
+      "joinOneEver": "false",
+      "tasks": [
+        {
+          "task_type": "CHAT",
+          "receiver_type": "ALL_PLAYERS",
+          "message": "Watch out, this guy is bananas!"
+        }
+      ]
+    },
+    {
+      "event_type": "JOIN_WORLD",
+      "target": "Kmartinator",
+      "noDeathDim": "true",
+      "joinOneEver": "true",
+      "tasks": [
+        {
+          "task_type": "INVENTORY_ADD",
+          "target_type": "SELF",
+          "target": "",
+          "modid": "TravellersGear",
+          "name": "simpleGear",
+          "meta": "6",
+          "count": "1",
+          "nbt": "{title: \"TG.personaltitle.librarian\"}"
+        },
+        {
+          "task_type": "INVENTORY_ADD",
+          "target_type": "SELF",
+          "target": "",
+          "modid": "lootbags",
+          "name": "lootbag",
+          "meta": "5",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}

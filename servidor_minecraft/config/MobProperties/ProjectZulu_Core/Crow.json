@@ -1,0 +1,24 @@
+{
+  "_name": "ProjectZulu|Core.Crow",
+  "drops": [
+    {
+      "function": "add",
+      "id": "BiomesOPlenty:misc",
+      "damage": 9,
+      "count": 0.2
+    },
+    {
+      "function": "add",
+      "id": "minecraft:feather",
+      "count": 0.25
+    },
+    {
+      "function": "add",
+      "id": "awakeningmeat:bird_raw",
+      "damage": 0,
+      "count": 0.25
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

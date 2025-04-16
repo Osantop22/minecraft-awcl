@@ -1,0 +1,17 @@
+{
+   "events":[
+      {
+         "event_type":"JOIN_WORLD",
+         "target":"ALL_PLAYERS",
+         "noDeathDim":"true",
+         "joinOneEver":"false",
+         "tasks":[
+            {
+               "task_type":"CHAT",
+               "receiver_type":"SELF",
+               "message":"Note: If you have \u00A74missing recipes\u00A7r on servers run the command \u00A76/mt reload\u00A7r as OP or log out and back in."
+            }          
+         ]
+      }
+   ]
+}

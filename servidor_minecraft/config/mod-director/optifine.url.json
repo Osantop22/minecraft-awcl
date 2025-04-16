@@ -1,0 +1,8 @@
+{
+    "url": "https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_E7.jar",
+    "follows": ["Download OptiFine_1.7.10_HD_U_E7.jar"],
+    "fileName": "OptiFine_1.7.10_HD_U_E7.jar",
+    "options": {
+        "launchwrapperTweakerForceNext": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+   "name":"ashslab",
+   "default-texture":"ashslab",
+   "material":"wood",
+   "hardness":1,
+   "type":"slab",
+   "drops-self":"true",
+   "flammable":"true",
+   "requires-tool":"false",
+   "ore_dictionary":"slabWood"
+}

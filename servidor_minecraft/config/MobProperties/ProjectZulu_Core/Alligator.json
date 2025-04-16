@@ -1,0 +1,23 @@
+{
+  "_name": "ProjectZulu|Core.Alligator",
+  "drops": [
+    {
+      "function": "add",
+      "id": "minecraft:slime_ball",
+      "count": 0.1
+    },
+    {
+      "function": "add",
+      "id": "minecraft:leather",
+      "count": 2.00
+    },
+    {
+      "function": "add",
+      "id": "awakeningmeat:alligator_raw",
+      "damage": 0,
+      "count": 0.25
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

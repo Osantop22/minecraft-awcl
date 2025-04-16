@@ -1,0 +1,27 @@
+{
+  "_name": "ProjectZulu|Core.Mummy Pharaoh",
+  "drops": [
+    {
+      "function": "add",
+      "id": "minecraft:gold_ingot",
+      "count": 1.5
+    },
+    {
+      "function": "add",
+      "id": "minecraft:gold_block",
+      "count": 0.2
+    },
+    {
+      "function": "add",
+      "id": "minecraft:diamond",
+      "count": 0.25
+    },
+    {
+      "function": "add",
+      "id": "minecraft:diamond_block",
+      "count": 0.1
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

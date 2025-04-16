@@ -1,0 +1,4984 @@
+{
+  "_name": "dungeonChest",
+  "min": 2,
+  "max": 6,
+  "loot": [
+    {
+      "weight": 1,
+      "id": "minecraft:stone",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:grass",
+      "damage": 0,
+      "min": 1,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:dirt",
+      "damage": 0,
+      "min": 8,
+      "max": 32
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:dirt",
+      "damage": 2,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:cobblestone",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:planks",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:planks",
+      "damage": 1,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:planks",
+      "damage": 2,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:planks",
+      "damage": 3,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:planks",
+      "damage": 4,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:planks",
+      "damage": 5,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:sapling",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:sapling",
+      "damage": 1,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:sapling",
+      "damage": 2,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:sapling",
+      "damage": 3,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:sapling",
+      "damage": 4,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:sapling",
+      "damage": 5,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:sand",
+      "damage": 0,
+      "min": 4,
+      "max": 32
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:sand",
+      "damage": 1,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:gravel",
+      "damage": 0,
+      "min": 4,
+      "max": 32
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:log",
+      "damage": 0,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:log",
+      "damage": 1,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:log",
+      "damage": 2,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:log",
+      "damage": 3,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:glass",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:lapis_block",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:dispenser",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:sandstone",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:sandstone",
+      "damage": 1,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:sandstone",
+      "damage": 2,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:noteblock",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:golden_rail",
+      "damage": 0,
+      "min": 4,
+      "max": 4
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:detector_rail",
+      "damage": 0,
+      "min": 4,
+      "max": 4
+    },
+    {
+      "weight": 25,
+      "id": "minecraft:stick_piston",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:web",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 25,
+      "id": "minecraft:piston",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:wool",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:wool",
+      "damage": 1,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:wool",
+      "damage": 2,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:wool",
+      "damage": 3,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:wool",
+      "damage": 4,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:wool",
+      "damage": 5,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:wool",
+      "damage": 6,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:wool",
+      "damage": 7,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:wool",
+      "damage": 8,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:wool",
+      "damage": 9,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:wool",
+      "damage": 10,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:wool",
+      "damage": 11,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:wool",
+      "damage": 12,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:wool",
+      "damage": 13,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:wool",
+      "damage": 14,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:wool",
+      "damage": 15,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:brown_mushroom",
+      "damage": 0,
+      "min": 1,
+      "max": 6
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:red_mushroom",
+      "damage": 0,
+      "min": 1,
+      "max": 6
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:gold_block",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "minecraft:iron_block",
+      "damage": 0,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:brick_block",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:tnt",
+      "damage": 0,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:bookshelf",
+      "damage": 0,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:mossy_cobblestone",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:obsidian",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 50,
+      "id": "minecraft:torch",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:chest",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:diamond_block",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:crafting_table",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:furnace",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:ladder",
+      "damage": 0,
+      "min": 8,
+      "max": 16
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:rail",
+      "damage": 0,
+      "min": 8,
+      "max": 32
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:lever",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stone_pressure_plate",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:wooden_pressure_plate",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:redstone_torch",
+      "damage": 0,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stone_button",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:ice",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:snow",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:cactus",
+      "damage": 0,
+      "min": 3,
+      "max": 6
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:clay",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:jukebox",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:fence",
+      "damage": 0,
+      "min": 8,
+      "max": 16
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:pumpkin",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:netherrack",
+      "damage": 0,
+      "min": 8,
+      "max": 16
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:soul_sand",
+      "damage": 0,
+      "min": 8,
+      "max": 16
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:glowstone",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:lit_pumpkin",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass",
+      "damage": 1,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass",
+      "damage": 2,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass",
+      "damage": 3,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass",
+      "damage": 4,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass",
+      "damage": 5,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass",
+      "damage": 6,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass",
+      "damage": 7,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass",
+      "damage": 8,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass",
+      "damage": 9,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass",
+      "damage": 10,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass",
+      "damage": 11,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass",
+      "damage": 12,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass",
+      "damage": 13,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass",
+      "damage": 14,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass",
+      "damage": 15,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:trapdoor",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:stonebrick",
+      "damage": 0,
+      "min": 8,
+      "max": 32
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stonebrick",
+      "damage": 1,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stonebrick",
+      "damage": 2,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stonebrick",
+      "damage": 3,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:brown_mushroom_block",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:red_mushroom_block",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:iron_bars",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:glass_pane",
+      "damage": 0,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:melon_block",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:vine",
+      "damage": 0,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:fence_gate",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:mycelium",
+      "damage": 0,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:waterlily",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:nether_brick",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:nether_brick_fence",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:enchanting_table",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:end_portal_frame",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:end_stone",
+      "damage": 0,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:redstone_lamp",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:tripwire_hook",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:beacon",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:cobblestone_wall",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:cobblestone_wall",
+      "damage": 1,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:wooden_button",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:anvil",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:trapped_chest",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:light_weighted_pressure_plate",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:heavy_weighted_pressure_plate",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:daylight_detector",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 15,
+      "id": "minecraft:redstone_block",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:hopper",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:quartz_block",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:quartz_block",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:quartz_block",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:activator_rail",
+      "damage": 0,
+      "min": 4,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:dropper",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:stained_hardened_clay",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:stained_hardened_clay",
+      "damage": 1,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:stained_hardened_clay",
+      "damage": 2,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:stained_hardened_clay",
+      "damage": 3,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:stained_hardened_clay",
+      "damage": 4,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:stained_hardened_clay",
+      "damage": 5,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:stained_hardened_clay",
+      "damage": 6,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:stained_hardened_clay",
+      "damage": 7,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:stained_hardened_clay",
+      "damage": 8,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:stained_hardened_clay",
+      "damage": 9,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:stained_hardened_clay",
+      "damage": 10,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:stained_hardened_clay",
+      "damage": 11,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:stained_hardened_clay",
+      "damage": 12,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:stained_hardened_clay",
+      "damage": 13,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:stained_hardened_clay",
+      "damage": 14,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:stained_hardened_clay",
+      "damage": 15,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass_pane",
+      "damage": 0,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass_pane",
+      "damage": 1,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass_pane",
+      "damage": 2,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass_pane",
+      "damage": 3,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass_pane",
+      "damage": 4,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass_pane",
+      "damage": 5,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass_pane",
+      "damage": 6,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass_pane",
+      "damage": 7,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass_pane",
+      "damage": 8,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass_pane",
+      "damage": 9,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass_pane",
+      "damage": 10,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass_pane",
+      "damage": 11,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass_pane",
+      "damage": 12,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass_pane",
+      "damage": 13,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass_pane",
+      "damage": 14,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:stained_glass_pane",
+      "damage": 15,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:log2",
+      "damage": 0,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:log2",
+      "damage": 1,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:hay_block",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:carpet",
+      "damage": 0,
+      "min": 8,
+      "max": 24
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:carpet",
+      "damage": 1,
+      "min": 8,
+      "max": 24
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:carpet",
+      "damage": 2,
+      "min": 8,
+      "max": 24
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:carpet",
+      "damage": 3,
+      "min": 8,
+      "max": 24
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:carpet",
+      "damage": 4,
+      "min": 8,
+      "max": 24
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:carpet",
+      "damage": 5,
+      "min": 8,
+      "max": 24
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:carpet",
+      "damage": 6,
+      "min": 8,
+      "max": 24
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:carpet",
+      "damage": 7,
+      "min": 8,
+      "max": 24
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:carpet",
+      "damage": 8,
+      "min": 8,
+      "max": 24
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:carpet",
+      "damage": 9,
+      "min": 8,
+      "max": 24
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:carpet",
+      "damage": 10,
+      "min": 8,
+      "max": 24
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:carpet",
+      "damage": 11,
+      "min": 8,
+      "max": 24
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:carpet",
+      "damage": 12,
+      "min": 8,
+      "max": 24
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:carpet",
+      "damage": 13,
+      "min": 8,
+      "max": 24
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:carpet",
+      "damage": 14,
+      "min": 8,
+      "max": 24
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:carpet",
+      "damage": 15,
+      "min": 8,
+      "max": 24
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:hardened_clay",
+      "damage": 0,
+      "min": 8,
+      "max": 32
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:coal_block",
+      "damage": 0,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:packed_ice",
+      "damage": 0,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:flint_and_steel",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:apple",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:arrow",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 50,
+      "id": "minecraft:coal",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:coal",
+      "damage": 1,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:diamond",
+      "damage": 0,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 75,
+      "id": "minecraft:iron_ingot",
+      "damage": 0,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 25,
+      "id": "minecraft:gold_ingot",
+      "damage": 0,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:stick",
+      "damage": 0,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:bown",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:mushroom_stew",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:string",
+      "damage": 0,
+      "min": 1,
+      "max": 6
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:feather",
+      "damage": 0,
+      "min": 1,
+      "max": 6
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:gunpowder",
+      "damage": 0,
+      "min": 1,
+      "max": 6
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:wheat_seeds",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:wheat",
+      "damage": 0,
+      "min": 1,
+      "max": 6
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:bread",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:flint",
+      "damage": 0,
+      "min": 1,
+      "max": 6
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:porkchop",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:cooked_porkchop",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:golden_apple",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:golden_apple",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:sign",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:wooden_door",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:bucket",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:minecart",
+      "damage": 0,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:saddle",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:iron_door",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 50,
+      "id": "minecraft:redstone",
+      "damage": 0,
+      "min": 1,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:snowball",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:boat",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 25,
+      "id": "minecraft:leather",
+      "damage": 0,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:brick",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:clay_ball",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:reeds",
+      "damage": 0,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:paper",
+      "damage": 0,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:book",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:slime_ball",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:chest_minecart",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:furnace_minecart",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:egg",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:compass",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:fishing_rod",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:clock",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 25,
+      "id": "minecraft:glowstone_dust",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:fish",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:fish",
+      "damage": 1,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:fish",
+      "damage": 2,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:fish",
+      "damage": 3,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:cooked_fish",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:cooked_fish",
+      "damage": 1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:dye",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:dye",
+      "damage": 1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:dye",
+      "damage": 2,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:dye",
+      "damage": 3,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:dye",
+      "damage": 4,
+      "min": 1,
+      "max": 6
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:dye",
+      "damage": 5,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:dye",
+      "damage": 6,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:dye",
+      "damage": 7,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:dye",
+      "damage": 8,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:dye",
+      "damage": 9,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:dye",
+      "damage": 10,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:dye",
+      "damage": 11,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:dye",
+      "damage": 12,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:dye",
+      "damage": 13,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:dye",
+      "damage": 14,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:dye",
+      "damage": 15,
+      "min": 1,
+      "max": 6
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:bone",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:sugar",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:cake",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:bed",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:repeater",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:cookie",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:shears",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:melon",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:pumpkin_seeds",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:melon_seeds",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:beef",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:cooked_beef",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:chicken",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:cooked_chicken",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:rotten_flesh",
+      "damage": 0,
+      "min": 1,
+      "max": 6
+    },
+    {
+      "weight": 25,
+      "id": "minecraft:ender_pearl",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:blaze_rod",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:ghast_tear",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:gold_nugget",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:nether_wart",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:glass_bottle",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:spider_eye",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:fermented_spider_eye",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 25,
+      "id": "minecraft:blaze_powder",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:magma_cream",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:brewing_stand",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:cauldron",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:ender_eye",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:speckled_melon",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:experience_bottle",
+      "damage": 0,
+      "min": 3,
+      "max": 12
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:fire_charge",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:writable_book",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:emerald",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:item_frame",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:flower_pot",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:carrot",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:potato",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 4,
+      "id": "minecraft:baked_potato",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:poisonous_potato",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:golden_carrot",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:skull",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:skull",
+      "damage": 1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 4,
+      "id": "minecraft:skull",
+      "damage": 2,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 3,
+      "id": "minecraft:skull",
+      "damage": 4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:nether_star",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 4,
+      "id": "minecraft:pumpkin_pie",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:fireworks",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:firework_charge",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:comparator",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:netherbrick",
+      "damage": 0,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 25,
+      "id": "minecraft:quartz",
+      "damage": 0,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:tnt_minecart",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:hopper_minecart",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:iron_horse_armor",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:golden_horse_armor",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:diamond_horse_armor",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:lead",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:name_tag",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "AgriCraft:seedAnalyzer",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 3,
+      "id": "AgriCraft:seedPotato",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 3,
+      "id": "AgriCraft:seedCarrot",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 3,
+      "id": "AgriCraft:seedSugarcane",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 2,
+      "id": "AgriCraft:seedDandelion",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 2,
+      "id": "AgriCraft:seedPoppy",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 2,
+      "id": "AgriCraft:seedOrchid",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 2,
+      "id": "AgriCraft:seedAllium",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 2,
+      "id": "AgriCraft:seedTulipRed",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 2,
+      "id": "AgriCraft:seedTulipOrange",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 2,
+      "id": "AgriCraft:seedTulipWhite",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 2,
+      "id": "AgriCraft:seedTulipPink",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 2,
+      "id": "AgriCraft:seedDaisy",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 3,
+      "id": "AgriCraft:seedCactus",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 3,
+      "id": "AgriCraft:seedShroomRed",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 3,
+      "id": "AgriCraft:seedShroomBrown",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "AgriCraft:cropsItem",
+      "damage": 0,
+      "min": 4,
+      "max": 24
+    },
+    {
+      "weight": 3,
+      "id": "AgriCraft:seedCinderpearl",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 3,
+      "id": "AgriCraft:seedShimmerleaf",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 3,
+      "id": "AgriCraft:seedVishroom",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 2,
+      "id": "AgriCraft:seedTaintedRoot",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "AgriCraft:seedBotaniaWhite",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "AgriCraft:seedBotaniaOrange",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "AgriCraft:seedBotaniaMagenta",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "AgriCraft:seedBotaniaLightBlue",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "AgriCraft:seedBotaniaYellow",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "AgriCraft:seedBotaniaLime",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "AgriCraft:seedBotaniaPink",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "AgriCraft:seedBotaniaGray",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "AgriCraft:seedBotaniaLightGray",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "AgriCraft:seedBotaniaCyan",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "AgriCraft:seedBotaniaPurple",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "AgriCraft:seedBotaniaBlue",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "AgriCraft:seedBotaniaBrown",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "AgriCraft:seedBotaniaGreen",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "AgriCraft:seedBotaniaRed",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "AgriCraft:seedBotaniaBlack",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "ArchitectureCraft:sawbench",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ArchitectureCraft:sawblade",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "StorageDrawers:compDrawers",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "StorageDrawers:controller",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "StorageDrawers:controllerSlave",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "StorageDrawers:framingTable",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 3,
+      "id": "StorageDrawers:fullCustom1",
+      "damage": 0,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "weight": 2,
+      "id": "StorageDrawers:fullCustom2",
+      "damage": 0,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "weight": 2,
+      "id": "StorageDrawers:fullCustom4",
+      "damage": 0,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "weight": 1,
+      "id": "StorageDrawers:halfCustom2",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "StorageDrawers:halfCustom4",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "StorageDrawers:trimCustom",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "StorageDrawers:upgradeTemplate",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "StorageDrawers:upgrade",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "StorageDrawers:upgrade",
+      "damage": 3,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "StorageDrawers:upgrade",
+      "damage": 4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "StorageDrawers:upgrade",
+      "damage": 5,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "StorageDrawers:upgrade",
+      "damage": 6,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "StorageDrawers:upgradeStatus",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "StorageDrawers:upgradeStatus",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "StorageDrawers:upgradeVoid",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "StorageDrawers:upgradeRedstone",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "StorageDrawers:upgradeRedstone",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "StorageDrawers:upgradeRedstone",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "StorageDrawers:upgradeLock",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "StorageDrawers:shroudKey",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_smooth_stone_stairs",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_stairs_0",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_stairs_1",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_stairs_2",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_stairs_3",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_stairs_4",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_stairs_5",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_stairs_6",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_stairs_7",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_stairs_8",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_stairs_9",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_stairs_10",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_stairs_11",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_stairs_12",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_stairs_13",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_stairs_14",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_stairs_15",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_stairs_16",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_slab_0",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_slab_1",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_slab_2",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_slab_3",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_slab_4",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_slab_5",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_slab_6",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_slab_7",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_slab_8",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_slab_9",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_slab_10",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_slab_11",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_slab_12",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_slab_13",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_slab_14",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_slab_15",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hardened_clay_slab_16",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:red_sandstone",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:red_sandstone",
+      "damage": 1,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:red_sandstone",
+      "damage": 2,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:red_sandstone_slab",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_red_sandstone_stairs",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:block_hay_stairs",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:hay_slab",
+      "damage": 0,
+      "min": 4,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "imc:item_colored_flower_pot",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "imc:item_colored_flower_pot",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "imc:item_colored_flower_pot",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "imc:item_colored_flower_pot",
+      "damage": 3,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "imc:item_colored_flower_pot",
+      "damage": 4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "imc:item_colored_flower_pot",
+      "damage": 5,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "imc:item_colored_flower_pot",
+      "damage": 6,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "imc:item_colored_flower_pot",
+      "damage": 7,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "imc:item_colored_flower_pot",
+      "damage": 8,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "imc:item_colored_flower_pot",
+      "damage": 9,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "imc:item_colored_flower_pot",
+      "damage": 10,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "imc:item_colored_flower_pot",
+      "damage": 11,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "imc:item_colored_flower_pot",
+      "damage": 12,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "imc:item_colored_flower_pot",
+      "damage": 13,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "imc:item_colored_flower_pot",
+      "damage": 14,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "imc:item_colored_flower_pot",
+      "damage": 15,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "ThermalFoundation:Storage",
+      "damage": 4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "ThermalFoundation:Storage",
+      "damage": 8,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "ThermalFoundation:Storage",
+      "damage": 10,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:Storage",
+      "damage": 11,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "ThermalFoundation:Storage",
+      "damage": 12,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:bucket",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:bucket",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:bucket",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:bucket",
+      "damage": 3,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:bucket",
+      "damage": 4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:bucket",
+      "damage": 6,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:bucket",
+      "damage": 7,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:bucket",
+      "damage": 8,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 10,
+      "id": "ThermalFoundation:material",
+      "damage": 20,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 10,
+      "id": "ThermalFoundation:material",
+      "damage": 68,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 25,
+      "id": "ThermalFoundation:material",
+      "damage": 72,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 10,
+      "id": "ThermalFoundation:material",
+      "damage": 74,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 10,
+      "id": "ThermalFoundation:material",
+      "damage": 75,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 10,
+      "id": "ThermalFoundation:material",
+      "damage": 76,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:material",
+      "damage": 100,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:material",
+      "damage": 104,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:material",
+      "damage": 106,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:material",
+      "damage": 107,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:material",
+      "damage": 108,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:tool.fishingRodStone",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:tool.fishingRodIron",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:tool.fishingRodDiamond",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:tool.fishingRodGold",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:tool.fishingRodCopper",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:tool.fishingRodTin",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:tool.fishingRodSilver",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:tool.fishingRodLead",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:tool.fishingRodNickel",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:tool.fishingRodElectrum",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:tool.fishingRodInvar",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:tool.fishingRodBronze",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ThermalFoundation:tool.fishingRodPlatinum",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "EnderStorage:enderChest",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "EnderStorage:enderChest",
+      "damage": 4096,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "EnderStorage:enderPouch",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "BigDoors:door3x3",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "BigDoors:door3x3",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "BigDoors:door3x3",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "BigDoors:door3x3",
+      "damage": 3,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "BigDoors:door3x3",
+      "damage": 4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "BigDoors:door3x3",
+      "damage": 5,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "BigDoors:metalDoors3x3",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "BigDoors:metalDoors3x3",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "ExtraUtilities:curtains",
+      "damage": 0,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:angelBlock",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:budoff",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:budoff",
+      "damage": 3,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock1",
+      "damage": 0,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock1",
+      "damage": 1,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock1",
+      "damage": 2,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock1",
+      "damage": 3,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock1",
+      "damage": 4,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock1",
+      "damage": 6,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock1",
+      "damage": 7,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock1",
+      "damage": 8,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock1",
+      "damage": 9,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock1",
+      "damage": 10,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock1",
+      "damage": 11,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock1",
+      "damage": 12,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock1",
+      "damage": 13,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock1",
+      "damage": 14,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock2",
+      "damage": 0,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock2",
+      "damage": 1,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock2",
+      "damage": 2,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock2",
+      "damage": 3,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock2",
+      "damage": 4,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock2",
+      "damage": 5,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock2",
+      "damage": 6,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock2",
+      "damage": 7,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock2",
+      "damage": 8,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock2",
+      "damage": 9,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock2",
+      "damage": 10,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:decorativeBlock2",
+      "damage": 11,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:filing",
+      "damage": 0,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:filing",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:sound_muffler",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:sound_muffler",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:trashcan",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:trashcan",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:trashcan",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "ExtraUtilities:spike_base",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:spike_base_diamond",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:spike_base_gold",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:spike_base_wood",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:enderQuarry",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:enderQuarryUpgrade",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:enderQuarry",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:enderQuarry",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:enderQuarry",
+      "damage": 3,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:enderQuarry",
+      "damage": 4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:enderQuarry",
+      "damage": 5,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:enderQuarry",
+      "damage": 6,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:enderQuarry",
+      "damage": 7,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:enderQuarry",
+      "damage": 8,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:enderQuarry",
+      "damage": 9,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 3,
+      "id": "ExtraUtilities:magnumTorch",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 3,
+      "id": "ExtraUtilities:drum",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:etherealglass",
+      "damage": 0,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:etherealglass",
+      "damage": 1,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:etherealglass",
+      "damage": 2,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:etherealglass",
+      "damage": 3,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:etherealglass",
+      "damage": 4,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:etherealglass",
+      "damage": 5,
+      "min": 2,
+      "max": 6
+    },
+    {
+      "weight": 1,
+      "id": "ExtraUtilities:watering_can",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "OpenBlocks:target",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 2,
+      "id": "OpenBlocks:tank",
+      "damage": 0,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "weight": 1,
+      "id": "OpenBlocks:beartrap",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "OpenBlocks:vacuumhopper",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "OpenBlocks:fan",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "OpenBlocks:path",
+      "damage": 0,
+      "min": 4,
+      "max": 12
+    },
+    {
+      "weight": 1,
+      "id": "OpenBlocks:ropeladder",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "JAPTA:fluxBlaster",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "JAPTA:chargingPlate",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "JAPTA:chargingPlateWooden",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 3,
+      "id": "JAPTA:elevatorShaft",
+      "damage": 0,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "JAPTA:elevatorTop",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "IronChest:BlockIronChest",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "IronChest:BlockIronChest",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "IronChest:BlockIronChest",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "IronChest:BlockIronChest",
+      "damage": 3,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "IronChest:BlockIronChest",
+      "damage": 4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "IronChest:BlockIronChest",
+      "damage": 6,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 10,
+      "id": "qCraft:dust",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 5,
+      "id": "qCraft:essence",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "qCraft:essence",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "qCraft:essence",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "waystones:warpScroll",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "RandomThings:playerinterface",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "RandomThings:fertilizedDirt",
+      "damage": 0,
+      "min": 4,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "RandomThings:onlineDetector",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "RandomThings:moonSensor",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 3,
+      "id": "RandomThings:lapisLamp",
+      "damage": 0,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "weight": 1,
+      "id": "RandomThings:whitestone",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "RandomThings:voidStone",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "RandomThings:spectreKey",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "RandomThings:spiritBinder",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "RandomThings:ingredient",
+      "damage": 3,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 3,
+      "id": "RandomThings:ingredient",
+      "damage": 4,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 2,
+      "id": "RandomThings:ingredient",
+      "damage": 5,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "RandomThings:ingredient",
+      "damage": 6,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "DraconicEvolution:safetyMatch",
+      "damage": 1000,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "DraconicEvolution:safetyMatch",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "GeoStrata:geostrata_block_vent",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "GeoStrata:geostrata_block_vent",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "GeoStrata:geostrata_block_vent",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "GeoStrata:geostrata_block_vent",
+      "damage": 3,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "GeoStrata:geostrata_block_vent",
+      "damage": 4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "GeoStrata:geostrata_block_vent",
+      "damage": 5,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "GeoStrata:geostrata_block_glowcrys",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "GeoStrata:geostrata_block_glowcrys",
+      "damage": 1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "GeoStrata:geostrata_block_glowcrys",
+      "damage": 2,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "GeoStrata:geostrata_block_glowcrys",
+      "damage": 3,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "GeoStrata:geostrata_block_glowvine",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 5,
+      "id": "Quadrum:blankrune",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:flower",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:flower",
+      "damage": 1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:flower",
+      "damage": 2,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:flower",
+      "damage": 3,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:flower",
+      "damage": 4,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:flower",
+      "damage": 5,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:flower",
+      "damage": 6,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:flower",
+      "damage": 7,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:flower",
+      "damage": 8,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:flower",
+      "damage": 9,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:flower",
+      "damage": 10,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:flower",
+      "damage": 11,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:flower",
+      "damage": 12,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:flower",
+      "damage": 13,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:flower",
+      "damage": 14,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:flower",
+      "damage": 15,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 3,
+      "id": "Botania:livingrock",
+      "damage": 0,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 3,
+      "id": "Botania:livingwood",
+      "damage": 0,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "Botania:spreader",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Botania:pool",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Botania:pylon",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Botania:storage",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Botania:prismarine",
+      "damage": 0,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "Botania:seaLamp",
+      "damage": 0,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "weight": 1,
+      "id": "Botania:mushroom",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:mushroom",
+      "damage": 1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:mushroom",
+      "damage": 2,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:mushroom",
+      "damage": 3,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:mushroom",
+      "damage": 4,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:mushroom",
+      "damage": 5,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:mushroom",
+      "damage": 6,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:mushroom",
+      "damage": 7,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:mushroom",
+      "damage": 8,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:mushroom",
+      "damage": 9,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:mushroom",
+      "damage": 10,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:mushroom",
+      "damage": 11,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:mushroom",
+      "damage": 12,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:mushroom",
+      "damage": 13,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:mushroom",
+      "damage": 14,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:mushroom",
+      "damage": 15,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 2,
+      "id": "Botania:manaResource",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Botania:manaResource",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Botania:manaResource",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "Botania:manaResource",
+      "damage": 10,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "Botania:manaResource",
+      "damage": 16,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Botania:manaResource",
+      "damage": 17,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "Botania:manaResource",
+      "damage": 23,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 3,
+      "id": "Botania:fertilizer",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "Botania:virus",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Botania:virus",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 3,
+      "id": "Botania:blackLotus",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Botania:blackLotus",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 4,
+      "id": "appliedenergistics2:tile.BlockSkyStone",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 3,
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "appliedenergistics2:item.ItemMultiMaterial",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "rftools:dimensionalShardItem",
+      "damage": 0,
+      "min": 0,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "ActuallyAdditions:blockGreenhouseGlass",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "ActuallyAdditions:itemHelmObsidian",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ActuallyAdditions:itemChestObsidian",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ActuallyAdditions:itemPantsObsidian",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ActuallyAdditions:itemBootsObsidian",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "additionalcompression:compressed_pearlender",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "additionalcompression:compressed_meatrotten",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "additionalcompression:compressed_dustgunpowder",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "dendrology:logs0",
+      "damage": 0,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "dendrology:logs0",
+      "damage": 1,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "dendrology:logs0",
+      "damage": 2,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "dendrology:logs0",
+      "damage": 3,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "dendrology:logs1",
+      "damage": 0,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "dendrology:logs1",
+      "damage": 1,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "dendrology:logs1",
+      "damage": 2,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "dendrology:logs1",
+      "damage": 3,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "dendrology:logs2",
+      "damage": 0,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "dendrology:logs2",
+      "damage": 1,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "dendrology:logs2",
+      "damage": 2,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "dendrology:logs2",
+      "damage": 3,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "dendrology:logs3",
+      "damage": 0,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:sapling0",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:sapling0",
+      "damage": 1,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:sapling0",
+      "damage": 2,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:sapling0",
+      "damage": 3,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:sapling0",
+      "damage": 4,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:sapling0",
+      "damage": 5,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:sapling0",
+      "damage": 6,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:sapling0",
+      "damage": 7,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:sapling1",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:sapling1",
+      "damage": 1,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:sapling1",
+      "damage": 2,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:sapling1",
+      "damage": 3,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:sapling1",
+      "damage": 4,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:wood0",
+      "damage": 0,
+      "min": 1,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:wood0",
+      "damage": 1,
+      "min": 1,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:wood0",
+      "damage": 2,
+      "min": 1,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:wood0",
+      "damage": 3,
+      "min": 1,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:wood0",
+      "damage": 4,
+      "min": 1,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:wood0",
+      "damage": 5,
+      "min": 1,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:wood0",
+      "damage": 6,
+      "min": 1,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:wood0",
+      "damage": 7,
+      "min": 1,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:wood0",
+      "damage": 8,
+      "min": 1,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:wood0",
+      "damage": 9,
+      "min": 1,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:wood0",
+      "damage": 10,
+      "min": 1,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:wood0",
+      "damage": 11,
+      "min": 1,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "dendrology:wood0",
+      "damage": 12,
+      "min": 1,
+      "max": 16
+    },
+    {
+      "weight": 1,
+      "id": "aobd:nuggetMagnesium",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "aobd:nuggetUranium",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "aobd:nuggetThorium",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "aobd:nuggetLithium",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "aobd:nuggetBoronm",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 5,
+      "id": "Quadrum:coinbronze",
+      "damage": 0,
+      "min": 1,
+      "max": 16
+    },
+    {
+      "weight": 2,
+      "id": "Quadrum:coinsilver",
+      "damage": 0,
+      "min": 1,
+      "max": 8
+    },
+    {
+      "weight": 1,
+      "id": "Quadrum:coingold",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 2,
+      "id": "ChestTransporter:chesttransporter",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ChestTransporter:chesttransporter_iron",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ChestTransporter:chesttransporter_gold",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ChestTransporter:chesttransporter_diamond",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "_name": "ProjectZulu|Core.Brown Bear",
+  "drops": [
+    {
+      "function": "add",
+      "id": "minecraft:wool",
+      "damage": 12,
+      "count": 0.5
+    },
+    {
+      "function": "add",
+      "id": "minecraft:fish",
+      "damage": 1,
+      "count": 0.25
+    },
+    {
+      "function": "add",
+      "id": "awakeningmeat:bear_raw",
+      "damage": 0,
+      "count": 0.25
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

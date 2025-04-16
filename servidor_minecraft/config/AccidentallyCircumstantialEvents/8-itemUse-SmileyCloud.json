@@ -1,0 +1,45 @@
+{
+   "events":[
+      {
+         "event_type":"INTERACT",
+         "issuer":"SELF",
+         "action":"RIGHT_AIR",
+         "modid":"minecraft",
+         "name":"air",
+         "meta":"0",
+         "ignoreBlock":"true",
+         "tasks":[
+            {
+               "task_type":"COMMAND",
+               "command":"/give @p ActuallyAdditions:blockSmileyCloud 64",
+               "ignorePrivilages":"true",
+               "conditions":[
+                  {
+                     "condition_type":"USING",
+                     "modid":"Quadrum",
+                     "name":"bulk_smiley_cloud_token",
+                     "meta":"0"
+                  }
+               ]
+            },
+            {
+               "task_type":"INVENTORY_REMOVE",
+               "target_type":"SELF",
+               "target":"",
+               "modid":"Quadrum",
+               "name":"bulk_smiley_cloud_token",
+               "meta":"0",
+               "count":"1",
+               "conditions":[
+                  {
+                     "condition_type":"USING",
+                     "modid":"Quadrum",
+                     "name":"bulk_smiley_cloud_token",
+                     "meta":"0"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}

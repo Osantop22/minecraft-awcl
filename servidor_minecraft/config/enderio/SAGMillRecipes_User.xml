@@ -1,0 +1,241 @@
+<!--
+  Custom recipes that will not be over written by Ender IO are added here.
+
+  To change an existing recipe, just add the recipe to this file using the same recipe group and recipe name as found in
+  the core file.
+
+  Adding new Recipes:
+  For more details of how to add a new recipe please see the documentation at the top of SAGMillRecipes_Core.xml.
+
+  Adding a new recipe to a new group:
+
+  <recipeGroup name="CrazyPantsGroup" >
+    <recipe name="SolarToGlass" energyCost="120" >
+        <input>
+          <itemStack modID="EnderIO" itemName="enderIO:blockSolarPanel" />
+        </input>
+        <output>
+          <itemStack modID="minecraft" itemName="glass" />
+        </output>
+      </recipe>
+  </recipeGroup>
+
+  Removing Recipes:
+  To disable all recipes within a group, in this example Forestry, include the following in this file:
+
+  <recipeGroup name="Forestry" enabled="false" />
+
+  Disable all recipes in the group 'Vanilla':
+
+  <recipeGroup name="Vanilla" enabled="false" />
+
+  To disable individual recipes, simply provide an invalid recipe for them:
+
+  <recipeGroup name="Applied Energistics" >
+    <recipe name="CertusQuartzOre" />
+  </recipeGroup>
+
+  Disable the glass recipes in the group 'Vanilla':
+
+  <recipeGroup name="Vanilla" >
+    <recipe name="Glass" />
+  </recipeGroup>
+
+  Modifying Recipes:
+  Modify a core recipe definition, in this case, make glass give diamonds:
+
+  <recipeGroup name="Vanilla" >
+    <recipe name="Glass" energyCost="120" >
+        <input>
+          <itemStack modID="minecraft" itemName="glass" />
+        </input>
+        <output>
+          <itemStack modID="minecraft" itemName="diamond" />
+        </output>
+      </recipe>
+  </recipeGroup>
+
+  Add this block to change the default TE obsidian -> dust recipe to the railcraft recipe.
+
+  <recipeGroup name="Thermal Expansion" >
+    <recipe name="Obsidian" energyCost="400" >
+      <input>
+        <itemStack modID="minecraft" itemName="obsidian" />
+      </input>
+      <output>
+        <itemStack modID="Railcraft" itemName="tile.railcraft.cube" itemMeta="4" number="1" />
+        <itemStack oreDictionary="dustObsidian" number="1" chance="0.15" />
+        <itemStack oreDictionary="dustObsidian" number="1" chance="0.025" />
+      </output>
+    </recipe>
+  </recipeGroup>
+
+  Grinding Balls:
+  Adding a new grinding ball:
+
+  <grindingBalls>
+    <grindingBall id="Diamond" grindingMultiplier="1.5" chanceMultiplier="2" powerMultiplier="0.5" durationRF="50000" >
+      <itemStack modID="minecraft" itemName="diamond" />
+    </grindingBall>
+  </grindingBalls>
+
+  Removing an existing grinding ball:
+
+  <grindingBalls>
+    <grindingBall id="Flint" remove="true" />
+  </grindingBalls>
+
+  Modifying the excludes list: (removing glowstone, adding sand)
+
+  <grindingBalls>
+    <excludes>
+      <itemStack modID="minecraft" itemName="glowstone" remove="true" />
+      <itemStack modID="minecraft" itemName="sand" />
+    </excludes>
+  </grindingBalls>
+
+-->
+
+<SAGMillRecipes>
+
+  <recipeGroup name="Biomes O' Plenty" >
+    <recipe name="SapphireOre" />
+  </recipeGroup>
+  
+  <recipeGroup name="Bluepower" >
+    <recipe name="AmethystOre" />
+  </recipeGroup>
+  
+  <recipeGroup name="Practical Logistics" >
+  <recipe name="Sapphire Ore" energyCost="2400" >
+      <input>
+        <itemStack oreDictionary="oreSapphire" />
+      </input>
+      <output>
+        <itemStack modID="PracticalLogistics" itemName="Sapphire" number="2" />
+        <itemStack modID="PracticalLogistics" itemName="Sapphire" number="1" chance="0.5" />
+        <itemStack modID="minecraft" itemName="stone" chance="0.15" />
+      </output>
+    </recipe>
+    <recipe name="Sapphire Gem" energyCost="2000" >
+      <input>
+        <itemStack modID="PracticalLogistics" itemName="Sapphire" />
+      </input>
+      <output>
+        <itemStack modID="PracticalLogistics" itemName="SapphireDust" number="1" />
+      </output>
+    </recipe>
+    </recipeGroup>   
+    
+  <recipeGroup name="Vanilla" >
+    <recipe name="Wheat" />
+  </recipeGroup>
+  
+  <recipeGroup name="Nuclear Craft" >
+    <recipe name="Crushed Manganese Oxide" energyCost="2400" >
+      <input>
+        <itemStack oreDictionary="gemRhodochrosite" />
+      </input>
+      <output>
+        <itemStack modID="NuclearCraft" itemName="material" itemMeta="74"  number="1" />
+      </output>
+    </recipe>
+    <recipe name="Tough Alloy Dust" energyCost="2400" >
+      <input>
+        <itemStack oreDictionary="ingotTough" />
+      </input>
+      <output>
+        <itemStack modID="NuclearCraft" itemName="material" itemMeta="22"  number="1" />
+      </output>
+    </recipe>
+    <recipe name="Diamond Dust" energyCost="2400" >
+      <input>
+        <itemStack oreDictionary="gemDiamond" />
+      </input>
+      <output>
+        <itemStack modID="NuclearCraft" itemName="material" itemMeta="11"  number="1" />
+      </output>
+    </recipe>
+    <recipe name="Lithium Dust" energyCost="2400" >
+      <input>
+        <itemStack oreDictionary="ingotLithium" />
+      </input>
+      <output>
+        <itemStack modID="NuclearCraft" itemName="material" itemMeta="44"  number="1" />
+      </output>
+    </recipe>
+  </recipeGroup>
+    
+  <grindingBalls>
+    <grindingBall id="Pumicite" grindingMultiplier="1.5" chanceMultiplier="1.5" powerMultiplier="0.5" durationRF="1000" >
+      <itemStack modID="ds" itemName="pumicite" />
+    </grindingBall>
+    <grindingBall id="Cinnabar" grindingMultiplier="2.0" chanceMultiplier="2.0" powerMultiplier="2.0" durationRF="5000" >
+      <itemStack modID="ThermalFoundation" itemName="material"  itemMeta="20" />
+    </grindingBall>
+  </grindingBalls>
+  
+  <recipeGroup name="Applied Energistics 2" >
+  <recipe name="SkyStoneDust" energyCost="2400" >
+      <input>
+        <itemStack modID="appliedenergistics2" itemName="tile.BlockSkyStone" />
+      </input>
+      <output>
+        <itemStack modID="appliedenergistics2" itemName="item.ItemMultiMaterial" itemMeta="45" number="1" />
+      </output>
+    </recipe>
+    <recipe name="ChargedCertusQuartzOre" energyCost="3600" >
+      <input>
+        <itemStack modID="appliedenergistics2" itemName="tile.OreQuartzCharged" />
+      </input>
+      <output>
+        <itemStack modID="Quadrum" itemName="charged_certus_quartz_dust" chance="2" />
+        <itemStack modID="Quadrum" itemName="charged_certus_quartz_dust" chance="0.1" />
+        <itemStack modID="minecraft" itemName="cobblestone" chance="0.15" />
+      </output>
+    </recipe>
+    <recipe name="CertusQuartzOre" energyCost="3600" >
+      <input>
+        <itemStack modID="appliedenergistics2" itemName="tile.OreQuartz" />
+      </input>
+      <output>
+        <itemStack oreDictionary="dustCertusQuartz" number="2" />
+        <itemStack oreDictionary="dustCertusQuartz" chance="0.1" />
+        <itemStack modID="minecraft" itemName="cobblestone" chance="0.15" />
+      </output>
+    </recipe>
+    <recipe name="CertusQuartzCrystal" energyCost="2400" >
+      <input>
+        <itemStack oreDictionary="crystalCertusQuartz" />
+      </input>
+      <output>
+        <itemStack oreDictionary="dustCertusQuartz" />
+      </output>
+    </recipe>
+   	<recipe name="ChargedCertusQuartzCrystal" energyCost="2400" >
+      <input>
+        <itemStack modID="appliedenergistics2" itemName="item.ItemMultiMaterial" itemMeta="1" />
+      </input>
+      <output>
+        <itemStack modID="Quadrum" itemName="charged_certus_quartz_dust" />
+      </output>
+    </recipe>
+    <recipe name="FluixCrystal" energyCost="800" >
+      <input>
+        <itemStack oreDictionary="crystalFluix" />
+      </input>
+      <output>
+        <itemStack oreDictionary="dustFluix" />
+      </output>
+    </recipe>
+    <recipe name="NetherQuartz" energyCost="800" >
+      <input>
+        <itemStack modID="minecraft" itemName="quartz" />
+      </input>
+      <output>
+        <itemStack oreDictionary="dustNetherQuartz" />
+      </output>
+    </recipe>
+  </recipeGroup>
+
+</SAGMillRecipes>

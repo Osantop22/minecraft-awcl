@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "event_type": "JOIN_WORLD",
+      "target": "CaddyWhumpus",
+      "noDeathDim": "true",
+      "joinOneEver": "false",
+      "tasks": [
+        {
+          "task_type": "CHAT",
+          "receiver_type": "ALL_PLAYERS",
+          "message": "Hello everyone CaddyWhumpusGamer here bringing you another episode of Minecraft Awakening."
+        }
+      ]
+    },
+    {
+      "event_type": "JOIN_WORLD",
+      "target": "CaddyWhumpus",
+      "noDeathDim": "true",
+      "joinOneEver": "true",
+      "tasks": [
+        {
+          "task_type": "INVENTORY_ADD",
+          "target_type": "SELF",
+          "target": "",
+          "modid": "TravellersGear",
+          "name": "simpleGear",
+          "meta": "6",
+          "count": "1",
+          "nbt": "{title: \"TG.personaltitle.librarian\"}"
+        },
+        {
+          "task_type": "INVENTORY_ADD",
+          "target_type": "SELF",
+          "target": "",
+          "modid": "lootbags",
+          "name": "lootbag",
+          "meta": "5",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "_name": "WTFOres:redstone_ore1_netherrack",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "hardness": 0.8,
+    "resistance": 15.0,
+    "sound": "piston",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 3
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

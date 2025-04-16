@@ -1,0 +1,18 @@
+{
+  "_name": "ProjectZulu|Core.Eagle",
+  "drops": [
+    {
+      "function": "add",
+      "id": "minecraft:feather",
+      "count": 1.5
+    },
+    {
+      "function": "add",
+      "id": "awakeningmeat:bird_raw",
+      "damage": 0,
+      "count": 0.25
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

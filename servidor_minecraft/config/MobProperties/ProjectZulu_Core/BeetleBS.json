@@ -1,0 +1,28 @@
+{
+  "_name": "ProjectZulu|Core.BeetleBS",
+  "drops": [
+    {
+      "function": "add",
+      "id": "minecraft:slime_ball",
+      "count": 0.1
+    },
+    {
+      "function": "add",
+      "id": "MineFactoryReloaded:pinkslime",
+      "count": 0.05
+    },
+    {
+      "function": "add",
+      "id": "TConstruct:strangeFood",
+      "count": 0.05
+    },
+    {
+      "function": "add",
+      "id": "awakeningmeat:beetle_squished",
+      "damage": 0,
+      "count": 0.25
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

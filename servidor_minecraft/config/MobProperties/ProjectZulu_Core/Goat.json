@@ -1,0 +1,17 @@
+{
+  "_name": "ProjectZulu|Core.Goat",
+  "drops": [
+    {
+      "function": "add",
+      "id": "harvestcraft:muttonrawItem",
+      "count": 0.5
+    },
+    {
+      "function": "add",
+      "id": "minecraft:wool",
+      "count": 0.5
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

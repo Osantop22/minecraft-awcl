@@ -1,0 +1,24 @@
+{
+  "_name": "ProjectZulu|Core.Mammoth",
+  "drops": [
+    {
+      "function": "add",
+      "id": "minecraft:wool",
+      "damage": 12,
+      "count": 2.5
+    },
+    {
+      "function": "add",
+      "id": "minecraft:bone",
+      "count": 2.0
+    },
+    {
+      "function": "add",
+      "id": "awakeningmeat:elephant_raw",
+      "damage": 0,
+      "count": 0.25
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

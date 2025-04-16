@@ -1,0 +1,29 @@
+{
+   "_name":"Chicken",
+   "drops":[
+      {
+         "function":"add",
+         "id":"magicalcrops:1MinicioEssence",
+         "damage":0,
+         "count":0.05
+      },
+      {
+         "function":"add",
+         "id":"magicalcrops:ChickenEssence",
+         "damage":0,
+         "count":0.1
+      },
+      {
+         "function":"add",
+         "id":"Thaumcraft:ItemNuggetChicken",
+         "damage":0,
+         "count":0.05
+      }
+   ],
+   "pre_stats":[
+
+   ],
+   "stats":[
+
+   ]
+}

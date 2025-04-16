@@ -1,0 +1,16 @@
+{
+  "_name": "backpacks16840:backpack_block",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 0.01,
+    "resistance": 0.049999997,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

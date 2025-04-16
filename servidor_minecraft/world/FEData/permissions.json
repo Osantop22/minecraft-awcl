@@ -1,0 +1,125 @@
+{
+  "worldZones": {
+    "-1": {
+      "dimensionID": -1,
+      "areaZones": [],
+      "id": 4,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "0": {
+      "dimensionID": 0,
+      "areaZones": [],
+      "id": 10,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "1": {
+      "dimensionID": 1,
+      "areaZones": [],
+      "id": 9,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "2": {
+      "dimensionID": 2,
+      "areaZones": [],
+      "id": 8,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "3": {
+      "dimensionID": 3,
+      "areaZones": [],
+      "id": 7,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "4": {
+      "dimensionID": 4,
+      "areaZones": [],
+      "id": 6,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "5": {
+      "dimensionID": 5,
+      "areaZones": [],
+      "id": 5,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "7": {
+      "dimensionID": 7,
+      "areaZones": [],
+      "id": 3,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "8": {
+      "dimensionID": 8,
+      "areaZones": [],
+      "id": 2,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    }
+  },
+  "playerGroups": {},
+  "id": 1,
+  "playerPermissions": {
+    "(fefefefe-fefe-fefe-fefe-fefefefefefe|$SERVER)": {
+      "*": "true",
+      "fe.internal.player.known": "true"
+    },
+    "(fefefefe-fefe-fefe-fefe-fefefefefecc|$RCON)": {
+      "*": "true",
+      "fe.internal.player.known": "true"
+    },
+    "(fefefefe-fefe-fefe-fefe-fefefefefecb|$COMMANDBLOCK)": {
+      "*": "true",
+      "fe.internal.player.known": "true"
+    },
+    "(32740c9c-bbe2-3308-a4da-11e91b8f8ca3|osantop2)": {},
+    "(2001c9aa-bbf8-306c-9b60-485e8cc6e215|$NPC)": {
+      "fe.internal.player.known": "true"
+    }
+  },
+  "groupPermissions": {
+    "_PLAYERS_": {
+      "fe.internal.group.priority": "1",
+      "fe.internal.group": "true"
+    },
+    "_NPC_": {
+      "fe.internal.group.name": "NPCs",
+      "fe.internal.group.priority": "1",
+      "fe.internal.group": "true"
+    },
+    "_FAKEPLAYERS_": {
+      "fe.internal.group.priority": "15",
+      "fe.internal.group": "true",
+      "fe.protection.*": "true"
+    },
+    "_OPS_": {
+      "fe.internal.prefix": "[\u0026cOP\u0026f]",
+      "fe.internal.group.priority": "50",
+      "fe.internal.group": "true"
+    },
+    "_ALL_": {
+      "some.test.permission": "true",
+      "fe.internal.group.name": "players",
+      "fe.internal.group.priority": "0",
+      "fe.internal.group": "true"
+    },
+    "_CREATIVE_": {
+      "fe.internal.group": "true"
+    },
+    "_ADVENTURE_": {
+      "fe.internal.group": "true"
+    },
+    "_GUESTS_": {
+      "fe.internal.prefix": "[GUEST]",
+      "fe.internal.group.priority": "10",
+      "fe.internal.group": "true"
+    }
+  }
+}

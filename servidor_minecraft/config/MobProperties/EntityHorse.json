@@ -1,0 +1,13 @@
+{
+  "_name": "EntityHorse",
+  "drops": [
+      {
+         "function":"add",
+         "id":"magicalcrops:1MinicioEssence",
+         "damage":0,
+         "count":0.05
+      }
+   ],
+  "pre_stats": [],
+  "stats": []
+}

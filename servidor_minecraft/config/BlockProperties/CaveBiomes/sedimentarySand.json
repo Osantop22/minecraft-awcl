@@ -1,0 +1,40 @@
+{
+   "_name":"CaveBiomes:sedimentarySand",
+   "stats":{
+      "opacity":255,
+      "brightness":0,
+      "hardness":0.5,
+      "resistance":0.0,
+      "sound":"gravel",
+      "slipperiness":0.6,
+      "tool_data":[
+
+      ]
+   },
+   "break_speed":[
+
+   ],
+   "drops":[
+      {
+         "function":"if_metadata_4",
+         "functions":[
+            {
+               "function":"default",
+               "value":"false"
+            },
+            {
+               "function":"add",
+               "id":"CaveBiomes:sedimentarySand",
+               "damage":4,
+               "count":1
+            }
+         ]
+      }
+   ],
+   "harvest":[
+
+   ],
+   "xp":[
+
+   ]
+}

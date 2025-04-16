@@ -1,0 +1,18 @@
+{
+  "_name": "ProjectZulu|Core.GiantRat",
+  "drops": [
+    {
+      "function": "add",
+      "id": "MineFactoryReloaded:meat.nugget.raw",
+      "count": 0.1
+    },
+    {
+      "function": "add",
+      "id": "awakeningmeat:bushmeat_raw",
+      "damage": 0,
+      "count": 0.25
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

@@ -1,0 +1,42 @@
+{
+   "_name":"harvestcraft:beehive",
+   "stats":{
+      "opacity":255,
+      "brightness":0,
+      "hardness":1.0,
+      "resistance":5.0,
+      "sound":"wood",
+      "slipperiness":0.6,
+      "tool_data":[
+
+      ]
+   },
+   "break_speed":[
+
+   ],
+   "drops":[
+      {
+         "function":"choose",
+         "functions":[
+            {
+               "weight":15,
+               "function":"spawn",
+               "id":"BiomesOPlenty.Wasp",
+               "count":0.5
+            },
+            {
+               "weight":5,
+               "function":"spawn",
+               "id":"BiomesOPlenty.Wasp",
+               "count":2
+            }
+         ]
+      }
+   ],
+   "harvest":[
+
+   ],
+   "xp":[
+
+   ]
+}

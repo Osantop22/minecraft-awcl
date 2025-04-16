@@ -1,0 +1,23 @@
+{
+  "_name": "ProjectZulu|Core.Rabbit",
+  "drops": [
+    {
+      "function": "add",
+      "id": "minecraft:carrot",
+      "count": 0.2
+    },
+    {
+      "function": "add",
+      "id": "minecraft:golden_carrot",
+      "count": 0.05
+    },
+    {
+      "function": "add",
+      "id": "harvestcraft:rabbitrawItem",
+      "damage": 0,
+      "count": 0.25
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

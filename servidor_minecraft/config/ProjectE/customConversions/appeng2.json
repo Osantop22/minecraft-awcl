@@ -1,0 +1,4721 @@
+{
+  "comment": "/neircollect collect appeng.integration.modules.NEIHelpers.NEIAEShapedRecipeHandler si\u003d1 oredict\n/neircollect collect appeng.integration.modules.NEIHelpers.NEIAEShapelessRecipeHandler oredict si\u003d1\n/neircollect collect appeng.integration.modules.NEIHelpers.NEIInscriberRecipeHandler oredict si\u003d1",
+  "groups": {
+    "appeng.integration.modules.NEIHelpers.NEIInscriberRecipeHandler": {
+      "comment": "Generated with /neircollect collect appeng.integration.modules.NEIHelpers.NEIInscriberRecipeHandler oredict si\u003d1",
+      "conversions": [
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|15",
+          "ingredients": {
+            "OD|blockIron": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|15": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|13",
+          "ingredients": {
+            "OD|blockIron": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|13": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|14",
+          "ingredients": {
+            "OD|blockIron": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|14": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|19",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|19": 1,
+            "OD|blockIron": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|18",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|15": 1,
+            "OD|ingotGold": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|16",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|13": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|10": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|17",
+          "ingredients": {
+            "OD|gemDiamond": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|14": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|20",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|19": 1,
+            "OD|itemSilicon": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|22",
+          "ingredients": {
+            "OD|dustRedstone": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|18": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|20": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|23",
+          "ingredients": {
+            "OD|dustRedstone": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|16": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|20": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|24",
+          "ingredients": {
+            "OD|dustRedstone": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|17": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|20": 1
+          }
+        }
+      ]
+    },
+    "appeng.integration.modules.NEIHelpers.NEIAEShapedRecipeHandler": {
+      "comment": "Generated with /neircollect collect appeng.integration.modules.NEIHelpers.NEIAEShapedRecipeHandler si\u003d1 oredict",
+      "conversions": [
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ToolNetherQuartzPickaxe|0",
+          "ingredients": {
+            "minecraft:quartz|0": 3,
+            "minecraft:stick|0": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ToolNetherQuartzWrench|0",
+          "ingredients": {
+            "minecraft:quartz|0": 5
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ToolNetherQuartzCuttingKnife|0",
+          "ingredients": {
+            "OD|ingotIron": 1,
+            "minecraft:quartz|0": 2,
+            "minecraft:stick|0": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ToolCertusQuartzPickaxe|0",
+          "ingredients": {
+            "OD|crystalCertusQuartz": 3,
+            "minecraft:stick|0": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ToolCertusQuartzWrench|0",
+          "ingredients": {
+            "OD|crystalCertusQuartz": 5
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ToolCertusQuartzCuttingKnife|0",
+          "ingredients": {
+            "OD|ingotIron": 1,
+            "OD|crystalCertusQuartz": 2,
+            "minecraft:stick|0": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockSkyChest|0",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockSkyStone|0": 8
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockSkyChest|1",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockSkyStone|1": 8
+          }
+        },
+        {
+          "count": 4,
+          "output": "appliedenergistics2:tile.BlockQuartzGlass|0",
+          "ingredients": {
+            "FAKE|92 [Lnet.minecraft.item.ItemStack;@3ab94674": 1,
+            "FAKE|95 [Lnet.minecraft.item.ItemStack;@4bade15a": 1,
+            "FAKE|93 [Lnet.minecraft.item.ItemStack;@59c087ca": 1,
+            "FAKE|90 [Lnet.minecraft.item.ItemStack;@40f41d26": 1,
+            "FAKE|91 [Lnet.minecraft.item.ItemStack;@5aa5cb1a": 1,
+            "FAKE|98 [Lnet.minecraft.item.ItemStack;@a517f18": 1,
+            "FAKE|97 [Lnet.minecraft.item.ItemStack;@2eefef73": 1,
+            "FAKE|96 [Lnet.minecraft.item.ItemStack;@4a60287": 1,
+            "FAKE|94 [Lnet.minecraft.item.ItemStack;@6f130cce": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|90 [Lnet.minecraft.item.ItemStack;@40f41d26",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|2": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|90 [Lnet.minecraft.item.ItemStack;@40f41d26",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|3": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|91 [Lnet.minecraft.item.ItemStack;@5aa5cb1a",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|91 [Lnet.minecraft.item.ItemStack;@5aa5cb1a",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|91 [Lnet.minecraft.item.ItemStack;@5aa5cb1a",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|91 [Lnet.minecraft.item.ItemStack;@5aa5cb1a",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|91 [Lnet.minecraft.item.ItemStack;@5aa5cb1a",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|91 [Lnet.minecraft.item.ItemStack;@5aa5cb1a",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|91 [Lnet.minecraft.item.ItemStack;@5aa5cb1a",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|92 [Lnet.minecraft.item.ItemStack;@3ab94674",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|2": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|92 [Lnet.minecraft.item.ItemStack;@3ab94674",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|3": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|93 [Lnet.minecraft.item.ItemStack;@59c087ca",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|93 [Lnet.minecraft.item.ItemStack;@59c087ca",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|93 [Lnet.minecraft.item.ItemStack;@59c087ca",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|93 [Lnet.minecraft.item.ItemStack;@59c087ca",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|93 [Lnet.minecraft.item.ItemStack;@59c087ca",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|93 [Lnet.minecraft.item.ItemStack;@59c087ca",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|93 [Lnet.minecraft.item.ItemStack;@59c087ca",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|94 [Lnet.minecraft.item.ItemStack;@6f130cce",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|2": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|94 [Lnet.minecraft.item.ItemStack;@6f130cce",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|3": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|95 [Lnet.minecraft.item.ItemStack;@4bade15a",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|95 [Lnet.minecraft.item.ItemStack;@4bade15a",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|95 [Lnet.minecraft.item.ItemStack;@4bade15a",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|95 [Lnet.minecraft.item.ItemStack;@4bade15a",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|95 [Lnet.minecraft.item.ItemStack;@4bade15a",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|95 [Lnet.minecraft.item.ItemStack;@4bade15a",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|95 [Lnet.minecraft.item.ItemStack;@4bade15a",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|96 [Lnet.minecraft.item.ItemStack;@4a60287",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|2": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|96 [Lnet.minecraft.item.ItemStack;@4a60287",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|3": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|97 [Lnet.minecraft.item.ItemStack;@2eefef73",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|97 [Lnet.minecraft.item.ItemStack;@2eefef73",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|97 [Lnet.minecraft.item.ItemStack;@2eefef73",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|97 [Lnet.minecraft.item.ItemStack;@2eefef73",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|97 [Lnet.minecraft.item.ItemStack;@2eefef73",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|97 [Lnet.minecraft.item.ItemStack;@2eefef73",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|97 [Lnet.minecraft.item.ItemStack;@2eefef73",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|98 [Lnet.minecraft.item.ItemStack;@a517f18",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|2": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|98 [Lnet.minecraft.item.ItemStack;@a517f18",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|3": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|40",
+          "ingredients": {
+            "minecraft:stick|0": 4
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockCrank|0",
+          "ingredients": {
+            "minecraft:stick|0": 5
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockGrinder|0",
+          "ingredients": {
+            "FAKE|99 [Lnet.minecraft.item.ItemStack;@6c6f05f2": 1,
+            "OD|cobblestone": 2,
+            "FAKE|100 [Lnet.minecraft.item.ItemStack;@6cef8a7b": 1,
+            "OD|gearWood": 1,
+            "FAKE|101 [Lnet.minecraft.item.ItemStack;@626cc91c": 1,
+            "OD|stone": 3
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|99 [Lnet.minecraft.item.ItemStack;@6c6f05f2",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|99 [Lnet.minecraft.item.ItemStack;@6c6f05f2",
+          "ingredients": {
+            "minecraft:quartz|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|99 [Lnet.minecraft.item.ItemStack;@6c6f05f2",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|100 [Lnet.minecraft.item.ItemStack;@6cef8a7b",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|100 [Lnet.minecraft.item.ItemStack;@6cef8a7b",
+          "ingredients": {
+            "minecraft:quartz|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|100 [Lnet.minecraft.item.ItemStack;@6cef8a7b",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|101 [Lnet.minecraft.item.ItemStack;@626cc91c",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|101 [Lnet.minecraft.item.ItemStack;@626cc91c",
+          "ingredients": {
+            "minecraft:quartz|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|101 [Lnet.minecraft.item.ItemStack;@626cc91c",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "minecraft:iron_ingot|0",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|50": 9
+          }
+        },
+        {
+          "count": 1,
+          "output": "minecraft:quartz_block|0",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|11": 8
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockQuartz|0",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|10": 8
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockFluix|0",
+          "ingredients": {
+            "OD|crystalPureFluix": 8
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|9",
+          "ingredients": {
+            "minecraft:ender_pearl|0": 1,
+            "FAKE|105 [Lnet.minecraft.item.ItemStack;@7536d0e7": 1,
+            "OD|dustFluix": 4,
+            "FAKE|104 [Lnet.minecraft.item.ItemStack;@12b81c02": 1,
+            "FAKE|103 [Lnet.minecraft.item.ItemStack;@3853ffb2": 1,
+            "FAKE|102 [Lnet.minecraft.item.ItemStack;@54077fbf": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|102 [Lnet.minecraft.item.ItemStack;@54077fbf",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|102 [Lnet.minecraft.item.ItemStack;@54077fbf",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|103 [Lnet.minecraft.item.ItemStack;@3853ffb2",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|103 [Lnet.minecraft.item.ItemStack;@3853ffb2",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|104 [Lnet.minecraft.item.ItemStack;@12b81c02",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|104 [Lnet.minecraft.item.ItemStack;@12b81c02",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|105 [Lnet.minecraft.item.ItemStack;@7536d0e7",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|105 [Lnet.minecraft.item.ItemStack;@7536d0e7",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|39",
+          "ingredients": {
+            "OD|ingotIron": 3,
+            "OD|dustRedstone": 3,
+            "appliedenergistics2:tile.BlockQuartzGlass|0": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemSpatialStorageCell.2Cubed|0",
+          "ingredients": {
+            "OD|ingotIron": 3,
+            "OD|dustRedstone": 3,
+            "appliedenergistics2:tile.BlockQuartzGlass|0": 2,
+            "appliedenergistics2:item.ItemMultiMaterial|32": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemSpatialStorageCell.16Cubed|0",
+          "ingredients": {
+            "OD|ingotIron": 3,
+            "OD|dustRedstone": 3,
+            "appliedenergistics2:tile.BlockQuartzGlass|0": 2,
+            "appliedenergistics2:item.ItemMultiMaterial|33": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemSpatialStorageCell.128Cubed|0",
+          "ingredients": {
+            "OD|ingotIron": 3,
+            "OD|dustRedstone": 3,
+            "appliedenergistics2:tile.BlockQuartzGlass|0": 2,
+            "appliedenergistics2:item.ItemMultiMaterial|34": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemBasicStorageCell.1k|0",
+          "ingredients": {
+            "OD|ingotIron": 3,
+            "OD|dustRedstone": 3,
+            "appliedenergistics2:tile.BlockQuartzGlass|0": 2,
+            "appliedenergistics2:item.ItemMultiMaterial|35": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemBasicStorageCell.4k|0",
+          "ingredients": {
+            "OD|ingotIron": 3,
+            "OD|dustRedstone": 3,
+            "appliedenergistics2:tile.BlockQuartzGlass|0": 2,
+            "appliedenergistics2:item.ItemMultiMaterial|36": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemBasicStorageCell.16k|0",
+          "ingredients": {
+            "OD|ingotIron": 3,
+            "OD|dustRedstone": 3,
+            "appliedenergistics2:tile.BlockQuartzGlass|0": 2,
+            "appliedenergistics2:item.ItemMultiMaterial|37": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemBasicStorageCell.64k|0",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|38": 1,
+            "OD|ingotIron": 3,
+            "OD|dustRedstone": 3,
+            "appliedenergistics2:tile.BlockQuartzGlass|0": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemViewCell|0",
+          "ingredients": {
+            "OD|ingotIron": 3,
+            "OD|dustRedstone": 3,
+            "FAKE|106 [Lnet.minecraft.item.ItemStack;@61cd29cf": 1,
+            "appliedenergistics2:tile.BlockQuartzGlass|0": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|106 [Lnet.minecraft.item.ItemStack;@61cd29cf",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|106 [Lnet.minecraft.item.ItemStack;@61cd29cf",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|106 [Lnet.minecraft.item.ItemStack;@61cd29cf",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|10": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|32",
+          "ingredients": {
+            "OD|dustGlowstone": 4,
+            "appliedenergistics2:item.ItemMultiMaterial|24": 1,
+            "OD|pearlFluix": 4
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|33",
+          "ingredients": {
+            "OD|dustGlowstone": 4,
+            "appliedenergistics2:item.ItemMultiMaterial|24": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|32": 4
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|34",
+          "ingredients": {
+            "OD|dustGlowstone": 4,
+            "appliedenergistics2:item.ItemMultiMaterial|24": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|33": 4
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|35",
+          "ingredients": {
+            "FAKE|108 [Lnet.minecraft.item.ItemStack;@7d849723": 1,
+            "OD|dustRedstone": 4,
+            "FAKE|110 [Lnet.minecraft.item.ItemStack;@4bd4dc50": 1,
+            "FAKE|109 [Lnet.minecraft.item.ItemStack;@bdebb36": 1,
+            "FAKE|107 [Lnet.minecraft.item.ItemStack;@64740732": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|22": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|107 [Lnet.minecraft.item.ItemStack;@64740732",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|107 [Lnet.minecraft.item.ItemStack;@64740732",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|107 [Lnet.minecraft.item.ItemStack;@64740732",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|10": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|108 [Lnet.minecraft.item.ItemStack;@7d849723",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|108 [Lnet.minecraft.item.ItemStack;@7d849723",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|108 [Lnet.minecraft.item.ItemStack;@7d849723",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|10": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|109 [Lnet.minecraft.item.ItemStack;@bdebb36",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|109 [Lnet.minecraft.item.ItemStack;@bdebb36",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|109 [Lnet.minecraft.item.ItemStack;@bdebb36",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|10": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|110 [Lnet.minecraft.item.ItemStack;@4bd4dc50",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|110 [Lnet.minecraft.item.ItemStack;@4bd4dc50",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|110 [Lnet.minecraft.item.ItemStack;@4bd4dc50",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|10": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|36",
+          "ingredients": {
+            "OD|dustRedstone": 4,
+            "appliedenergistics2:tile.BlockQuartzGlass|0": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|23": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|35": 3
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|37",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockQuartzGlass|0": 1,
+            "OD|dustGlowstone": 4,
+            "appliedenergistics2:item.ItemMultiMaterial|24": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|36": 3
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|38",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockQuartzGlass|0": 1,
+            "OD|dustGlowstone": 4,
+            "appliedenergistics2:item.ItemMultiMaterial|24": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|37": 3
+          }
+        },
+        {
+          "count": 3,
+          "output": "appliedenergistics2:item.ItemMultiPart|140",
+          "ingredients": {
+            "FAKE|112 [Lnet.minecraft.item.ItemStack;@52270da5": 1,
+            "FAKE|114 [Lnet.minecraft.item.ItemStack;@72979b28": 1,
+            "FAKE|116 [Lnet.minecraft.item.ItemStack;@7c62de48": 1,
+            "FAKE|113 [Lnet.minecraft.item.ItemStack;@1f0f5c6": 1,
+            "FAKE|118 [Lnet.minecraft.item.ItemStack;@5ffc1c23": 1,
+            "FAKE|111 [Lnet.minecraft.item.ItemStack;@3cc2f15": 1,
+            "FAKE|119 [Lnet.minecraft.item.ItemStack;@209b6f10": 1,
+            "FAKE|115 [Lnet.minecraft.item.ItemStack;@3f4b99de": 1,
+            "FAKE|117 [Lnet.minecraft.item.ItemStack;@3eef88c4": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|111 [Lnet.minecraft.item.ItemStack;@3cc2f15",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|111 [Lnet.minecraft.item.ItemStack;@3cc2f15",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|111 [Lnet.minecraft.item.ItemStack;@3cc2f15",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|111 [Lnet.minecraft.item.ItemStack;@3cc2f15",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|111 [Lnet.minecraft.item.ItemStack;@3cc2f15",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|111 [Lnet.minecraft.item.ItemStack;@3cc2f15",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|111 [Lnet.minecraft.item.ItemStack;@3cc2f15",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|112 [Lnet.minecraft.item.ItemStack;@52270da5",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|2": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|112 [Lnet.minecraft.item.ItemStack;@52270da5",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|3": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|113 [Lnet.minecraft.item.ItemStack;@1f0f5c6",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|113 [Lnet.minecraft.item.ItemStack;@1f0f5c6",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|113 [Lnet.minecraft.item.ItemStack;@1f0f5c6",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|113 [Lnet.minecraft.item.ItemStack;@1f0f5c6",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|113 [Lnet.minecraft.item.ItemStack;@1f0f5c6",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|113 [Lnet.minecraft.item.ItemStack;@1f0f5c6",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|113 [Lnet.minecraft.item.ItemStack;@1f0f5c6",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|114 [Lnet.minecraft.item.ItemStack;@72979b28",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|114 [Lnet.minecraft.item.ItemStack;@72979b28",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|114 [Lnet.minecraft.item.ItemStack;@72979b28",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|114 [Lnet.minecraft.item.ItemStack;@72979b28",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|114 [Lnet.minecraft.item.ItemStack;@72979b28",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|114 [Lnet.minecraft.item.ItemStack;@72979b28",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|114 [Lnet.minecraft.item.ItemStack;@72979b28",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|115 [Lnet.minecraft.item.ItemStack;@3f4b99de",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|2": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|115 [Lnet.minecraft.item.ItemStack;@3f4b99de",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|3": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|116 [Lnet.minecraft.item.ItemStack;@7c62de48",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|116 [Lnet.minecraft.item.ItemStack;@7c62de48",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|116 [Lnet.minecraft.item.ItemStack;@7c62de48",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|116 [Lnet.minecraft.item.ItemStack;@7c62de48",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|116 [Lnet.minecraft.item.ItemStack;@7c62de48",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|116 [Lnet.minecraft.item.ItemStack;@7c62de48",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|116 [Lnet.minecraft.item.ItemStack;@7c62de48",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|117 [Lnet.minecraft.item.ItemStack;@3eef88c4",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|117 [Lnet.minecraft.item.ItemStack;@3eef88c4",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|117 [Lnet.minecraft.item.ItemStack;@3eef88c4",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|117 [Lnet.minecraft.item.ItemStack;@3eef88c4",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|117 [Lnet.minecraft.item.ItemStack;@3eef88c4",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|117 [Lnet.minecraft.item.ItemStack;@3eef88c4",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|117 [Lnet.minecraft.item.ItemStack;@3eef88c4",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|118 [Lnet.minecraft.item.ItemStack;@5ffc1c23",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|2": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|118 [Lnet.minecraft.item.ItemStack;@5ffc1c23",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|3": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|119 [Lnet.minecraft.item.ItemStack;@209b6f10",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|119 [Lnet.minecraft.item.ItemStack;@209b6f10",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|119 [Lnet.minecraft.item.ItemStack;@209b6f10",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|119 [Lnet.minecraft.item.ItemStack;@209b6f10",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|119 [Lnet.minecraft.item.ItemStack;@209b6f10",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|119 [Lnet.minecraft.item.ItemStack;@209b6f10",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|119 [Lnet.minecraft.item.ItemStack;@209b6f10",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockChest|0",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|380": 1,
+            "OD|ingotIron": 2,
+            "FAKE|120 [Lnet.minecraft.item.ItemStack;@3c989429": 1,
+            "FAKE|122 [Lnet.minecraft.item.ItemStack;@f73421d": 1,
+            "FAKE|121 [Lnet.minecraft.item.ItemStack;@45272ed3": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|120 [Lnet.minecraft.item.ItemStack;@3c989429",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|120 [Lnet.minecraft.item.ItemStack;@3c989429",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|120 [Lnet.minecraft.item.ItemStack;@3c989429",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|120 [Lnet.minecraft.item.ItemStack;@3c989429",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|120 [Lnet.minecraft.item.ItemStack;@3c989429",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|120 [Lnet.minecraft.item.ItemStack;@3c989429",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|120 [Lnet.minecraft.item.ItemStack;@3c989429",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|121 [Lnet.minecraft.item.ItemStack;@45272ed3",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|121 [Lnet.minecraft.item.ItemStack;@45272ed3",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|122 [Lnet.minecraft.item.ItemStack;@f73421d",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|122 [Lnet.minecraft.item.ItemStack;@f73421d",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|122 [Lnet.minecraft.item.ItemStack;@f73421d",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|122 [Lnet.minecraft.item.ItemStack;@f73421d",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|122 [Lnet.minecraft.item.ItemStack;@f73421d",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|122 [Lnet.minecraft.item.ItemStack;@f73421d",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|122 [Lnet.minecraft.item.ItemStack;@f73421d",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockDrive|0",
+          "ingredients": {
+            "OD|ingotIron": 4,
+            "appliedenergistics2:item.ItemMultiMaterial|24": 2,
+            "appliedenergistics2:item.ItemMultiPart|16": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockCondenser|0",
+          "ingredients": {
+            "OD|ingotIron": 4,
+            "FAKE|125 [Lnet.minecraft.item.ItemStack;@378623d0": 1,
+            "OD|dustFluix": 1,
+            "FAKE|126 [Lnet.minecraft.item.ItemStack;@4799492a": 1,
+            "FAKE|124 [Lnet.minecraft.item.ItemStack;@3ec21360": 1,
+            "FAKE|123 [Lnet.minecraft.item.ItemStack;@57f985d7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|123 [Lnet.minecraft.item.ItemStack;@57f985d7",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|123 [Lnet.minecraft.item.ItemStack;@57f985d7",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|123 [Lnet.minecraft.item.ItemStack;@57f985d7",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|123 [Lnet.minecraft.item.ItemStack;@57f985d7",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|123 [Lnet.minecraft.item.ItemStack;@57f985d7",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|123 [Lnet.minecraft.item.ItemStack;@57f985d7",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|123 [Lnet.minecraft.item.ItemStack;@57f985d7",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|124 [Lnet.minecraft.item.ItemStack;@3ec21360",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|124 [Lnet.minecraft.item.ItemStack;@3ec21360",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|124 [Lnet.minecraft.item.ItemStack;@3ec21360",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|124 [Lnet.minecraft.item.ItemStack;@3ec21360",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|124 [Lnet.minecraft.item.ItemStack;@3ec21360",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|124 [Lnet.minecraft.item.ItemStack;@3ec21360",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|124 [Lnet.minecraft.item.ItemStack;@3ec21360",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|125 [Lnet.minecraft.item.ItemStack;@378623d0",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|125 [Lnet.minecraft.item.ItemStack;@378623d0",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|125 [Lnet.minecraft.item.ItemStack;@378623d0",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|125 [Lnet.minecraft.item.ItemStack;@378623d0",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|125 [Lnet.minecraft.item.ItemStack;@378623d0",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|125 [Lnet.minecraft.item.ItemStack;@378623d0",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|125 [Lnet.minecraft.item.ItemStack;@378623d0",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|126 [Lnet.minecraft.item.ItemStack;@4799492a",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|126 [Lnet.minecraft.item.ItemStack;@4799492a",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|126 [Lnet.minecraft.item.ItemStack;@4799492a",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|126 [Lnet.minecraft.item.ItemStack;@4799492a",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|126 [Lnet.minecraft.item.ItemStack;@4799492a",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|126 [Lnet.minecraft.item.ItemStack;@4799492a",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|126 [Lnet.minecraft.item.ItemStack;@4799492a",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockController|0",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockSkyStone|1": 4,
+            "appliedenergistics2:item.ItemMultiMaterial|24": 1,
+            "OD|crystalPureFluix": 4
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|80",
+          "ingredients": {
+            "OD|dustRedstone": 2,
+            "minecraft:lever|0": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockIOPort|0",
+          "ingredients": {
+            "OD|ingotIron": 2,
+            "FAKE|128 [Lnet.minecraft.item.ItemStack;@746862ed": 1,
+            "FAKE|129 [Lnet.minecraft.item.ItemStack;@7136f14f": 1,
+            "appliedenergistics2:tile.BlockDrive|0": 2,
+            "appliedenergistics2:item.ItemMultiMaterial|22": 1,
+            "FAKE|127 [Lnet.minecraft.item.ItemStack;@2092891f": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|127 [Lnet.minecraft.item.ItemStack;@2092891f",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|127 [Lnet.minecraft.item.ItemStack;@2092891f",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|127 [Lnet.minecraft.item.ItemStack;@2092891f",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|127 [Lnet.minecraft.item.ItemStack;@2092891f",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|127 [Lnet.minecraft.item.ItemStack;@2092891f",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|127 [Lnet.minecraft.item.ItemStack;@2092891f",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|127 [Lnet.minecraft.item.ItemStack;@2092891f",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|128 [Lnet.minecraft.item.ItemStack;@746862ed",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|128 [Lnet.minecraft.item.ItemStack;@746862ed",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|128 [Lnet.minecraft.item.ItemStack;@746862ed",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|128 [Lnet.minecraft.item.ItemStack;@746862ed",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|128 [Lnet.minecraft.item.ItemStack;@746862ed",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|128 [Lnet.minecraft.item.ItemStack;@746862ed",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|128 [Lnet.minecraft.item.ItemStack;@746862ed",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|129 [Lnet.minecraft.item.ItemStack;@7136f14f",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|129 [Lnet.minecraft.item.ItemStack;@7136f14f",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|129 [Lnet.minecraft.item.ItemStack;@7136f14f",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|129 [Lnet.minecraft.item.ItemStack;@7136f14f",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|129 [Lnet.minecraft.item.ItemStack;@7136f14f",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|129 [Lnet.minecraft.item.ItemStack;@7136f14f",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|129 [Lnet.minecraft.item.ItemStack;@7136f14f",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockSpatialIOPort|0",
+          "ingredients": {
+            "OD|ingotIron": 2,
+            "appliedenergistics2:item.ItemMultiMaterial|24": 1,
+            "FAKE|131 [Lnet.minecraft.item.ItemStack;@3e536b86": 1,
+            "FAKE|132 [Lnet.minecraft.item.ItemStack;@56b84a61": 1,
+            "appliedenergistics2:tile.BlockIOPort|0": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 2,
+            "FAKE|130 [Lnet.minecraft.item.ItemStack;@4e1cb39a": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|130 [Lnet.minecraft.item.ItemStack;@4e1cb39a",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|130 [Lnet.minecraft.item.ItemStack;@4e1cb39a",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|130 [Lnet.minecraft.item.ItemStack;@4e1cb39a",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|130 [Lnet.minecraft.item.ItemStack;@4e1cb39a",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|130 [Lnet.minecraft.item.ItemStack;@4e1cb39a",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|130 [Lnet.minecraft.item.ItemStack;@4e1cb39a",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|130 [Lnet.minecraft.item.ItemStack;@4e1cb39a",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|131 [Lnet.minecraft.item.ItemStack;@3e536b86",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|131 [Lnet.minecraft.item.ItemStack;@3e536b86",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|131 [Lnet.minecraft.item.ItemStack;@3e536b86",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|131 [Lnet.minecraft.item.ItemStack;@3e536b86",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|131 [Lnet.minecraft.item.ItemStack;@3e536b86",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|131 [Lnet.minecraft.item.ItemStack;@3e536b86",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|131 [Lnet.minecraft.item.ItemStack;@3e536b86",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|132 [Lnet.minecraft.item.ItemStack;@56b84a61",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|132 [Lnet.minecraft.item.ItemStack;@56b84a61",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|132 [Lnet.minecraft.item.ItemStack;@56b84a61",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|132 [Lnet.minecraft.item.ItemStack;@56b84a61",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|132 [Lnet.minecraft.item.ItemStack;@56b84a61",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|132 [Lnet.minecraft.item.ItemStack;@56b84a61",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|132 [Lnet.minecraft.item.ItemStack;@56b84a61",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockSpatialPylon|0",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockQuartzGlass|0": 4,
+            "OD|dustFluix": 2,
+            "FAKE|133 [Lnet.minecraft.item.ItemStack;@5d1b52c1": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|133 [Lnet.minecraft.item.ItemStack;@5d1b52c1",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|133 [Lnet.minecraft.item.ItemStack;@5d1b52c1",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockEnergyAcceptor|0",
+          "ingredients": {
+            "OD|ingotIron": 4,
+            "appliedenergistics2:tile.BlockQuartzGlass|0": 4,
+            "FAKE|134 [Lnet.minecraft.item.ItemStack;@2cd62ca8": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|134 [Lnet.minecraft.item.ItemStack;@2cd62ca8",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|134 [Lnet.minecraft.item.ItemStack;@2cd62ca8",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockQuartzGrowthAccelerator|0",
+          "ingredients": {
+            "OD|ingotIron": 4,
+            "appliedenergistics2:tile.BlockQuartzGlass|0": 2,
+            "appliedenergistics2:tile.BlockFluix|0": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockCharger|0",
+          "ingredients": {
+            "OD|ingotIron": 5,
+            "FAKE|136 [Lnet.minecraft.item.ItemStack;@1613ea75": 1,
+            "FAKE|135 [Lnet.minecraft.item.ItemStack;@210de097": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|135 [Lnet.minecraft.item.ItemStack;@210de097",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|135 [Lnet.minecraft.item.ItemStack;@210de097",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|136 [Lnet.minecraft.item.ItemStack;@1613ea75",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|136 [Lnet.minecraft.item.ItemStack;@1613ea75",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockInterface|0",
+          "ingredients": {
+            "FAKE|138 [Lnet.minecraft.item.ItemStack;@1c93aaea": 1,
+            "OD|ingotIron": 4,
+            "FAKE|137 [Lnet.minecraft.item.ItemStack;@7585b2a5": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|44": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|43": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|137 [Lnet.minecraft.item.ItemStack;@7585b2a5",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|137 [Lnet.minecraft.item.ItemStack;@7585b2a5",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|137 [Lnet.minecraft.item.ItemStack;@7585b2a5",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|137 [Lnet.minecraft.item.ItemStack;@7585b2a5",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|137 [Lnet.minecraft.item.ItemStack;@7585b2a5",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|137 [Lnet.minecraft.item.ItemStack;@7585b2a5",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|137 [Lnet.minecraft.item.ItemStack;@7585b2a5",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|138 [Lnet.minecraft.item.ItemStack;@1c93aaea",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|138 [Lnet.minecraft.item.ItemStack;@1c93aaea",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|138 [Lnet.minecraft.item.ItemStack;@1c93aaea",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|138 [Lnet.minecraft.item.ItemStack;@1c93aaea",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|138 [Lnet.minecraft.item.ItemStack;@1c93aaea",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|138 [Lnet.minecraft.item.ItemStack;@1c93aaea",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|138 [Lnet.minecraft.item.ItemStack;@1c93aaea",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ToolMassCannon|0",
+          "ingredients": {
+            "OD|ingotIron": 3,
+            "appliedenergistics2:item.ItemMultiMaterial|36": 1,
+            "appliedenergistics2:tile.BlockEnergyCell|0": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|43": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|41",
+          "ingredients": {
+            "OD|ingotIron": 3,
+            "appliedenergistics2:item.ItemMultiPart|140": 1,
+            "OD|pearlFluix": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockQuantumLinkChamber|0",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockQuartzGlass|0": 4,
+            "OD|pearlFluix": 4
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockQuantumRing|0",
+          "ingredients": {
+            "OD|ingotIron": 4,
+            "appliedenergistics2:item.ItemMultiPart|76": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|24": 1,
+            "appliedenergistics2:tile.BlockEnergyCell|0": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|22": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockVibrationChamber|0",
+          "ingredients": {
+            "OD|ingotIron": 7,
+            "minecraft:furnace|0": 1,
+            "appliedenergistics2:tile.BlockEnergyAcceptor|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockSecurity|0",
+          "ingredients": {
+            "OD|ingotIron": 4,
+            "appliedenergistics2:item.ItemMultiMaterial|24": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|37": 1,
+            "appliedenergistics2:tile.BlockChest|0": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockEnergyCell|0",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockQuartzGlass|0": 1,
+            "OD|dustFluix": 4,
+            "FAKE|142 [Lnet.minecraft.item.ItemStack;@4ca575d": 1,
+            "FAKE|141 [Lnet.minecraft.item.ItemStack;@72deda3e": 1,
+            "FAKE|139 [Lnet.minecraft.item.ItemStack;@22b9f74e": 1,
+            "FAKE|140 [Lnet.minecraft.item.ItemStack;@5f1b33b1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|139 [Lnet.minecraft.item.ItemStack;@22b9f74e",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|139 [Lnet.minecraft.item.ItemStack;@22b9f74e",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|139 [Lnet.minecraft.item.ItemStack;@22b9f74e",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|10": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|140 [Lnet.minecraft.item.ItemStack;@5f1b33b1",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|140 [Lnet.minecraft.item.ItemStack;@5f1b33b1",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|140 [Lnet.minecraft.item.ItemStack;@5f1b33b1",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|10": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|141 [Lnet.minecraft.item.ItemStack;@72deda3e",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|141 [Lnet.minecraft.item.ItemStack;@72deda3e",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|141 [Lnet.minecraft.item.ItemStack;@72deda3e",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|10": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|142 [Lnet.minecraft.item.ItemStack;@4ca575d",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|142 [Lnet.minecraft.item.ItemStack;@4ca575d",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|142 [Lnet.minecraft.item.ItemStack;@4ca575d",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|10": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockDenseEnergyCell|0",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|23": 1,
+            "appliedenergistics2:tile.BlockEnergyCell|0": 8
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ToolChargedStaff|0",
+          "ingredients": {
+            "OD|ingotIron": 2,
+            "appliedenergistics2:item.ItemMultiMaterial|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ToolEntropyManipulator|0",
+          "ingredients": {
+            "OD|ingotIron": 2,
+            "appliedenergistics2:item.ItemMultiMaterial|24": 1,
+            "appliedenergistics2:tile.BlockEnergyCell|0": 1,
+            "FAKE|143 [Lnet.minecraft.item.ItemStack;@2d9d20": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|143 [Lnet.minecraft.item.ItemStack;@2d9d20",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|143 [Lnet.minecraft.item.ItemStack;@2d9d20",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|25",
+          "ingredients": {
+            "OD|ingotIron": 3,
+            "OD|dustRedstone": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|23": 1,
+            "OD|ingotGold": 2
+          }
+        },
+        {
+          "count": 3,
+          "output": "appliedenergistics2:item.ItemMultiPart|180",
+          "ingredients": {
+            "OD|ingotIron": 1,
+            "OD|dustRedstone": 1,
+            "appliedenergistics2:tile.BlockQuartzGlass|0": 3,
+            "OD|dustGlowstone": 2
+          }
+        },
+        {
+          "count": 2,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|28",
+          "ingredients": {
+            "OD|ingotIron": 3,
+            "OD|gemDiamond": 2,
+            "OD|dustRedstone": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|23": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|460",
+          "ingredients": {
+            "OD|ingotIron": 3,
+            "appliedenergistics2:item.ItemMultiMaterial|24": 1,
+            "FAKE|145 [Lnet.minecraft.item.ItemStack;@59502b1b": 1,
+            "FAKE|144 [Lnet.minecraft.item.ItemStack;@32a69ff7": 1,
+            "FAKE|146 [Lnet.minecraft.item.ItemStack;@1e3e276c": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|144 [Lnet.minecraft.item.ItemStack;@32a69ff7",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|144 [Lnet.minecraft.item.ItemStack;@32a69ff7",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|145 [Lnet.minecraft.item.ItemStack;@59502b1b",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|145 [Lnet.minecraft.item.ItemStack;@59502b1b",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|146 [Lnet.minecraft.item.ItemStack;@1e3e276c",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|146 [Lnet.minecraft.item.ItemStack;@1e3e276c",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockCellWorkbench|0",
+          "ingredients": {
+            "OD|ingotIron": 5,
+            "appliedenergistics2:item.ItemMultiMaterial|23": 1,
+            "minecraft:chest|0": 1,
+            "OD|blockWoolWhite": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockInscriber|0",
+          "ingredients": {
+            "OD|ingotIron": 5,
+            "FAKE|147 [Lnet.minecraft.item.ItemStack;@28e32f7": 1,
+            "minecraft:sticky_piston|0": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|147 [Lnet.minecraft.item.ItemStack;@28e32f7",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|147 [Lnet.minecraft.item.ItemStack;@28e32f7",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockSkyCompass|0",
+          "ingredients": {
+            "OD|ingotIron": 4,
+            "appliedenergistics2:item.ItemMultiMaterial|1": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|0",
+          "ingredients": {
+            "OD|dyeWhite": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|15",
+          "ingredients": {
+            "OD|dyeBlack": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|14",
+          "ingredients": {
+            "OD|dyeRed": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|13",
+          "ingredients": {
+            "OD|dyeGreen": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|12",
+          "ingredients": {
+            "OD|dyeBrown": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|11",
+          "ingredients": {
+            "minecraft:dye|4": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|10",
+          "ingredients": {
+            "OD|dyePurple": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|9",
+          "ingredients": {
+            "OD|dyeCyan": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|8",
+          "ingredients": {
+            "OD|dyeLightGray": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|7",
+          "ingredients": {
+            "OD|dyeGray": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|6",
+          "ingredients": {
+            "OD|dyePink": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|5",
+          "ingredients": {
+            "OD|dyeLime": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|4",
+          "ingredients": {
+            "OD|dyeYellow": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|3",
+          "ingredients": {
+            "OD|dyeLightBlue": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|2",
+          "ingredients": {
+            "OD|dyeMagenta": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|1",
+          "ingredients": {
+            "OD|dyeOrange": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|20",
+          "ingredients": {
+            "OD|dyeWhite": 1,
+            "appliedenergistics2:item.ItemMultiPart|36": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|35",
+          "ingredients": {
+            "OD|dyeBlack": 1,
+            "appliedenergistics2:item.ItemMultiPart|36": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|34",
+          "ingredients": {
+            "OD|dyeRed": 1,
+            "appliedenergistics2:item.ItemMultiPart|36": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|33",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|36": 8,
+            "OD|dyeGreen": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|32",
+          "ingredients": {
+            "OD|dyeBrown": 1,
+            "appliedenergistics2:item.ItemMultiPart|36": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|31",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|36": 8,
+            "minecraft:dye|4": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|30",
+          "ingredients": {
+            "OD|dyePurple": 1,
+            "appliedenergistics2:item.ItemMultiPart|36": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|29",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|36": 8,
+            "OD|dyeCyan": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|28",
+          "ingredients": {
+            "OD|dyeLightGray": 1,
+            "appliedenergistics2:item.ItemMultiPart|36": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|27",
+          "ingredients": {
+            "OD|dyeGray": 1,
+            "appliedenergistics2:item.ItemMultiPart|36": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|26",
+          "ingredients": {
+            "OD|dyePink": 1,
+            "appliedenergistics2:item.ItemMultiPart|36": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|25",
+          "ingredients": {
+            "OD|dyeLime": 1,
+            "appliedenergistics2:item.ItemMultiPart|36": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|24",
+          "ingredients": {
+            "OD|dyeYellow": 1,
+            "appliedenergistics2:item.ItemMultiPart|36": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|23",
+          "ingredients": {
+            "OD|dyeLightBlue": 1,
+            "appliedenergistics2:item.ItemMultiPart|36": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|22",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|36": 8,
+            "OD|dyeMagenta": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|21",
+          "ingredients": {
+            "OD|dyeOrange": 1,
+            "appliedenergistics2:item.ItemMultiPart|36": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|40",
+          "ingredients": {
+            "OD|dyeWhite": 1,
+            "appliedenergistics2:item.ItemMultiPart|56": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|55",
+          "ingredients": {
+            "OD|dyeBlack": 1,
+            "appliedenergistics2:item.ItemMultiPart|56": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|54",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|56": 8,
+            "OD|dyeRed": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|53",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|56": 8,
+            "OD|dyeGreen": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|52",
+          "ingredients": {
+            "OD|dyeBrown": 1,
+            "appliedenergistics2:item.ItemMultiPart|56": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|51",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|56": 8,
+            "minecraft:dye|4": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|50",
+          "ingredients": {
+            "OD|dyePurple": 1,
+            "appliedenergistics2:item.ItemMultiPart|56": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|49",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|56": 8,
+            "OD|dyeCyan": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|48",
+          "ingredients": {
+            "OD|dyeLightGray": 1,
+            "appliedenergistics2:item.ItemMultiPart|56": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|47",
+          "ingredients": {
+            "OD|dyeGray": 1,
+            "appliedenergistics2:item.ItemMultiPart|56": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|46",
+          "ingredients": {
+            "OD|dyePink": 1,
+            "appliedenergistics2:item.ItemMultiPart|56": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|45",
+          "ingredients": {
+            "OD|dyeLime": 1,
+            "appliedenergistics2:item.ItemMultiPart|56": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|44",
+          "ingredients": {
+            "OD|dyeYellow": 1,
+            "appliedenergistics2:item.ItemMultiPart|56": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|43",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|56": 8,
+            "OD|dyeLightBlue": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|42",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|56": 8,
+            "OD|dyeMagenta": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|41",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|56": 8,
+            "OD|dyeOrange": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|60",
+          "ingredients": {
+            "OD|dyeWhite": 1,
+            "appliedenergistics2:item.ItemMultiPart|76": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|75",
+          "ingredients": {
+            "OD|dyeBlack": 1,
+            "appliedenergistics2:item.ItemMultiPart|76": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|74",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|76": 8,
+            "OD|dyeRed": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|73",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|76": 8,
+            "OD|dyeGreen": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|72",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|76": 8,
+            "OD|dyeBrown": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|71",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|76": 8,
+            "minecraft:dye|4": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|70",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|76": 8,
+            "OD|dyePurple": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|69",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|76": 8,
+            "OD|dyeCyan": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|68",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|76": 8,
+            "OD|dyeLightGray": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|67",
+          "ingredients": {
+            "OD|dyeGray": 1,
+            "appliedenergistics2:item.ItemMultiPart|76": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|66",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|76": 8,
+            "OD|dyePink": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|65",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|76": 8,
+            "OD|dyeLime": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|64",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|76": 8,
+            "OD|dyeYellow": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|63",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|76": 8,
+            "OD|dyeLightBlue": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|62",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|76": 8,
+            "OD|dyeMagenta": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemMultiPart|61",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|76": 8,
+            "OD|dyeOrange": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|0",
+          "ingredients": {
+            "OD|dyeWhite": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|6": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|15",
+          "ingredients": {
+            "OD|dyeBlack": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|6": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|14",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|6": 8,
+            "OD|dyeRed": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|13",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|6": 8,
+            "OD|dyeGreen": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|12",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|6": 8,
+            "OD|dyeBrown": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|11",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|6": 8,
+            "minecraft:dye|4": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|10",
+          "ingredients": {
+            "OD|dyePurple": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|6": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|9",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|6": 8,
+            "OD|dyeCyan": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|8",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|6": 8,
+            "OD|dyeLightGray": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|7",
+          "ingredients": {
+            "OD|dyeGray": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|6": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|6",
+          "ingredients": {
+            "OD|dyePink": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|6": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|5",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|6": 8,
+            "OD|dyeLime": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|4",
+          "ingredients": {
+            "OD|dyeYellow": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|6": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|3",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|6": 8,
+            "OD|dyeLightBlue": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|2",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|6": 8,
+            "OD|dyeMagenta": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|1",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|6": 8,
+            "OD|dyeOrange": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|40",
+          "ingredients": {
+            "OD|dustGlowstone": 1,
+            "appliedenergistics2:item.ItemPaintBall|0": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|55",
+          "ingredients": {
+            "OD|dustGlowstone": 1,
+            "appliedenergistics2:item.ItemPaintBall|15": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|54",
+          "ingredients": {
+            "OD|dustGlowstone": 1,
+            "appliedenergistics2:item.ItemPaintBall|14": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|53",
+          "ingredients": {
+            "OD|dustGlowstone": 1,
+            "appliedenergistics2:item.ItemPaintBall|13": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|52",
+          "ingredients": {
+            "OD|dustGlowstone": 1,
+            "appliedenergistics2:item.ItemPaintBall|12": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|51",
+          "ingredients": {
+            "appliedenergistics2:item.ItemPaintBall|11": 8,
+            "OD|dustGlowstone": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|50",
+          "ingredients": {
+            "appliedenergistics2:item.ItemPaintBall|10": 8,
+            "OD|dustGlowstone": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|49",
+          "ingredients": {
+            "OD|dustGlowstone": 1,
+            "appliedenergistics2:item.ItemPaintBall|9": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|48",
+          "ingredients": {
+            "appliedenergistics2:item.ItemPaintBall|8": 8,
+            "OD|dustGlowstone": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|47",
+          "ingredients": {
+            "appliedenergistics2:item.ItemPaintBall|7": 8,
+            "OD|dustGlowstone": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|46",
+          "ingredients": {
+            "appliedenergistics2:item.ItemPaintBall|6": 8,
+            "OD|dustGlowstone": 1
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|45",
+          "ingredients": {
+            "OD|dustGlowstone": 1,
+            "appliedenergistics2:item.ItemPaintBall|5": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|44",
+          "ingredients": {
+            "OD|dustGlowstone": 1,
+            "appliedenergistics2:item.ItemPaintBall|4": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|43",
+          "ingredients": {
+            "OD|dustGlowstone": 1,
+            "appliedenergistics2:item.ItemPaintBall|3": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|42",
+          "ingredients": {
+            "OD|dustGlowstone": 1,
+            "appliedenergistics2:item.ItemPaintBall|2": 8
+          }
+        },
+        {
+          "count": 8,
+          "output": "appliedenergistics2:item.ItemPaintBall|41",
+          "ingredients": {
+            "OD|dustGlowstone": 1,
+            "appliedenergistics2:item.ItemPaintBall|1": 8
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|52",
+          "ingredients": {
+            "OD|ingotIron": 3,
+            "FAKE|148 [Lnet.minecraft.item.ItemStack;@45b3f770": 1,
+            "OD|dustGlowstone": 3,
+            "appliedenergistics2:tile.BlockQuartzGlass|0": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|148 [Lnet.minecraft.item.ItemStack;@45b3f770",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|148 [Lnet.minecraft.item.ItemStack;@45b3f770",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|148 [Lnet.minecraft.item.ItemStack;@45b3f770",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|10": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ToolColorApplicator|0",
+          "ingredients": {
+            "OD|ingotIron": 2,
+            "appliedenergistics2:item.ItemMultiMaterial|36": 1,
+            "appliedenergistics2:tile.BlockEnergyCell|0": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|43": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockMolecularAssembler|0",
+          "ingredients": {
+            "OD|ingotIron": 4,
+            "minecraft:crafting_table|0": 1,
+            "appliedenergistics2:tile.BlockQuartzGlass|0": 2,
+            "appliedenergistics2:item.ItemMultiMaterial|44": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|43": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockCraftingUnit|0",
+          "ingredients": {
+            "OD|ingotIron": 4,
+            "appliedenergistics2:item.ItemMultiMaterial|23": 2,
+            "appliedenergistics2:item.ItemMultiMaterial|22": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "minecraft:daylight_detector|0",
+          "ingredients": {
+            "FAKE|151 [Lnet.minecraft.item.ItemStack;@1586fcf0": 1,
+            "FAKE|152 [Lnet.minecraft.item.ItemStack;@5147fb9a": 1,
+            "FAKE|149 [Lnet.minecraft.item.ItemStack;@2a39fdd0": 1,
+            "FAKE|150 [Lnet.minecraft.item.ItemStack;@45467858": 1,
+            "FAKE|154 [Lnet.minecraft.item.ItemStack;@5131c933": 1,
+            "FAKE|153 [Lnet.minecraft.item.ItemStack;@4cd76526": 1,
+            "minecraft:wooden_slab|0": 3
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|149 [Lnet.minecraft.item.ItemStack;@2a39fdd0",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|149 [Lnet.minecraft.item.ItemStack;@2a39fdd0",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|149 [Lnet.minecraft.item.ItemStack;@2a39fdd0",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|149 [Lnet.minecraft.item.ItemStack;@2a39fdd0",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|149 [Lnet.minecraft.item.ItemStack;@2a39fdd0",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|149 [Lnet.minecraft.item.ItemStack;@2a39fdd0",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|149 [Lnet.minecraft.item.ItemStack;@2a39fdd0",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|150 [Lnet.minecraft.item.ItemStack;@45467858",
+          "ingredients": {
+            "minecraft:quartz|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|150 [Lnet.minecraft.item.ItemStack;@45467858",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|11": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|151 [Lnet.minecraft.item.ItemStack;@1586fcf0",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|151 [Lnet.minecraft.item.ItemStack;@1586fcf0",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|151 [Lnet.minecraft.item.ItemStack;@1586fcf0",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|151 [Lnet.minecraft.item.ItemStack;@1586fcf0",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|151 [Lnet.minecraft.item.ItemStack;@1586fcf0",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|151 [Lnet.minecraft.item.ItemStack;@1586fcf0",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|151 [Lnet.minecraft.item.ItemStack;@1586fcf0",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|152 [Lnet.minecraft.item.ItemStack;@5147fb9a",
+          "ingredients": {
+            "minecraft:quartz|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|152 [Lnet.minecraft.item.ItemStack;@5147fb9a",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|11": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|153 [Lnet.minecraft.item.ItemStack;@4cd76526",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|153 [Lnet.minecraft.item.ItemStack;@4cd76526",
+          "ingredients": {
+            "minecraft:stained_glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|153 [Lnet.minecraft.item.ItemStack;@4cd76526",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|153 [Lnet.minecraft.item.ItemStack;@4cd76526",
+          "ingredients": {
+            "TConstruct:GlassBlock|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|153 [Lnet.minecraft.item.ItemStack;@4cd76526",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|153 [Lnet.minecraft.item.ItemStack;@4cd76526",
+          "ingredients": {
+            "EnderIO:blockFusedQuartz|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|153 [Lnet.minecraft.item.ItemStack;@4cd76526",
+          "ingredients": {
+            "minecraft:glass|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|154 [Lnet.minecraft.item.ItemStack;@5131c933",
+          "ingredients": {
+            "minecraft:quartz|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|154 [Lnet.minecraft.item.ItemStack;@5131c933",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|11": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "minecraft:comparator|0",
+          "ingredients": {
+            "FAKE|155 [Lnet.minecraft.item.ItemStack;@1b905cea": 1,
+            "minecraft:redstone_torch|0": 3,
+            "OD|stone": 3
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|155 [Lnet.minecraft.item.ItemStack;@1b905cea",
+          "ingredients": {
+            "minecraft:quartz|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|155 [Lnet.minecraft.item.ItemStack;@1b905cea",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|11": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "appliedenergistics2:tile.ChiseledQuartzStairBlock|0",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockQuartzChiseled|0": 6
+          }
+        },
+        {
+          "count": 4,
+          "output": "appliedenergistics2:tile.FluixStairBlock|0",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockFluix|0": 6
+          }
+        },
+        {
+          "count": 4,
+          "output": "appliedenergistics2:tile.QuartzPillarStairBlock|0",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockQuartzPillar|0": 6
+          }
+        },
+        {
+          "count": 4,
+          "output": "appliedenergistics2:tile.QuartzStairBlock|0",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockQuartz|0": 6
+          }
+        },
+        {
+          "count": 4,
+          "output": "appliedenergistics2:tile.SkyStoneStairBlock|0",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockSkyStone|0": 6
+          }
+        },
+        {
+          "count": 4,
+          "output": "appliedenergistics2:tile.SkyStoneBlockStairBlock|0",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockSkyStone|1": 6
+          }
+        },
+        {
+          "count": 4,
+          "output": "appliedenergistics2:tile.SkyStoneBrickStairBlock|0",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockSkyStone|2": 6
+          }
+        },
+        {
+          "count": 4,
+          "output": "appliedenergistics2:tile.SkyStoneSmallBrickStairBlock|0",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockSkyStone|3": 6
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ToolNetherQuartzAxe|0",
+          "ingredients": {
+            "minecraft:quartz|0": 3,
+            "minecraft:stick|0": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ToolNetherQuartzHoe|0",
+          "ingredients": {
+            "minecraft:quartz|0": 2,
+            "minecraft:stick|0": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ToolCertusQuartzAxe|0",
+          "ingredients": {
+            "OD|crystalCertusQuartz": 3,
+            "minecraft:stick|0": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ToolCertusQuartzHoe|0",
+          "ingredients": {
+            "OD|crystalCertusQuartz": 2,
+            "minecraft:stick|0": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|320",
+          "ingredients": {
+            "OD|ingotIron": 2,
+            "FAKE|157 [Lnet.minecraft.item.ItemStack;@7730a9f3": 1,
+            "FAKE|158 [Lnet.minecraft.item.ItemStack;@1be5cda7": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|43": 1,
+            "FAKE|156 [Lnet.minecraft.item.ItemStack;@22c414c9": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|156 [Lnet.minecraft.item.ItemStack;@22c414c9",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|156 [Lnet.minecraft.item.ItemStack;@22c414c9",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|157 [Lnet.minecraft.item.ItemStack;@7730a9f3",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|157 [Lnet.minecraft.item.ItemStack;@7730a9f3",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|158 [Lnet.minecraft.item.ItemStack;@1be5cda7",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|158 [Lnet.minecraft.item.ItemStack;@1be5cda7",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|300",
+          "ingredients": {
+            "OD|ingotIron": 2,
+            "FAKE|160 [Lnet.minecraft.item.ItemStack;@3133daf8": 1,
+            "FAKE|159 [Lnet.minecraft.item.ItemStack;@c209d40": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|44": 1,
+            "FAKE|161 [Lnet.minecraft.item.ItemStack;@436ce904": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|159 [Lnet.minecraft.item.ItemStack;@c209d40",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|159 [Lnet.minecraft.item.ItemStack;@c209d40",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|160 [Lnet.minecraft.item.ItemStack;@3133daf8",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|160 [Lnet.minecraft.item.ItemStack;@3133daf8",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|161 [Lnet.minecraft.item.ItemStack;@436ce904",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|161 [Lnet.minecraft.item.ItemStack;@436ce904",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|260",
+          "ingredients": {
+            "OD|ingotIron": 2,
+            "minecraft:piston|0": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|43": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|240",
+          "ingredients": {
+            "OD|ingotIron": 2,
+            "appliedenergistics2:item.ItemMultiMaterial|44": 1,
+            "minecraft:sticky_piston|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|300",
+          "ingredients": {
+            "OD|ingotIron": 2,
+            "FAKE|163 [Lnet.minecraft.item.ItemStack;@3888bb06": 1,
+            "FAKE|162 [Lnet.minecraft.item.ItemStack;@23362831": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|44": 1,
+            "FAKE|164 [Lnet.minecraft.item.ItemStack;@18aea3e9": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|162 [Lnet.minecraft.item.ItemStack;@23362831",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|162 [Lnet.minecraft.item.ItemStack;@23362831",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|163 [Lnet.minecraft.item.ItemStack;@3888bb06",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|163 [Lnet.minecraft.item.ItemStack;@3888bb06",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|164 [Lnet.minecraft.item.ItemStack;@18aea3e9",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|164 [Lnet.minecraft.item.ItemStack;@18aea3e9",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|320",
+          "ingredients": {
+            "OD|ingotIron": 2,
+            "FAKE|165 [Lnet.minecraft.item.ItemStack;@718b22a7": 1,
+            "FAKE|166 [Lnet.minecraft.item.ItemStack;@65903c2d": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|43": 1,
+            "FAKE|167 [Lnet.minecraft.item.ItemStack;@605ee272": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|165 [Lnet.minecraft.item.ItemStack;@718b22a7",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|165 [Lnet.minecraft.item.ItemStack;@718b22a7",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|166 [Lnet.minecraft.item.ItemStack;@65903c2d",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|166 [Lnet.minecraft.item.ItemStack;@65903c2d",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|167 [Lnet.minecraft.item.ItemStack;@605ee272",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|167 [Lnet.minecraft.item.ItemStack;@605ee272",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|42",
+          "ingredients": {
+            "OD|ingotIron": 3,
+            "OD|dustFluix": 1,
+            "OD|dustEnderPearl": 1,
+            "FAKE|168 [Lnet.minecraft.item.ItemStack;@7564dbcb": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|168 [Lnet.minecraft.item.ItemStack;@7564dbcb",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|168 [Lnet.minecraft.item.ItemStack;@7564dbcb",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|168 [Lnet.minecraft.item.ItemStack;@7564dbcb",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|10": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ToolBiometricCard|0",
+          "ingredients": {
+            "OD|ingotIron": 2,
+            "OD|dustRedstone": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|24": 1,
+            "OD|ingotGold": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ToolMemoryCard|0",
+          "ingredients": {
+            "OD|ingotIron": 2,
+            "OD|dustRedstone": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|23": 1,
+            "OD|ingotGold": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockQuartz|0",
+          "ingredients": {
+            "OD|crystalCertusQuartz": 4
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockFluix|0",
+          "ingredients": {
+            "OD|crystalFluix": 4
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockTinyTNT|0",
+          "ingredients": {
+            "FAKE|169 [Lnet.minecraft.item.ItemStack;@309a28a3": 1,
+            "minecraft:gunpowder|0": 2,
+            "FAKE|170 [Lnet.minecraft.item.ItemStack;@58e1fe42": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|169 [Lnet.minecraft.item.ItemStack;@309a28a3",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|2": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|169 [Lnet.minecraft.item.ItemStack;@309a28a3",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|3": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|170 [Lnet.minecraft.item.ItemStack;@58e1fe42",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|2": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|170 [Lnet.minecraft.item.ItemStack;@58e1fe42",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|3": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ToolNetherQuartzSpade|0",
+          "ingredients": {
+            "minecraft:quartz|0": 1,
+            "minecraft:stick|0": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ToolNetherQuartzSword|0",
+          "ingredients": {
+            "minecraft:quartz|0": 2,
+            "minecraft:stick|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ToolCertusQuartzSpade|0",
+          "ingredients": {
+            "OD|crystalCertusQuartz": 1,
+            "minecraft:stick|0": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ToolCertusQuartzSword|0",
+          "ingredients": {
+            "OD|crystalCertusQuartz": 2,
+            "minecraft:stick|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockQuartzLamp|0",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockQuartzGlass|0": 1,
+            "OD|dustGlowstone": 2
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockWireless|0",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|23": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|41": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ToolWirelessTerminal|0",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|380": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|41": 1,
+            "appliedenergistics2:tile.BlockDenseEnergyCell|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ToolPortableCell|0",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|35": 1,
+            "appliedenergistics2:tile.BlockEnergyCell|0": 1,
+            "appliedenergistics2:tile.BlockChest|0": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|44",
+          "ingredients": {
+            "OD|dustFluix": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|22": 1,
+            "FAKE|171 [Lnet.minecraft.item.ItemStack;@5cfbcca4": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|171 [Lnet.minecraft.item.ItemStack;@5cfbcca4",
+          "ingredients": {
+            "minecraft:quartz|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|171 [Lnet.minecraft.item.ItemStack;@5cfbcca4",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|11": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|43",
+          "ingredients": {
+            "FAKE|172 [Lnet.minecraft.item.ItemStack;@173852ad": 1,
+            "OD|dustFluix": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|22": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|172 [Lnet.minecraft.item.ItemStack;@173852ad",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|172 [Lnet.minecraft.item.ItemStack;@173852ad",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|172 [Lnet.minecraft.item.ItemStack;@173852ad",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|10": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "appliedenergistics2:tile.BlockQuartzTorch|0",
+          "ingredients": {
+            "OD|ingotIron": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockLightDetector|0",
+          "ingredients": {
+            "OD|ingotIron": 1,
+            "FAKE|173 [Lnet.minecraft.item.ItemStack;@72bbe7c3": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|173 [Lnet.minecraft.item.ItemStack;@72bbe7c3",
+          "ingredients": {
+            "minecraft:quartz|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|173 [Lnet.minecraft.item.ItemStack;@72bbe7c3",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|11": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "appliedenergistics2:tile.BlockQuartzPillar|0",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockQuartz|0": 2
+          }
+        },
+        {
+          "count": 2,
+          "output": "appliedenergistics2:tile.BlockQuartzChiseled|0",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockQuartz|0": 2
+          }
+        }
+      ]
+    },
+    "appeng.integration.modules.NEIHelpers.NEIAEShapelessRecipeHandler": {
+      "comment": "Generated with /neircollect collect appeng.integration.modules.NEIHelpers.NEIAEShapelessRecipeHandler oredict si\u003d1",
+      "conversions": [
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|76",
+          "ingredients": {
+            "OD|dustRedstone": 1,
+            "OD|dustGlowstone": 1,
+            "appliedenergistics2:item.ItemMultiPart|36": 4
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|380",
+          "ingredients": {
+            "OD|itemIlluminatedPanel": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|22": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|44": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|43": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ToolNetworkTool|0",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|23": 1,
+            "FAKE|174 [Lnet.minecraft.item.ItemStack;@4e1e49ae": 1,
+            "OD|itemIlluminatedPanel": 1,
+            "minecraft:chest|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|174 [Lnet.minecraft.item.ItemStack;@4e1e49ae",
+          "ingredients": {
+            "appliedenergistics2:item.ToolCertusQuartzWrench|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|174 [Lnet.minecraft.item.ItemStack;@4e1e49ae",
+          "ingredients": {
+            "appliedenergistics2:item.ToolNetherQuartzWrench|0": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "appliedenergistics2:item.ItemMultiPart|16",
+          "ingredients": {
+            "FAKE|175 [Lnet.minecraft.item.ItemStack;@26776693": 1,
+            "FAKE|176 [Lnet.minecraft.item.ItemStack;@68ef509f": 1,
+            "appliedenergistics2:item.ItemMultiPart|140": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|175 [Lnet.minecraft.item.ItemStack;@26776693",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|175 [Lnet.minecraft.item.ItemStack;@26776693",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|176 [Lnet.minecraft.item.ItemStack;@68ef509f",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|176 [Lnet.minecraft.item.ItemStack;@68ef509f",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|56",
+          "ingredients": {
+            "OD|dustRedstone": 1,
+            "OD|dustGlowstone": 1,
+            "appliedenergistics2:item.ItemMultiPart|36": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|360",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|380": 1,
+            "minecraft:crafting_table|0": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|23": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|220",
+          "ingredients": {
+            "FAKE|177 [Lnet.minecraft.item.ItemStack;@37962c8b": 1,
+            "minecraft:piston|0": 1,
+            "minecraft:sticky_piston|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|177 [Lnet.minecraft.item.ItemStack;@37962c8b",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockInterface|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|177 [Lnet.minecraft.item.ItemStack;@37962c8b",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|440": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|420",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|44": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|43": 1,
+            "appliedenergistics2:item.ItemMultiPart|400": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|480",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|24": 1,
+            "FAKE|178 [Lnet.minecraft.item.ItemStack;@6446762f": 1,
+            "OD|itemIlluminatedPanel": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|178 [Lnet.minecraft.item.ItemStack;@6446762f",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockInterface|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|178 [Lnet.minecraft.item.ItemStack;@6446762f",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|440": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "appliedenergistics2:item.ItemCrystalSeed|600",
+          "ingredients": {
+            "minecraft:sand|0": 1,
+            "OD|dustNetherQuartz": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "appliedenergistics2:item.ItemCrystalSeed|0",
+          "ingredients": {
+            "minecraft:sand|0": 1,
+            "OD|dustCertusQuartz": 1
+          }
+        },
+        {
+          "count": 2,
+          "output": "appliedenergistics2:item.ItemCrystalSeed|1200",
+          "ingredients": {
+            "minecraft:sand|0": 1,
+            "OD|dustFluix": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemBasicStorageCell.1k|0",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|39": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|35": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemBasicStorageCell.4k|0",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|39": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|36": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemBasicStorageCell.16k|0",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|39": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|37": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemBasicStorageCell.64k|0",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|38": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|39": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemViewCell|0",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|39": 1,
+            "FAKE|179 [Lnet.minecraft.item.ItemStack;@4df93b17": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|179 [Lnet.minecraft.item.ItemStack;@4df93b17",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|179 [Lnet.minecraft.item.ItemStack;@4df93b17",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|179 [Lnet.minecraft.item.ItemStack;@4df93b17",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|10": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemSpatialStorageCell.2Cubed|0",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|39": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|32": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemSpatialStorageCell.16Cubed|0",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|39": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|33": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemSpatialStorageCell.128Cubed|0",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|39": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|34": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|36",
+          "ingredients": {
+            "OD|blockWoolWhite": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|56",
+          "ingredients": {
+            "minecraft:water_bucket|0": 1,
+            "appliedenergistics2:item.ItemMultiPart|56": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|36",
+          "ingredients": {
+            "minecraft:water_bucket|0": 1,
+            "appliedenergistics2:item.ItemMultiPart|36": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|16",
+          "ingredients": {
+            "minecraft:water_bucket|0": 1,
+            "appliedenergistics2:item.ItemMultiPart|16": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|76",
+          "ingredients": {
+            "minecraft:water_bucket|0": 1,
+            "appliedenergistics2:item.ItemMultiPart|76": 1
+          }
+        },
+        {
+          "count": 3,
+          "output": "appliedenergistics2:item.ItemMultiPart|120",
+          "ingredients": {
+            "FAKE|180 [Lnet.minecraft.item.ItemStack;@25968aff": 1,
+            "FAKE|181 [Lnet.minecraft.item.ItemStack;@3e7f7ea0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|180 [Lnet.minecraft.item.ItemStack;@25968aff",
+          "ingredients": {
+            "minecraft:iron_ingot|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|180 [Lnet.minecraft.item.ItemStack;@25968aff",
+          "ingredients": {
+            "TConstruct:materials|9": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|180 [Lnet.minecraft.item.ItemStack;@25968aff",
+          "ingredients": {
+            "TConstruct:materials|10": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|180 [Lnet.minecraft.item.ItemStack;@25968aff",
+          "ingredients": {
+            "TConstruct:materials|13": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|180 [Lnet.minecraft.item.ItemStack;@25968aff",
+          "ingredients": {
+            "TConstruct:materials|11": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|181 [Lnet.minecraft.item.ItemStack;@3e7f7ea0",
+          "ingredients": {
+            "appliedenergistics2:item.ToolCertusQuartzCuttingKnife|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|181 [Lnet.minecraft.item.ItemStack;@3e7f7ea0",
+          "ingredients": {
+            "appliedenergistics2:item.ToolNetherQuartzCuttingKnife|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|280",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|23": 1,
+            "minecraft:redstone_torch|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|400",
+          "ingredients": {
+            "OD|itemIlluminatedPanel": 1,
+            "appliedenergistics2:item.ItemMultiPart|280": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|27",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|25": 1,
+            "FAKE|182 [Lnet.minecraft.item.ItemStack;@24525a6e": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|182 [Lnet.minecraft.item.ItemStack;@24525a6e",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|182 [Lnet.minecraft.item.ItemStack;@24525a6e",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|182 [Lnet.minecraft.item.ItemStack;@24525a6e",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|10": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|26",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|25": 1,
+            "minecraft:redstone_torch|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|29",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|28": 1,
+            "OD|blockWoolWhite": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|31",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|28": 1,
+            "minecraft:redstone_torch|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|30",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|28": 1,
+            "FAKE|183 [Lnet.minecraft.item.ItemStack;@1aaefe63": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|183 [Lnet.minecraft.item.ItemStack;@1aaefe63",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "FAKE|183 [Lnet.minecraft.item.ItemStack;@1aaefe63",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|53",
+          "ingredients": {
+            "minecraft:crafting_table|0": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|25": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|340",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|24": 1,
+            "appliedenergistics2:item.ItemMultiPart|360": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockCraftingUnit|1",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockCraftingUnit|0": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|24": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockCraftingMonitor|0",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockCraftingUnit|0": 1,
+            "appliedenergistics2:item.ItemMultiPart|400": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockCraftingStorage|0",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockCraftingUnit|0": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|35": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockCraftingStorage|1",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockCraftingUnit|0": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|36": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockCraftingStorage|2",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockCraftingUnit|0": 1,
+            "appliedenergistics2:item.ItemMultiMaterial|37": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockCraftingStorage|3",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiMaterial|38": 1,
+            "appliedenergistics2:tile.BlockCraftingUnit|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockSkyStone|2",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockSkyStone|1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockSkyStone|3",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockSkyStone|2": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockSkyStone|1",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockSkyStone|3": 1
+          }
+        },
+        {
+          "count": 9,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|50",
+          "ingredients": {
+            "OD|ingotIron": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|0",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockQuartz|0": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|0",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockQuartzPillar|0": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|0",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockQuartzChiseled|0": 1
+          }
+        },
+        {
+          "count": 4,
+          "output": "appliedenergistics2:item.ItemMultiMaterial|7",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockFluix|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|100",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|80": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|80",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|100": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:tile.BlockInterface|0",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|440": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|440",
+          "ingredients": {
+            "appliedenergistics2:tile.BlockInterface|0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|180",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|200": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|160",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|180": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "appliedenergistics2:item.ItemMultiPart|200",
+          "ingredients": {
+            "appliedenergistics2:item.ItemMultiPart|160": 1
+          }
+        }
+      ]
+    }
+  },
+  "values": {
+    "before": {
+      "appliedenergistics2:item.ItemMultiMaterial|13": "FREE",
+      "appliedenergistics2:item.ItemMultiMaterial|14": "FREE",
+      "appliedenergistics2:item.ItemMultiMaterial|15": "FREE",
+      "appliedenergistics2:item.ItemMultiMaterial|19": "FREE"
+      },
+    "after": {},
+    "conversion": []
+  }
+}

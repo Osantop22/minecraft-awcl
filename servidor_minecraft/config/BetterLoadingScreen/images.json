@@ -1,0 +1,101 @@
+[
+  {
+    "resourceLocation": "textures/gui/title/mojang.png",
+    "positionType": "CENTER",
+    "type": "STATIC",
+    "texture": {
+      "x": 0,
+      "y": 0,
+      "width": 256,
+      "height": 256
+    },
+    "position": {
+      "x": 0,
+      "y": 0,
+      "width": 256,
+      "height": 256
+    },
+    "comment": "None"
+  },
+  {
+    "resourceLocation": "textures/font/ascii.png",
+    "positionType": "CENTER",
+    "type": "DYNAMIC_TEXT_STATUS",
+    "position": {
+      "x": 0,
+      "y": -52,
+      "width": 0,
+      "height": 0
+    },
+    "colour": "ffffff",
+    "comment": ""
+  },
+  {
+    "resourceLocation": "textures/font/ascii.png",
+    "positionType": "CENTER",
+    "type": "DYNAMIC_TEXT_PERCENTAGE",
+    "position": {
+      "x": 0,
+      "y": -65,
+      "width": 0,
+      "height": 0
+    },
+    "colour": "ffffff",
+    "comment": ""
+  },
+  {
+    "resourceLocation": "betterloadingscreen:textures/progressBars.png",
+    "positionType": "CENTER",
+    "type": "STATIC",
+    "texture": {
+      "x": 0,
+      "y": 10,
+      "width": 182,
+      "height": 5
+    },
+    "position": {
+      "x": 0,
+      "y": -75,
+      "width": 182,
+      "height": 5
+    },
+    "comment": "None"
+  },
+  {
+    "resourceLocation": "betterloadingscreen:textures/progressBars.png",
+    "positionType": "CENTER",
+    "type": "DYNAMIC_PERCENTAGE",
+    "texture": {
+      "x": 0,
+      "y": 15,
+      "width": 182,
+      "height": 5
+    },
+    "position": {
+      "x": 0,
+      "y": -75,
+      "width": 182,
+      "height": 5
+    },
+    "comment": "None"
+  },
+  {
+    "type": "CLEAR_COLOUR",
+    "colour": "151321",
+    "comment": ""
+  },
+  {
+    "resourceLocation": "textures/font/ascii.png",
+    "positionType": "BOTTOM_CENTER",
+    "type": "STATIC_TEXT",
+    "position": {
+      "x": 0,
+      "y": 20,
+      "width": 0,
+      "height": 0
+    },
+    "colour": "7002c2",
+    "text": "(Disclaimer: Dank memes not included)",
+    "comment": ""
+  }
+]

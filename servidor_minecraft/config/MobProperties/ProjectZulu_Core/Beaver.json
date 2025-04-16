@@ -1,0 +1,47 @@
+{
+  "_name": "ProjectZulu|Core.Beaver",
+  "drops": [
+    {
+      "function": "add",
+      "id": "minecraft:log",
+      "count": 0.2
+    },
+    {
+      "function": "add",
+      "id": "minecraft:log",
+      "damage": 1,
+      "count": 0.1
+    },
+    {
+      "function": "add",
+      "id": "minecraft:log",
+      "damage": 2,
+      "count": 0.05
+    },
+    {
+      "function": "add",
+      "id": "minecraft:log",
+      "damage": 3,
+      "count": 0.05
+    },
+    {
+      "function": "add",
+      "id": "minecraft:log2",
+      "count": 0.05
+    },
+    {
+      "function": "add",
+      "id": "minecraft:log2",
+      "damage": 1,
+      "count": 0.1
+    },
+    {
+      "function": "add",
+      "id": "awakeningmeat:beaver_raw",
+      "damage": 0,
+      "count": 0.25
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

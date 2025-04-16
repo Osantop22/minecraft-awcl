@@ -1,0 +1,23 @@
+{
+  "_name": "ProjectZulu|Core.Pelican",
+  "drops": [
+    {
+      "function": "add",
+      "id": "minecraft:feather",
+      "count": 1.2
+    },
+    {
+      "function": "add",
+      "id": "minecraft:fish",
+      "count": 0.15
+    },
+    {
+      "function": "add",
+      "id": "awakeningmeat:bird_raw",
+      "damage": 0,
+      "count": 0.25
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

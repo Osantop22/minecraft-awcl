@@ -1,0 +1,273 @@
+{
+   "images":{
+      "strip":{
+         "image":"menu:textures/strip.png",
+         "posX":50,
+         "posY":0,
+         "width":100,
+         "height":2000,
+         "alignment":"top_left"
+      },
+      "stripleft":{
+         "image":"menu:textures/stripsides.png",
+         "posX":48,
+         "posY":0,
+         "width":1,
+         "height":2000,
+         "alignment":"top_left"
+      },
+      "stripleftgrey":{
+         "image":"menu:textures/stripgrey.png",
+         "posX":49,
+         "posY":0,
+         "width":1,
+         "height":2000,
+         "alignment":"top_left"
+      },
+      "stripright":{
+         "image":"menu:textures/stripsides.png",
+         "posX":151,
+         "posY":0,
+         "width":1,
+         "height":2000,
+         "alignment":"top_left"
+      },
+      "striprightgrey":{
+         "image":"menu:textures/stripgrey.png",
+         "posX":150,
+         "posY":0,
+         "width":1,
+         "height":2000,
+         "alignment":"top_left"
+      },
+      "imagelogo":{
+         "image":"menu:textures/TitleScreen.png",
+         "posX":50,
+         "posY":10,
+         "width":100,
+         "height":100,
+         "alignment":"top_left"
+      },
+      "sponsor":{
+         "image":"menu:textures/sponsor_logo.png",
+         "posX":-125,
+         "posY":-87,
+         "width":125,
+         "height":125,
+         "alignment":"bottom_right"
+      }
+   },
+   "buttons":{
+      "patreon":{
+         "text":"Patreon",
+         "texture":"menu:textures/patreonbutton.png",
+         "hoverTextColor":-1,
+         "posX":55,
+         "posY":-40,
+         "width":90,
+         "height":20,
+         "hoverText":"Get Rewards!",
+         "tooltip":"Support Awakening and get cool in game rewards!",
+         "alignment":"left_center",
+         "action":{
+            "type":"openLink",
+            "link":"https://www.patreon.com/shadowake"
+         }
+      },
+      "twitch":{
+         "text":"Live",
+         "texture":"menu:textures/buttons.png",
+         "posX":55,
+         "posY":-18,
+         "width":90,
+         "height":20,
+         "tooltip":"Watch Kmartinator on Twitch, pack staff and regular Awakening streamer!",
+         "alignment":"left_center",
+         "action":{
+            "type":"openLink",
+            "link":"https://www.twitch.tv/kmartinator"
+         }
+      },
+      "twitter":{
+         "text":"News",
+         "texture":"menu:textures/buttons.png",
+         "posX":55,
+         "posY":4,
+         "width":90,
+         "height":20,
+         "tooltip":"Follow shadowake on Twitter for all the latest Awakening news!",
+         "alignment":"left_center",
+         "action":{
+            "type":"openLink",
+            "link":"https://twitter.com/theshadowake"
+         }
+      },
+      "youtube":{
+         "text":"Watch",
+         "texture":"menu:textures/buttons.png",
+         "posX":55,
+         "posY":26,
+         "width":90,
+         "height":20,
+         "tooltip":"Watch CaddyWhumpusGamer's Awakening YouTube series.",
+         "alignment":"left_center",
+         "action":{
+            "type":"openLink",
+            "link":"https://www.youtube.com/playlist?list=PLY5NovfqybBVUFUoQizqRReXvnAEtfUx1"
+         }
+      },
+      "discord":{
+         "text":"Chat",
+         "texture":"menu:textures/buttons.png",
+         "posX":55,
+         "posY":48,
+         "width":90,
+         "height":20,
+         "tooltip":"Join the Awakening community on Discord to chat about the pack.",
+         "alignment":"left_center",
+         "action":{
+            "type":"openLink",
+            "link":"https://discord.gg/2UnFfjy"
+         }
+      },
+      "back":{
+         "text":"Back",
+         "texture":"menu:textures/back.png",
+         "posX":55,
+         "posY":70,
+         "width":90,
+         "height":20,
+         "alignment":"left_center",
+         "action":{
+            "type":"openGui",
+            "gui":"custom.mainmenu"
+         }
+      },
+      "sponsor_button":{
+         "text":"Servers from $1.99!",
+         "texture":"menu:textures/sponsor_button.png",
+         "posX":-123,
+         "posY":-44,
+         "width":120,
+         "height":20,
+         "tooltip":"Get a dedicated server from our awesome sponsors!",
+         "alignment":"bottom_right",
+         "action":{
+            "type":"openLink",
+            "link":"https://bisecthosting.com/awakening"
+         }
+      },
+      "quit":{
+         "text":"Quit Game",
+         "texture":"menu:textures/quitbutton.png",
+         "hoverTextColor":-1,
+         "posX":55,
+         "posY":-25,
+         "width":90,
+         "height":20,
+         "hoverText":"Are You Sure?!?",
+         "alignment":"bottom_left",
+         "action":{
+            "type":"quit"
+         }
+      },
+      "clock":{
+         "text":"#time# #date#",
+         "posX":0,
+         "posY":17,
+         "width":90,
+         "height":0,
+         "alignment":"top_center"
+      },
+      "version":{
+         "text":"file:menu:text/version.txt",
+         "posX":0,
+         "posY":-17,
+         "width":90,
+         "height":0,
+         "alignment":"bottom_center"
+      },
+      "mods_loaded":{
+         "text":"#modsloaded# Mods Loaded",
+         "posX":55,
+         "posY":-30,
+         "width":90,
+         "height":0,
+         "alignment":"bottom_left"
+      }
+   },
+   "texts":{
+      "tips":{
+         "text":[
+            "Thanks for over 350,000 downloads (and counting)!",
+            "Tip #1: Theres also a 'lite' version of the pack available on Twitch.",
+            "Tip #2: Pressing 'L' will toggle the light level overlay.",
+            "Tip #3: Pressing 'C' will toggle viewing chunk borders and edges.",
+            "Tip #4: All crops must be planted on crop sticks.",
+            "Tip #5: Some seeds have special needs, press 'U' on them to see them.",
+            "Tip #6: Mobs spawn stronger at lower Y levels.",
+            "Tip #7: Mobs are stronger in other dimensions, go prepared!",
+            "Tip #8: Most recipes are altered, use NEI to double check them!",
+            "Tip #9: Vanilla tools are disabled, follow the tinkers quest line.",
+            "Tip #10: Playing with friends is fun, servers are super cheap >>>",
+            "Tip #11: Stuck? Consult the quest book.",
+            "Tip #12: You can download and install Optifine to increase FPS.",
+            "Tip #13: Stuck? Check out the help & guides link on the main menu.",
+            "Tip #14: Becoming a Patreon grants sweet in game rewards!",
+            "Tip #15: You can support the pack by telling your friends about it!",
+            "Tip #16: Press 'U' to view a schematic of most multiblocks.",
+            "Tip #17: Press '=' to quickly create a new waypoint.",
+            "Tip #18: Press 'P' to place an item down in the world!",
+            "Tip #19: All custom music in the pack is royalty free.",
+            "Tip #20: Mob griefing is toggled in the sprinkles for vanilla config.",
+            "Tip #21: Restore local backups from single player world load screen.",
+            "Tip #22: The nether really is hell, prepare before going!",
+            "Tip #23: It is best to progress through mods together.",
+            "Tip #24: Need a server? Check out our sponsors - BisectHosting >>>",
+            "Tip #25: Awakening has had more updates than any other pack.",
+            "Tip #26: The wiki has some really useful info like ore levels.",
+            "Tip #27: Type 'mining level' in NEI to show tool mining levels.",
+            "Tip #28: Press 'O' to hide NEI when it blocks recipe outputs etc.",
+            "Tip #29: Automate all the things!",
+            "Tip #30: Press 'Ctrl' + 'R' to show a different Tip!",
+            "Tip #31: Always remember to take breaks when gaming!",
+            "Tip #32: Armored mobs? Rapiers and crossbows are armour piercing!",
+            "Tip #33: The pack ships with optimal graphics options already set.",
+            "Tip #34: There are Awakening servers listed on the Discord.",
+            "Tip #35: A server.properties file can be found in every world folder.",
+            "Tip #36: Follow @theshadowake on Twitter for all the Awakening news.",
+            "Tip #37: Build horizontally not vertically to help performance.",
+            "Tip #38: If recipes are missing try the '/mt reload' command.",
+            "Tip #39: There are several easter eggs hidden in the pack.",
+            "Tip #40: The quest book is a great guide to mods.",
+            "Tip #41: Spiders can web you if you are hit by one.",
+            "Tip #42: Want your fave YouTuber to play Awakening? Let them know!",
+            "Tip #43: Want your fave streamer to play Awakening? Let them know!",
+            "Tip #44: Pressing 'Q' will drop your currently held item on the ground.",
+            "Tip #45: External guides/wiki's recipes are not always right, use NEI.",
+            "Tip #46: For the best experience please use 'eng_US' language.",
+            "Tip #47: The 'Last Stand' enchantment can be a real lifesaver.",
+            "Tip #48: Caving usually yields more ores than strip mining.",
+            "Tip #49: Shooting a portal gun at the moon may be bad idea....",
+            "Tip #50: Lava monsters really don't like water.",
+            "Tip #51: Claim land with the map icon to the left of your inventory.",
+            "Tip #52: Chunkload with the map icon to the left of your inventory."
+         ],
+         "posX":160,
+         "posY":-55,
+         "width":90,
+         "height":0,
+         "color":-75,
+         "alignment":"bottom_left"
+      }
+   },
+   "other":{
+      "background":{
+         "image":"",
+         "mode":"stretch",
+         "slideshow":{
+            "synced":true
+         }
+      }
+   }
+}

@@ -1,0 +1,8 @@
+{simplyjetpacks:[
+{hide:[[jetpacksCommon],[0],[*]]},
+{hide:[[jetpacksCommon],[9001],[*]]},
+{hide:[[fluxpacksCommon],[9001],[*]]},
+{hide:[[mysteriousPotato],[0],[*]]},
+{hide:[[jetpackFueller],[0],[*]]},
+{keep:[[components],[0,21,22,23,24,25,70,71,72],[*]]},
+]}

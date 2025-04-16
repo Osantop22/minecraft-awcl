@@ -1,0 +1,6 @@
+{UndergroundBiomes:[
+{hide:[[*Egg],[*],[*]]},
+{hide:[[*ore*],[*],[*]]},
+{hide:[[*FullSlab],[*],[*]]},
+{hide:[[stairs],[0-55],[*]]},
+]}

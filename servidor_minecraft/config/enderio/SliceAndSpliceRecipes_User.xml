@@ -1,0 +1,14 @@
+<SliceAndSpliceRecipes>
+
+  <recipeGroup name="EnderIO" >
+    <recipe name="Electrode Skull" enabled="false">
+    </recipe>
+    <recipe name="Controller Skull" enabled="false">
+    </recipe>
+    <recipe name="Tormented Enderman Head" enabled="false">
+    </recipe>
+    <recipe name="Ender Resonator" enabled="false">
+    </recipe>
+  </recipeGroup>
+
+</SliceAndSpliceRecipes>

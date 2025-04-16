@@ -1,0 +1,17 @@
+{malisisdoors:[
+{hide:[[vanishing_block_diamond],[*],[*]]},
+{hide:[[saloon],[*],[*]]},
+{hide:[[*forcefield*],[*],[*]]},
+{hide:[[*item.custom_door*],[*],[*]]},
+{hide:[[rustyLadder],[*],[*]]},
+{hide:[[*FenceGate*],[*],[*]]},
+{hide:[[*null*],[*],[*]]},
+{hide:[[door_*],[*],[*]]},
+{hide:[[curtain_*],[*],[*]]},
+{hide:[[wood_sliding_door],[*],[*]]},
+{hide:[[iron_sliding_door],[*],[*]]},
+{hide:[[jail_door],[*],[*]]},
+{hide:[[laboratory_door],[*],[*]]},
+{hide:[[factory_door],[*],[*]]},
+{hide:[[shoji_door],[*],[*]]},
+]}

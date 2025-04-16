@@ -1,0 +1,25 @@
+{
+  "_name": "Pig",
+  "drops": [
+      {
+         "function":"add",
+         "id":"magicalcrops:1MinicioEssence",
+         "damage":0,
+         "count":0.05
+      },
+      {
+         "function":"add",
+         "id":"magicalcrops:PigEssence",
+         "damage":0,
+         "count":0.1
+      },
+      {
+         "function":"add",
+         "id":"Thaumcraft:ItemNuggetPork",
+         "damage":0,
+         "count":0.075
+      }
+   ],
+  "pre_stats": [],
+  "stats": []
+}

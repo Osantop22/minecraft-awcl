@@ -1,0 +1,23 @@
+{
+  "_name": "Sheep",
+  "drops":[
+      {
+         "function":"add",
+         "id":"magicalcrops:1MinicioEssence",
+         "damage":0,
+         "count":0.05
+      },
+      {
+         "function":"add",
+         "id":"magicalcrops:SheepEssence",
+         "damage":0,
+         "count":0.1
+      }
+   ],
+   "pre_stats":[
+
+   ],
+   "stats":[
+
+   ]
+}

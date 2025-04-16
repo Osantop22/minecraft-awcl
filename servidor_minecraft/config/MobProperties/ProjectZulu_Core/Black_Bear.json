@@ -1,0 +1,25 @@
+{
+  "_name": "ProjectZulu|Core.Black Bear",
+  "drops": [
+    {
+      "function": "add",
+      "id": "props:props",
+      "damage": 527,
+      "count": 0.1
+    },
+    {
+      "function": "add",
+      "id": "minecraft:wool",
+      "damage": 15,
+      "count": 0.5
+    },
+    {
+      "function": "add",
+      "id": "awakeningmeat:bear_raw",
+      "damage": 0,
+      "count": 0.25
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

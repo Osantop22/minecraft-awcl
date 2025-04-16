@@ -1,0 +1,19 @@
+{
+  "_name": "ProjectZulu|Core.RipperFin",
+  "drops": [
+    {
+      "function": "add",
+      "id": "TConstruct:strangeFood",
+      "damage": 1,
+      "count": 0.1
+    },
+    {
+      "function": "add",
+      "id": "awakeningmeat:ripperfin_raw",
+      "damage": 0,
+      "count": 0.25
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

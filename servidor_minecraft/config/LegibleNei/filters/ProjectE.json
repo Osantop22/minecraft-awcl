@@ -1,0 +1,10 @@
+{ProjectE:[
+{hide:[[item.pe_rm_katar],[0],[*]]},
+{hide:[[item.pe_rm_shears],[0],[*]]},
+{hide:[[item.pe_dm_shears],[0],[*]]},
+{hide:[[rm_furnace_lit],[0],[*]]},
+{hide:[[dm_furnace_lit],[0],[*]]},
+{hide:[[blockEnderRail],[0],[*]]},
+{hide:[[item.pe_time_watch],[0],[*]]},
+{hide:[[item.pe_archangel_smite],[0],[*]]},
+]}
